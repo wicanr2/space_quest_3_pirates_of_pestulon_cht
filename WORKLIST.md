@@ -95,16 +95,15 @@
 - git repo：本機 commit `453c5ac`（master 分支，patch-only 乾淨），**未推**
 
 ### 重開後 TODO（macOS + GitHub，使用者已同意 push）
-1. **分支改名 master→main**（空 repo 預設 main，雷 13）：`git branch -m master main`
-2. **設 remote**：`git remote add origin https://github.com/wicanr2/space_quest_3_pirates_of_pestulon_cht.git`
-3. **適配 macOS CI**（已複製 kq4 的 `.github/workflows/build-macos.yml`，**尚未改 kq4→sq3**）：
-   - workflow 內 6 處 kq4/KQ4 字樣改 sq3；套 SQ3 patches/0001 + fontchinese
-   - `tools/package_macos_data.sh`：kq4→sq3、**`kq4_title.ovl`→`sq3_title.ovl`**（雷 10：漏 ovl macOS 標題不顯）
-4. **commit workflow + push origin main**（雷 12：push 後 `git ls-remote origin main` 確認 HEAD 再觸發 CI）
-5. **macOS CI**：跑 build-macos → 派 haiku/sonnet 盯（`gh run watch --exit-status`，雷 11）→ 下載 engine-only artifact
-6. **macOS full 本機注入**（`tools/package_macos_full.sh`）：engine artifact + game/ + ROM + sq3_title.ovl + wrapper → dist-all
-7. **GitHub Release**：三平台 patch 版（Linux/Win patch + macOS patch）上 Release；full 版留本機
-8. gh gpg/gitignore：`*.ROM`、game/ 已 ignore；確認 Release 資產無 resource.*/ROM
+1. ✅ **分支改名 master→main**
+2. ✅ **設 remote** origin
+3. ✅ **適配 macOS CI**：`.github/workflows/build-macos.yml`（kq4→sq3、artifact sq3-cht-macos）+
+   `tools/package_macos_data.sh`（`sq3_title.ovl`）+ `tools/package_macos_full.sh`（小寫 resource.*、SQ3 路徑/名、去 BOBALU）。patch 對 pristine `patch -p1 --dry-run` 全 14 檔 EXIT=0
+4. ✅ **commit + push origin main**（9e4d672，`git ls-remote` 已確認 remote HEAD 一致）
+5. ⏳ **macOS CI**：run `29195602744` 建置中（背景 `gh run watch` 監看）→ 完成後下載 `sq3-cht-macos` artifact
+6. ☐ **macOS full 本機注入**（`tools/package_macos_full.sh <ci-tar.gz>`）→ dist-all/macos
+7. ☐ **GitHub Release**：三平台 patch 版；full 版留本機
+8. ☐ 確認 Release 資產無 resource.*/ROM
 
 ### 環境備忘
 - MT-32 ROM：/home/anr2/cht/mt32/MT32_CONTROL.1987*.ROM + MT32_PCM.ROM
