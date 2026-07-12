@@ -81,3 +81,32 @@
 - [x] **狀態列/選單走 hi-res（menuBar=false）**：kBig5Width=10 會裁 16px 低解析字模；hi-res 20px=10px logical 正好塞標準 10px 列、銳利不切。狀態/選單列 fillRect+bitsShow 重繪 display，不殘影
 - [x] 根因記錄：Big5Font `loadPrefixedRaw(height)` 用建構子寫死 _big5Height，與 build_cht --size 不符會讀錯位→字沒 index→'?'；低解析 Big5Font 固定 16px 寬，kBig5Width<16 會裁
 - [x] AppImage 重建驗證：分數 hi-res 不切、對白/F1 密集、missing glyph 歸零
+
+## ⏸ 暫停點（2026-07-12，重開機前）— 重開後從這裡接續
+
+### 已完成
+- 翻譯：玩家可見內容 100%（剩 31 則是 SCI0 除錯選單/物件內部名，正確保留英文）
+- 字型定案（M5.5）：LSL2 方案 kBig5Width=10 / hi-res 20px；狀態列走 hi-res 塞標準列不切；對白密集
+- **本機 4 個包已好（dist-all/）**：
+  - SQ3-CHT-full-x86_64.AppImage（Linux full 14MB）
+  - SQ3-CHT-patch-x86_64.AppImage（Linux patch 11.5MB）
+  - SQ3-CHT-win64.zip（Windows full 12.9MB）
+  - SQ3-CHT-win64-patch.zip（Windows patch 10.4MB）
+- git repo：本機 commit `453c5ac`（master 分支，patch-only 乾淨），**未推**
+
+### 重開後 TODO（macOS + GitHub，使用者已同意 push）
+1. **分支改名 master→main**（空 repo 預設 main，雷 13）：`git branch -m master main`
+2. **設 remote**：`git remote add origin https://github.com/wicanr2/space_quest_3_pirates_of_pestulon_cht.git`
+3. **適配 macOS CI**（已複製 kq4 的 `.github/workflows/build-macos.yml`，**尚未改 kq4→sq3**）：
+   - workflow 內 6 處 kq4/KQ4 字樣改 sq3；套 SQ3 patches/0001 + fontchinese
+   - `tools/package_macos_data.sh`：kq4→sq3、**`kq4_title.ovl`→`sq3_title.ovl`**（雷 10：漏 ovl macOS 標題不顯）
+4. **commit workflow + push origin main**（雷 12：push 後 `git ls-remote origin main` 確認 HEAD 再觸發 CI）
+5. **macOS CI**：跑 build-macos → 派 haiku/sonnet 盯（`gh run watch --exit-status`，雷 11）→ 下載 engine-only artifact
+6. **macOS full 本機注入**（`tools/package_macos_full.sh`）：engine artifact + game/ + ROM + sq3_title.ovl + wrapper → dist-all
+7. **GitHub Release**：三平台 patch 版（Linux/Win patch + macOS patch）上 Release；full 版留本機
+8. gh gpg/gitignore：`*.ROM`、game/ 已 ignore；確認 Release 資產無 resource.*/ROM
+
+### 環境備忘
+- MT-32 ROM：/home/anr2/cht/mt32/MT32_CONTROL.1987*.ROM + MT32_PCM.ROM
+- scummvm-win/ 樹已建（556M，含 SQ3 改動）；scummvm-src/ 已編（含 SQ3 改動）
+- pinned upstream：patches/UPSTREAM_COMMIT.txt = 3d408ec
