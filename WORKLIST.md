@@ -114,7 +114,7 @@
 - [x] 6 包全部用 v1.1 資料重建（引擎不變、只換 translation.tsv+字型）：Linux full/patch、Windows full/patch、macOS full（CI 重跑注入+簽章）
 - [x] **Release v1.1**（取代 v1.0，含英文 crawl 缺陷修正）：4 patch 資產。https://github.com/wicanr2/space_quest_3_pirates_of_pestulon_cht/releases/tag/v1.1
 - [x] **推廣影片** `out/video/sq3_cht_promo.mp4`（41s，原版 MT-32 配樂 SDL disk-audio 錄、全中文畫面實機截圖）→ 本機自用、gitignore
-- [ ] （待定）v1.0 release 是否刪除（含英文 crawl 缺陷）
+- [x] **刪除 v1.0 release + tag**（含英文 crawl 缺陷，已被 v1.1 取代）；v1.1 為唯一 Latest
 
 ### 交付總覽（三平台 × 雙軌 = 6 包）
 | 平台 | patch（→ Release 公開） | full（→ 本機 dist-all） |
