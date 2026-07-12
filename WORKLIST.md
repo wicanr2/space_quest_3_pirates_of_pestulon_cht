@@ -100,10 +100,21 @@
 3. ✅ **適配 macOS CI**：`.github/workflows/build-macos.yml`（kq4→sq3、artifact sq3-cht-macos）+
    `tools/package_macos_data.sh`（`sq3_title.ovl`）+ `tools/package_macos_full.sh`（小寫 resource.*、SQ3 路徑/名、去 BOBALU）。patch 對 pristine `patch -p1 --dry-run` 全 14 檔 EXIT=0
 4. ✅ **commit + push origin main**（9e4d672，`git ls-remote` 已確認 remote HEAD 一致）
-5. ⏳ **macOS CI**：run `29195602744` 建置中（背景 `gh run watch` 監看）→ 完成後下載 `sq3-cht-macos` artifact
-6. ☐ **macOS full 本機注入**（`tools/package_macos_full.sh <ci-tar.gz>`）→ dist-all/macos
-7. ☐ **GitHub Release**：三平台 patch 版；full 版留本機
-8. ☐ 確認 Release 資產無 resource.*/ROM
+5. ✅ **macOS CI**：run `29195602744` conclusion=success（universal arm64+x86_64）→ 下載 `sq3-cht-macos` artifact（patch tar.gz + dmg）
+6. ✅ **macOS full 本機注入**（`package_macos_full.sh`）→ `dist-all/macos/SQ3-CHT-macos-universal-full.tar.gz`（19M，含 resource.*/雙 ROM/ovl/wrapper/修復.command）
+7. ✅ **GitHub Release v1.0**（公開，使用者確認）：Linux AppImage + Windows zip + macOS tar.gz/dmg 四資產。https://github.com/wicanr2/space_quest_3_pirates_of_pestulon_cht/releases/tag/v1.0
+8. ✅ **合規驗收**：patch 版（Release 4 資產 + 本機 patch）皆無 resource.*/ROM 且含 cht-data(含 sq3_title.ovl)；full 版（本機 3 平台）皆含 resource.* + ROM
+
+### ⚠ 待使用者於 Mac 端驗證（Linux 無法代測）
+- macOS **patch 版**（Release）：CI 建 universal 已驗 arch + 內容乾淨，但實機 SDL/Gatekeeper 只能在 macOS 測
+- macOS **full 版**（本機 dist-all）：注入為機械步驟、引擎已 CI 驗；整包需在 Mac 上跑一次 `修復-macOS.command` 再開 app 確認（第一性驗證，勿假設）
+
+### 交付總覽（三平台 × 雙軌 = 6 包）
+| 平台 | patch（→ Release 公開） | full（→ 本機 dist-all） |
+|---|---|---|
+| Linux | SQ3-CHT-patch-x86_64.AppImage | SQ3-CHT-full-x86_64.AppImage |
+| Windows | SQ3-CHT-win64-patch.zip | SQ3-CHT-win64.zip |
+| macOS | SQ3-CHT-macos-universal.tar.gz/.dmg | macos/SQ3-CHT-macos-universal-full.tar.gz |
 
 ### 環境備忘
 - MT-32 ROM：/home/anr2/cht/mt32/MT32_CONTROL.1987*.ROM + MT32_PCM.ROM
