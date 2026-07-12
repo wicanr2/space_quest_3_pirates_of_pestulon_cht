@@ -109,6 +109,13 @@
 - macOS **patch 版**（Release）：CI 建 universal 已驗 arch + 內容乾淨，但實機 SDL/Gatekeeper 只能在 macOS 測
 - macOS **full 版**（本機 dist-all）：注入為機械步驟、引擎已 CI 驗；整包需在 Mac 上跑一次 `修復-macOS.command` 再開 app 確認（第一性驗證，勿假設）
 
+## v1.1（2026-07-12）— crawl 補譯 + promo 影片
+- [x] **實機 playtest 揪出開場/過場 crawl 全漏譯**（script 內嵌多行、抽字拆裂丟棄）→ 補譯 18 筆（`tools/build_crawl_fixups.py`），實測中文渲染 OK
+- [x] 6 包全部用 v1.1 資料重建（引擎不變、只換 translation.tsv+字型）：Linux full/patch、Windows full/patch、macOS full（CI 重跑注入+簽章）
+- [x] **Release v1.1**（取代 v1.0，含英文 crawl 缺陷修正）：4 patch 資產。https://github.com/wicanr2/space_quest_3_pirates_of_pestulon_cht/releases/tag/v1.1
+- [x] **推廣影片** `out/video/sq3_cht_promo.mp4`（41s，原版 MT-32 配樂 SDL disk-audio 錄、全中文畫面實機截圖）→ 本機自用、gitignore
+- [ ] （待定）v1.0 release 是否刪除（含英文 crawl 缺陷）
+
 ### 交付總覽（三平台 × 雙軌 = 6 包）
 | 平台 | patch（→ Release 公開） | full（→ 本機 dist-all） |
 |---|---|---|
