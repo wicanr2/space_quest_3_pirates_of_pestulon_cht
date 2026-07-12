@@ -1,56 +1,66 @@
 #!/usr/bin/env bash
 set -eu
-# ===== 設計 token（KQ4 童話：鎏金 + 深藍紫）=====
-BGD='#0b1030'; BGD2='#1a1848'; GOLD='#d8b24a'; GOLDSH='#7a5c14'; BLOOD='#a3231a'; CREAM='#f2ead2'
+# ===== 設計 token（SQ3 科幻太空：深藍黑 + EGA 青綠 + 琥珀金 + 海盜紅）=====
+BGD='#040814'; BGD2='#0a1630'; GOLD='#e0b048'; GOLDSH='#6e5010'; CYAN='#3fc8c0'; BLOOD='#c23a2a'; CREAM='#eef2ea'
 FB='/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc'
 FR='/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc'
 W=1280; H=720; FPS=25; SHOT=/shots; MUS=/music; OUT=/out; TMP=/tmp/c; mkdir -p "$TMP" "$OUT"
 
 card(){ # $1 out $2 中標 $3 英標 $4 副標
   convert -size ${W}x${H} "radial-gradient:${BGD2}-${BGD}" -font "$FB" -gravity center \
-    -fill "$GOLDSH" -pointsize 96 -annotate +4+4 "$3" -fill "$GOLD" -pointsize 96 -annotate +0+0 "$3" \
-    -fill "$CREAM" -pointsize 60 -annotate +0+96 "$2" \
-    -fill "$BLOOD" -font "$FR" -pointsize 30 -annotate +0+178 "$4" "$1"; }
+    -fill "$GOLDSH" -pointsize 92 -annotate +4+4 "$3" -fill "$GOLD" -pointsize 92 -annotate +0+0 "$3" \
+    -fill "$CREAM" -pointsize 58 -annotate +0+94 "$2" \
+    -fill "$CYAN" -font "$FR" -pointsize 30 -annotate +0+172 "$4" "$1"; }
 slide(){ # $1 out $2 screenshot $3 字幕
   convert -size ${W}x${H} "gradient:${BGD2}-${BGD}" "$TMP/bg.png"
-  convert "$SHOT/$2" -resize x574 -bordercolor "$GOLD" -border 3 "$TMP/sc.png"
-  convert "$TMP/bg.png" \( "$TMP/sc.png" \) -gravity north -geometry +0+22 -composite \
+  convert "$SHOT/$2" -resize x582 -bordercolor "$GOLD" -border 2 "$TMP/sc.png"
+  convert "$TMP/bg.png" \( "$TMP/sc.png" \) -gravity north -geometry +0+18 -composite \
     -fill "#000000aa" -draw "rectangle 0,642 ${W},720" \
     -font "$FR" -fill "$CREAM" -gravity south -pointsize 34 -annotate +0+28 "$3" "$1"; }
 compare(){ # $1 out $2 en.png $3 cht.png $4 字幕 —— 左英右中對照
   convert "$SHOT/$2" -resize 512x384 -bordercolor '#888' -border 2 "$TMP/l.png"
   convert "$SHOT/$3" -resize 512x384 -bordercolor "$GOLD" -border 2 "$TMP/r.png"
-  # 小標
   convert "$TMP/l.png" -gravity north -background '#00000000' -splice 0x34 -font "$FR" -fill '#cfcfcf' -pointsize 26 -annotate +0+4 '英文原版' "$TMP/l2.png"
   convert "$TMP/r.png" -gravity north -background '#00000000' -splice 0x34 -font "$FR" -fill "$GOLD" -pointsize 26 -annotate +0+4 '繁體中文化' "$TMP/r2.png"
   convert "$TMP/l2.png" "$TMP/r2.png" +append "$TMP/lr.png"
   convert -size ${W}x${H} "gradient:${BGD2}-${BGD}" \( "$TMP/lr.png" \) -gravity center -geometry +0-28 -composite \
     -font "$FR" -fill "$CREAM" -gravity south -pointsize 36 -annotate +0+40 "$4" "$1"; }
-kb(){ # $1 png $2 mp4 $3 秒 —— 靜態 + fade（不用 zoompan）
+kb(){ # $1 png $2 mp4 $3 秒 —— 靜態 + fade（不用 zoompan，省 CPU）
   local FO; FO=$(awk "BEGIN{print $3-0.6}")
   ffmpeg -y -loglevel error -loop 1 -i "$1" -t "$3" -r $FPS \
     -vf "fade=t=in:st=0:d=0.6,fade=t=out:st=$FO:d=0.6,format=yuv420p" \
     -threads 2 -c:v libx264 -preset veryfast -pix_fmt yuv420p "$2"; }
 
-# ===== 分鏡 =====
-card    "$TMP/00.png" '國王密使 IV：羅塞拉的冒險' "King's Quest IV" 'Sierra 1988 · SCI0 EGA · 繁體中文化'
-slide   "$TMP/01.png" title_cht.png     '經典紅金 logo 下，並存中文標題「羅塞拉的冒險」'
-compare "$TMP/02.png" narr_en.png narr_cht.png '開場敘述 —— 全程實機中文，hi-res 銳利'
-slide   "$TMP/03.png" narr_cht.png      '亞歷山大歸來、羅塞拉獲救 —— 童話奇幻，自然口語'
-slide   "$TMP/04.png" copyprot_cht.png  '開場防拷中文化 · 附萬用通關碼 BOBALU'
-slide   "$TMP/05.png" beach.png         '羅塞拉漂流至塔米亞，一日冒險就此展開'
-card    "$TMP/99.png" '全文字繁中化 · 2144 則' 'The Perils of Rosella' 'github.com/wicanr2/kq4-dos-cht · 致敬 Roberta Williams'
+# ===== 分鏡（只納入存在的截圖）=====
+ORDER=(); declare -A SEC
+add(){ ORDER+=("$1"); SEC[$1]=$2; }
+
+card "$TMP/00.png" '宇宙傳奇 III：佩斯圖倫的海盜' "SPACE QUEST III" 'Sierra 1989 · SCI0 EGA · 繁體中文化'
+add 00 5
+
+# 標題中文副標疊圖
+if [ -f "$SHOT/title_cht.png" ]; then slide "$TMP/01.png" title_cht.png '經典 SPACE QUEST 標題下，疊上中文副標'; add 01 5; fi
+# 開場中文旁白 crawl（最亮點：hi-res 銳利中文）
+if [ -f "$SHOT/intro_crawl_cht.png" ]; then slide "$TMP/02.png" intro_crawl_cht.png '開場旁白全中文 —— 清潔工羅傑的星際逃亡'; add 02 7; fi
+# 遊戲內中文對白
+if [ -f "$SHOT/ingame_cht_01.png" ]; then slide "$TMP/03.png" ingame_cht_01.png '遊戲內對白中文化，台式在地化改寫笑點'; add 03 6; fi
+# F1 中文操作說明
+if [ -f "$SHOT/f1_help_cht.png" ]; then slide "$TMP/04.png" f1_help_cht.png '按 F1 顯示繁中操作說明，新手也上手'; add 04 6; fi
+# Sierra logo / credits 補充
+if [ -f "$SHOT/credits.png" ]; then slide "$TMP/05.png" credits.png '仙女座雙傑 Scott Murphy 與 Mark Crowe 的惡搞經典'; add 05 5; fi
+
+card "$TMP/99.png" '全文字繁中化 · 1384 則' 'The Pirates of Pestulon' 'github.com/wicanr2 · 致敬 Scott Murphy & Mark Crowe'
+add 99 7
 
 # ===== concat =====
 LIST="$TMP/list.txt"; : > "$LIST"
-declare -A SEC=( [00]=5 [01]=6 [02]=8 [03]=6 [04]=6 [05]=6 [99]=7 )
-for f in 00 01 02 03 04 05 99; do kb "$TMP/$f.png" "$TMP/s_$f.mp4" "${SEC[$f]}"; echo "file '$TMP/s_$f.mp4'" >> "$LIST"; done
+for f in "${ORDER[@]}"; do kb "$TMP/$f.png" "$TMP/s_$f.mp4" "${SEC[$f]}"; echo "file '$TMP/s_$f.mp4'" >> "$LIST"; done
 ffmpeg -y -loglevel error -f concat -safe 0 -i "$LIST" -threads 2 -c:v libx264 -preset veryfast -pix_fmt yuv420p "$TMP/silent.mp4"
 DUR=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$TMP/silent.mp4"); FO=$(awk "BEGIN{print $DUR-3}")
-# ===== 鋪原版 MT-32 配樂（aloop 循環，不用 -shortest）=====
-ffmpeg -y -loglevel error -i "$TMP/silent.mp4" -i "$MUS/kq4_bgm.wav" \
+# ===== 鋪原版 MT-32 配樂（aloop 循環，不用 -shortest，見 kb 慘雷）=====
+ffmpeg -y -loglevel error -i "$TMP/silent.mp4" -i "$MUS/sq3_bgm.wav" \
   -filter_complex "[1:a]aloop=loop=-1:size=2000000000,atrim=0:$DUR,afade=t=in:st=0:d=2,afade=t=out:st=$FO:d=3[a]" \
   -map 0:v -map "[a]" -threads 2 -c:v libx264 -preset veryfast -c:a aac -b:a 192k -movflags +faststart \
-  "$OUT/kq4_cht_promo.mp4"
-echo "=== 完成 ==="; ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT/kq4_cht_promo.mp4"
-ffprobe -v error -select_streams a -show_entries stream=codec_name -of csv=p=0 "$OUT/kq4_cht_promo.mp4"
+  "$OUT/sq3_cht_promo.mp4"
+echo "=== 完成 ==="; ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT/sq3_cht_promo.mp4"
+echo "分鏡: ${ORDER[*]}"

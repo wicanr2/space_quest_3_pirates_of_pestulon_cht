@@ -17,7 +17,8 @@ Space Quest III: The Pirates of Pestulon（SCI0 EGA）ScummVM 繁體中文化。
 | 引擎讀取檔名（寫死） | `translation.tsv`、`qfg1_big5.fnt`、`qfg1_big5_hi.fnt`、`sq3_title.ovl`（沿用 qfg-1 檔名，放 game path） |
 | MT-32 | `mt32.drv` 原盤內附 → enable MT-32（configure 不帶 `--disable-mt32emu`） |
 | **標題 pic** | **pic 926**（SPACE QUEST logo）。`paint16.cpp drawPicture` hook：`pictureId==926 && ZH_TWN` blit `sq3_title.ovl`。**SQ3 標題是動畫繪製（logo 以 view 疊在 pic 上）→ 頂部疊圖被覆蓋，中文副標放底部 plaque（grid 上、copyright 上方，y=352）才存活** |
-| 覆蓋率 | 1366/1397（97%）；其餘刻意保留英文（parser 指令/除錯變數/專名） |
+| 覆蓋率 | **1384/1415（97%）**；其餘刻意保留英文（parser 指令/除錯變數/專名/反轉文字 gag/credits 角色標籤） |
+| **過場 crawl 補譯（2026-07-12 promo 擷取時揪出）** | 開場旁白、逃生艙漂流、黑洞穿越、次光速、星球掃描讀數、片尾致謝等 **script 內嵌硬 `\n` 多行 crawl**，抽字時被 skeleton 拆成碎片、build 因無 tab 丟棄 → 從未進 translation.tsv → 實機全顯英文（WORKLIST 曾誤記「開場旁白中文 ✅」）。修：`tools/build_crawl_fixups.py` 從 script dump 定位確切原文 → `\s+→單空格+trim` 算正規化 key（與引擎 `sciChtNormKey` 一致，sci.cpp:886）→ 配台式在地化譯文共 18 筆，append 進 skeleton（zz_crawls.done batch）。headless 實測開場旁白 hi-res 中文渲染 OK。**教訓：script 內嵌多行資源（\n 分行）易被逐行工具拆裂漏掉；playtest 實機才揪得出（CLAUDE.md ⑨）** |
 | **字型尺寸** | 採 LSL2 方案：`kBig5Width=10`（advance）、hi-res `kHiW/kHiH=20`（20px=10px logical，密集但夠大）；bake `--size 18 --height 20 --width 20`（bake_hires 用 ceil stride 支援非 8 倍數）；build_cht `--size 14`（對齊建構子 _big5Height init，低解析僅 fallback）。**狀態列/選單走 hi-res（menuBar=false），offTop=10 不下推畫面**——kBig5Width=10 下 16px 低解析會裁，hi-res 10px logical 正好塞標準 10px 列 |
 | **選單/狀態列** | 選單列標題（動作/速度/音效）走 GfxText16 已中文；`ports.cpp` ZH_TWN 選單列加高 9→15px 防中文溢出殘影；`text16.cpp DrawStatus` 修雙位元組合併（原逐 byte 繪 → Big5 lead byte 洩漏 font.0「missing glyph」亂碼）→ 狀態列「分數」中文、missing glyph 歸零 |
 | **F1 新手說明** | SQ3 無內建指令教學 → `event.cpp` 攔 F1（ZH_TWN）呼叫 `SciEngine::showChtHelp()`（sci.cpp）：`bitsSave`+白框+**逐行 `GfxText16::Draw` hi-res 銳利繪製（行距 13px 密集、白框依 StringWidth 收緊置中）**（文字在 translation key `SQ3_CHT_HELP`）+等按鍵+`bitsRestore`。`_inChtHelp` 防重入 |
