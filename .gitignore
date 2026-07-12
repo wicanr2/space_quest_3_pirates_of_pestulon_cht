@@ -1,0 +1,46 @@
+# 遊戲原始資源（不散佈，patch-only）
+game/
+extract/
+*.zip
+*.rar
+*.7z
+
+# 版權 ROM（絕不入庫）
+*.ROM
+
+# build 產物與完整包（含遊戲/ROM，只在本機）
+scummvm-src/
+build/
+dist-all/
+out/shots/*.png
+out/*.ppm
+out/video*/
+
+# 翻譯中間產物（正本在 dist-cht/ 與 translation/translation_utf8.tsv）
+translation/batch/
+translation/batch_src/
+translation/done/
+translation/*_skeleton.tsv
+translation/prefill.tsv
+translation/script_strings.json
+
+# 暫存
+*.pyc
+__pycache__/
+
+# 打包工具二進位快取
+tools/.cache/
+
+# 保留在 repo：dist-cht/（patch 資料）、manual_cht/（中文手冊）、screenshots/、
+# README.md、BUILD.md、CONTEXT.md、WORKLIST.md、patches/、tools/、docker/、
+# translation/translation_utf8.tsv、translation/INSTRUCTIONS.md
+
+# 原始解壓遊戲（含 RESOURCE.*，不入庫）
+game_extract/
+# Windows/mingw 源碼樹（大、非 patch，從 scummvm-src 複製）
+scummvm-win/
+# 其他 build 產物
+out/
+build/
+*.AppImage
+*.zip

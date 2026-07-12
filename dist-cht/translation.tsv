@@ -1,0 +1,1366 @@
+ Score: %d of %d%13s%s%1s	 分數：%d / %d%13s%s%1s
+Memory fragmented.	記憶體零碎化。
+OK.	好的。
+This isn't a text adventure!	這又不是文字冒險遊戲！
+OK, you wear the belt.	好，你繫上腰帶。
+You're already wearing it.	你已經穿戴著了。
+First, you need to wear it.	你得先穿戴上才行。
+The belt is now completely out of power.	腰帶的電力已經完全耗盡。
+Looking at the belt, you notice that the power supply is very low. You decide to hold off until you really need it.	你看了看腰帶，發現電力所剩無幾。你決定先留著，等真的需要時再用。
+You're already wearing them.	你已經穿戴著了。
+Not a good idea, considering your location.	以你現在所處的位置來說，這可不是個好主意。
+You decide to leave the ring in the relative safety of your pocket.	你決定把戒指留在口袋裡，那裡相對安全。
+I'll get naked if you get naked. You go first.	你脫我就脫，你先來。
+On second thought, it looks pretty silly.  Let's not.	仔細一想，這樣看起來蠻蠢的，還是算了。
+It's on the end of your pole.	它就在你的竿子頂端。
+Look out, it's low on power.	小心，電力不足了。
+The terminator's invisibility belt is now completely out of power.	魔鬼終結者的隱形腰帶電力已經完全耗盡。
+You don't have one of those.	你沒有那種東西。
+Forget it. Think of something else.	算了吧，想點別的辦法。
+That doesn't seem to be available.	那個好像用不了。
+You already have it.	你已經擁有它了。
+You smell nothing of note.	你沒聞到什麼特別的味道。
+Keep it to yourself.	你自己心裡有數就好。
+You can't	你沒辦法
+Not now.	現在還不行。
+Sorry. We don't do running.	抱歉，這遊戲不能用跑的。
+Hey, trashmouth! Don't be saying that shit!	嘿，嘴巴放乾淨點！別滿口髒話！
+Hey! What kind of talk is that?	嘿！你這是什麼話！
+Try another word. Apparently, "%s" isn't in the Andromedan dictionary.	換個詞試試看，看樣子「%s」不在仙女座字典裡。
+Do me a favor and try rephrasing that thought.	幫個忙，換句話說說看。
+Pardon me. This program is too stupid to glean your desire from such a wonderfully crafted sentence. Please try something else.	不好意思，這程式太笨了，看不懂你這句精心雕琢的句子想表達什麼，麻煩換句話說。
+You possess %d of these nifty monetary units known as `Buckazoids'.	你身上有 %d 枚這種俗稱『太空幣』的好用貨幣單位。
+It's not quite within reach.	它就是搆不著。
+You've accomplished that task.	這件事你已經做過了。
+You see nothing special.	你沒看到什麼特別的東西。
+That's not possible now.	現在還辦不到。
+You don't have it.	你沒有。
+The pod, considered to be nothing more than another piece of scrap, is taken aboard a robot commanded garbage freighter. Unfortunately these robots have no regard for organics.	這艘逃生艙被當成廢鐵的一部分，被機器人操控的垃圾貨輪給撿了上去。可惜這些機器人完全不懂得憐香惜玉，對有機生物毫不留情。
+Check again! It IS closed.	再檢查一次！它「就是」關著的！
+This task is impossible since the door is sealed from the inside and there is no light emanating from within.	這件事辦不到，門從裡面被封死了，裡頭連一點光都透不出來。
+The window is clear enough to reveal the blackness inside.	窗戶夠透明，能看清裡頭一片漆黑。
+The solidly built door looks to be locked in place.	這扇厚實的門看起來被鎖死了。
+The pod's thrusters are very small, designed for minimal attitude adjustments. They have been cold for a long time.	逃生艙的推進器很小，只用來做些微姿態調整，而且早就冷掉很久了。
+This is the escape pod which safely whisked you away from Vohaul's burning asteroid fortress. The skin of the pod plainly registers the cumulative damage long periods of space travel can inflict on a small craft such as this.	這是當初帶你安全逃離沃霍爾燃燒中的小行星要塞的逃生艙。艙體表面清楚寫著長途太空旅行對這種小型艙體所累積造成的傷害。
+You are standing in a debris-cluttered junk bay. An escape pod rests in the middle of the room. There are chunks of metal lying around which seem to be small sections of old spaceware.	你站在一個堆滿殘骸的廢料艙裡。一艘逃生艙停在房間正中央，四周散落著幾塊金屬碎片，看起來是老舊太空船的零件。
+The room bears a very metallic fragrance.	這房間散發出一股濃濃的金屬味。
+The door was automatically sealed when the pod shut down shortly after your exit. It has served its purpose and will be of no further use.	你離開後不久逃生艙就關閉了，艙門也跟著自動封死。它已經完成任務，不會再有用處了。
+Despite technological advances in strong, lightweight ship materials, you can't possibly budge it.	儘管科技在輕量高強度船體材料上已經突飛猛進，你還是完全推不動它。
+It's not available for your use.	這個你用不了。
+If YOU could break the glass, it and you would not have survived the journey here.	如果連「你」都打得破這片玻璃，那它跟你根本撐不過這趟旅程。
+You are unable to scale it.	你爬不上去。
+You are unable to scale anything here.	這裡沒有什麼東西讓你爬。
+It is locked. You are unable to gain access.	它被鎖住了，你進不去。
+Where Do You What To Start? (Press ESC to Stay Here)	你想從哪裡開始？(按 ESC 留在這裡)
+You notice that the sounds from the pod grow softer until they are imperceptible. Having served its purpose and taxed its resources, the pod gives a final hum and shuts down.	你注意到逃生艙的聲音漸漸變弱，直到完全聽不見。耗盡了資源、完成了使命，逃生艙發出最後一聲嗡鳴，就此關閉。
+Sensing an adequate surface the claw releases its cargo and begins the ascent to the grabber unit.	鐵爪偵測到合適的地面後，放下了手中的貨物，開始朝抓取裝置的方向升起。
+The claw senses contact with the warp motivator, grasps it firmly, and begins the ascent back to the grabber.	鐵爪偵測到與曲速引動器接觸，牢牢抓住後，開始朝抓取裝置的方向升起。
+Finding nothing here to carry, the claw begins the ascent to the grabber unit.	鐵爪在這裡找不到可以搬運的東西，於是開始朝抓取裝置的方向升起。
+It looks like the warp motivator you saw on the Aluminum Mallard's Status Computer. Sturdily constructed, its only protrusion is a modular plug near its base.	看起來就是你在鋁製野鴨號的狀態電腦上看到的曲速引動器。它構造相當堅固，唯一突出的部分是底座附近的一個模組化插頭。
+A closer look at the object on the floor reveals that it is a warp motivator. It looks a bit more high-tech than the other junk strewn about this locale. Sturdily constructed, its only protrusion is a modular plug near its base.	湊近一看，地上的物體原來是個曲速引動器，看起來比這裡散落的其他破爛還要高科技一些。它構造相當堅固，唯一突出的部分是底座附近的一個模組化插頭。
+The eight-pronged plug protrudes only slightly from the motivator's exterior.	這個八爪插頭只從引動器外殼微微突出。
+The floor is composed of a mosaic of overlapping welded steel plates. The menage of used metal plates appear to have been cut from a variety of sources. There is a small round object lying nearby.	地板是由一片片焊接的鋼板拼接而成，這堆雜七雜八的舊金屬板顯然是從各種不同的地方裁切拼湊來的。附近躺著一個小小的圓形物體。
+You aren't capable of doing that.	你辦不到這件事。
+While relatively small, it seems to be quite dense. I think we're looking at a potential hernia if any attempts are made to manually relocate it.	雖然體積不大，但看起來密度驚人。要是想徒手搬動它，八成會把自己閃到腰。
+You can't. It's permanently attached.	不行，它是永久固定的。
+Bending aside a thin piece of scrap, you find an opening into another area and climb on in.	你把一片薄薄的廢料掰到一旁，發現了一個通往另一區的開口，便爬了進去。
+This bulbous craft looks like it has seen a lot of action in its day. You believe it to be a bowtie fighter dating back to the cologne wars - a true relic.	這艘圓滾滾的飛船看起來身經百戰，你猜這是可以追溯到『古龍水之戰』時期的蝴蝶結戰機——一件貨真價實的古董。
+This on is another fine, but worthless, Acme product.	這又是一件精美但一文不值的艾克米公司產品。
+This ship says Jupiter 2. This baby must have been floating around out there for a long time. It doesn't hold your interest for very long.	這艘船上寫著『朱庇特二號』。這艘老骨頭想必已經在外頭漂流很久了，不過你對它實在提不起太大興趣。
+None are visible.	沒看到任何東西。
+It looks like your standard low-tech ascent/descent unit.	看起來就是標準款、低科技的升降裝置。
+It's not visible from here.	從這裡看不到。
+You can see down into the hole you once passed through. Nothing much can be seen from here.	你可以往下看到你之前經過的那個洞，不過從這裡也看不出什麼名堂。
+You can't from here.	從這裡不行。
+The limited detail you make out through the ship's film-laden viewport is enough to convince you that everything of worth has been harvested.	你透過船艦滿是塵垢的觀景窗只能看出模糊細節，但這就足以讓你確定：值錢的東西早被搜刮一空了。
+The square object looks like an empty component cover for some craft. It covers nothing but deck now.	這個方形物體看起來像某艘飛船的零件護蓋，如今空空如也，只蓋著甲板。
+You see nothing but riveted steel.	你只看到滿是鉚釘的鋼板。
+Various types of abandoned spacecraft litter the floor of this intergalatic junkyard. All this place needs is a junk yard dog. You shiver at the thought.	各式各樣的廢棄太空船散落在這座星際垃圾場的地面上。這地方就差一隻看門狗了。想到這你不禁打了個寒顫。
+You can't do that, nor would it be helpful.	你辦不到，就算辦得到也沒用。
+You hear the faint sound of machinery in operation.	你聽見機械運轉的微弱聲響。
+There is no visible means of entry.	這裡看不出有任何入口。
+You are not skilled in ship climbing.	你不是攀爬太空船的高手。
+It's against your nature to do that.	這種事不符合你的個性。
+Don't waste your time with that stupid box.	別浪費時間在那個蠢箱子上。
+Not from here.	從這裡不行。
+There is no ladder here to climb.	這裡沒有梯子可以爬。
+There is nothing to climb into.	沒有東西可以爬進去。
+That would be fruitless. Don't bother.	這樣做只是白費力氣，別自找麻煩了。
+You grab the ladder and jam it in your pocket.	你抓起梯子，硬塞進口袋裡。
+Ouch!	哎唷！
+It's not here to be gotten.	這裡沒有東西可拿。
+There is no ladder here.	這裡沒有梯子。
+You ease your way into the hole.	你小心翼翼地鑽進洞裡。
+Unfortunately, the fall was too much for your frail frame to withstand.	很不幸，這一摔你那副弱不禁風的身子骨承受不住。
+Sensing the floor the claw releases its cargo and begins the ascent to the grabber unit.	感應到地面後，機械爪鬆開了手中的貨物，開始朝抓取裝置上方爬升。
+Finding nothing here the claw begins to ascend to the grabber unit.	機械爪在這裡沒找到東西，於是開始朝抓取裝置上方爬升。
+YEOW!	唉喲！
+It's obvious that the metal was sharper than you. The resulting laceration turns you into a living fountain - at least for a few moments. Unfortunately for you, this show was your finale. Good luck in the afterlife.	很顯然這塊金屬比你還利。傷口一開，你瞬間變成一座活體噴泉——至少撐了幾秒鐘。可惜對你來說，這場秀就是你的謝幕演出。祝你來世好運。
+This looks like some type of tunnel boring implement.	這看起來像某種挖隧道用的工具。
+This ship is another fine, but worthless, Acme product.	這艘船又是一件精美卻毫無用處的「艾克米」牌產品。
+Buckets are attached to a conveyer. They haul metal debris to a horizontal conveyer above.	一個個鏟斗固定在輸送帶上，將金屬殘骸運往上方的水平輸送帶。
+You are overwhelmed by the variety of space trash around each corner. A large bucket conveyer carries shredded ships to a horizontal conveyer high above.	四周角落堆滿了五花八門的太空垃圾，讓你看得眼花撩亂。一條巨大的鏟斗輸送帶正把碎裂的船體殘骸，運往高處的水平輸送帶。
+Somewhere there's an oversized android missing a limb.	某處有個少了一條肢體的巨型機器人。
+It says Jupiter 2. This baby must have been floating around out there for a long time. It doesn't hold your interest for very long.	上面寫著「木星二號」。這寶貝一定在外太空漂流很久了。不過你對它的興趣沒能維持多久。
+The viewport is too high. Besides, you'd not see anything interesting.	觀景窗太高了，而且就算看得到，也不會有什麼有趣的東西。
+Hoooo boy! It's a big one.	我的媽呀！這一個真不小。
+The item in question is just another piece in a fine collection of worthless junk carelessly splashed around the picture by the graphic artist. (You know who you are.)	這件東西不過是美術設計師隨手灑滿畫面的一堆廢物收藏中的一件而已。（你知道我在說誰。）
+You peer up and down the conveyer shaft. The view down is obstructed by the tight fit of the conveyer. The view up show it to lead to a horizontal conveyer above.	你朝輸送帶豎井上下張望。往下看，視線被緊貼的輸送帶擋住；往上看，可以看到它通往上方的水平輸送帶。
+That's not within your power.	這超出你能力範圍。
+Looks dangerous but go ahead, you thrill seeker, you. You'll need to get closer though.	看起來很危險，不過去吧，你這個愛找刺激的傢伙。不過你得先靠近一點才行。
+Sounds a little kinky. Maybe you should do that when no one else is around.	聽起來有點變態。也許你該找沒人的時候再做這件事。
+The item in question, which is just another piece in a fine collection of worthless junk carelessly splashed around the picture by the graphic artist, isn't needed by you.	這件東西不過是美術設計師隨手灑滿畫面的一堆廢物收藏中的一件，你用不著它。
+No.	不。
+Yeah, right! That's just what you need.	是喔，講得好像你很需要它一樣。
+Sensing the floor, the claw releases its cargo and begins the ascent to the grabber unit.	感應到地面後，機械爪鬆開手中的貨物，開始朝抓取裝置上方爬升。
+Finding nothing here, the claw begins to ascend to the grabber unit.	這裡沒找到東西，機械爪於是開始朝抓取裝置上方爬升。
+It's quite dark in there, but there is a light at the end of the tunnel.	裡面相當昏暗，不過隧道盡頭有一絲光亮。
+Not much remains. If there was anything of value, it was stripped away a long time ago.	剩下的東西不多了。就算曾經有什麼值錢貨，也早被搜刮一空。
+It looks to be another metallic menace whose time has come and gone. Hopefully, fate will be kinder to you.	看起來又是一台風光不再的金屬怪物。希望命運能對你好一點。
+Its metallic parts are frozen in place. I'll bet you're glad you weren't around when it was functional.	它的金屬零件已經卡死不動了。我敢說，還好你沒在它還能運作的時候出現在這裡。
+You are quite impressed by the size of this junk freighter. The skeletal remains of a stripped-down space tanker stage lie half buried in scrap.	這艘廢棄貨船的體積讓你印象深刻。一艘被拆得只剩骨架的太空油輪殘骸，半埋在廢鐵堆裡。
+It falls on non-existent ears.	可惜這裡沒有耳朵能聽見。
+The gutted ship is unsafe for any such action.	這艘被掏空的船不安全，不適合做這種事。
+You don't fit	你塞不進去
+You can't.	你辦不到。
+Let the poor thing rest in peace. It can't help you anyway.	讓這可憐的東西安息吧，反正它也幫不了你。
+You see another boring ceiling.	你又看到一片無聊的天花板。
+The walls are made of metal. Missing panels reveal old frayed wires.	牆壁是金屬打造的。缺損的面板露出裡面老舊磨損的電線。
+One panel lies wedged against the wall. The other remaining panels are welded in place and are quite uninteresting in appearance.	有一片面板卡在牆邊。其餘面板都被焊死在原位，外觀相當無趣。
+It's against the wall covering only more wall.	它就靠在牆上，蓋住的還是牆。
+You see another boring floor.	你又看到一片無聊的地板。
+Someone (or someTHING) has done a real job on this tanker. Was this the result of some space battle? Or perhaps you're not the only one roaming around in here.	有人（或者說「有什麼東西」）把這艘油輪搞得很慘。這是某場太空戰役留下的痕跡嗎？又或者，這裡遊蕩的不只有你一個。
+It looks to have survived better than its co-conductors.	它看起來比其他導線撐得久多了。
+Except for the one on the left, most of the wires here look dangerously worn.	除了左邊那條，這裡大部分的電線看起來都磨損得很危險。
+All the wires here look dangerously worn.	這裡所有的電線看起來都磨損得很危險。
+You see nothing but darkness.	你只看到一片黑暗。
+You only are able to see gray, furry blur. It looks like a rat.	你只能看到一團灰色毛茸茸的模糊影子，看起來像隻老鼠。
+The fur-bearing pocket prober isn't currently present.	那隻愛往口袋鑽的毛茸茸傢伙目前不在這裡。
+Funny. I don't see that in this picture.	奇怪，這畫面裡沒看到那東西。
+You don't notice a hole.	你沒發現有洞。
+The pipes are useless, as they are punctured in many places.	這些管子沒用了，上面到處都是破洞。
+There is nowhere for you to climb to.	沒有地方可以讓你往上爬。
+There are no decent wires within reach.	你搆得到的範圍內沒有像樣的電線。
+There is no other wire here worthy of your acquisition.	這裡沒有其他值得你拿走的電線了。
+They're useless.	它們沒用。
+The panel is of no use.	這片面板沒用。
+You take the only decent piece of wire available.	你拿走了這裡唯一一條像樣的電線。
+You seem to have been mugged by some type of large rat. As you pick loose fur from your teeth you notice a less bulky feeling.	你似乎被某種大老鼠打劫了。你從牙縫裡挑出鬆脫的毛，這才發現自己輕了不少。
+The gutted carcass of the tanker opens up to reveal even more junk. A metal head rests nearby.	油輪的空殼被掏空，露出更多垃圾。附近躺著一顆金屬頭。
+Wow! An ancient model of a Battlebot. I bet you'd hate to run into whatever brought this big guy down. It looks like something poked it in the eye.	哇！一台古董戰鬥機器人。你絕對不會想遇上把這大塊頭撂倒的東西。看起來有什麼戳了它的眼睛。
+There are two eyes on the battlebot head. One of them has been broken.	戰鬥機器人的頭上有兩隻眼睛，其中一隻已經破了。
+You can't see anything from down here.	你在這下面什麼都看不到。
+They're just small air ducts for the robot.	那只是機器人的小通風管。
+The pyramid is nothing more than a dense metallic protrusion.	這金字塔不過是一塊密實的金屬凸起物。
+The floor is composed of a mosaic of overlapping welded steel plates. The menage of used metal appears to have been cut from a variety of sources. The floor drops off near the large robot.	地面是一塊塊焊接鋼板拼成的馬賽克。這堆廢金屬看來是從各種來源切割拼湊而成。地面在大型機器人附近陡然斷落。
+The piles of scrap drop off here. It looks dark and dangerous down there.	這堆廢料在這裡斷落。下面看起來又暗又危險。
+It isn't a ship. It's an ancient model of a Battlebot. I bet you'd hate to run into whatever brought this big guy down. It looks like something poked it in the eye.	這不是一艘船，是一台古董戰鬥機器人。你絕對不會想遇上把這大塊頭撂倒的東西。看起來有什麼戳了它的眼睛。
+You can't from this location.	你在這個位置辦不到。
+You're intellectual profile may be slim, but you still are too thick to enter that.	你或許不太聰明，但身材還是太寬，鑽不進那裡。
+Whatever you say, Superman.	隨便你怎麼說，超人。
+Get closer.	靠近點。
+I don't think you're man enough!	我看你沒那個種！
+Sounds like you want to be doing something besides playing a dumb game.	聽起來你想做點別的事，而不是玩這蠢遊戲。
+You don't need to do that. Besides, one of them is already broken.	你不需要這麼做。再說，其中一個已經壞了。
+Oh, gosh! You've stepped off a metallic escarpment and tumbled into the darkness. Twisted, jagged remnants of old vehicles reach out to slow your dark descent, cutting short your life in the process.	哎呀！你踩空金屬峭壁，一頭栽進黑暗中。扭曲鋸齒狀的舊車殘骸伸出來想減緩你的墜落，順便也把你的小命給結束了。
+The floor is composed of a mosaic of overlapping welded steel plates. The menage of used metal appears to have been cut from a variety of sources. There is a small round object lying nearby.	地面是一塊塊焊接鋼板拼成的馬賽克。這堆廢金屬看來是從各種來源切割拼湊而成。附近躺著一個小圓形物體。
+All of the metal has very jagged edges but is, otherwise, fairly ordinary.	這些金屬邊緣都很鋸齒，除此之外相當普通。
+It looks like your basic hatch handle.	看起來就是個普通的艙門把手。
+You can't do that from down here.	你在這下面辦不到。
+It's a cute little thing. You've never seen anything like it in these parts, but then where are these parts? Some writing on its exterior reads `For a good time, don't call HAL!'	這小東西挺可愛的。你在這一帶從沒見過這種東西，不過話說回來，這裡到底算哪一帶？外殼上寫著：「想找樂子，別打給 HAL！」
+It's a cute little thing. You've never seen anything like it in these parts, but then where are these parts? Some writing on its exterior reads `Bowman was here.'	這小東西挺可愛的。你在這一帶從沒見過這種東西，不過話說回來，這裡到底算哪一帶？外殼上寫著：「鮑曼到此一遊。」
+It's a sleek-looking number if you can disregard the junk it's rooted in. It must be a recent addition to the collection as everything seems to be intact. Etched on each side is the name `ALUMINUM MALLARD'. On top is a small hatch.	若不去管它埋身的那堆垃圾，這艘船外型相當流線。看起來是最近才加進這堆收藏的，因為一切都還完好。船身兩側刻著「鋁製野鴨號」，頂上有個小艙口。
+You can't see them as they are buried in junk.	你看不到它們，因為都埋在垃圾裡了。
+You notice only the segmented spine-like neck of a former galactic menace.	你只看到一段昔日銀河威脅生物的分節脊椎狀頸部。
+The hole in the pod is so small that you are unable to discern any interior features.	艙體上的洞太小，你看不清內部的任何細節。
+You are at an unsuitable location for sucessfully viewing that.	你目前的位置不適合看清那個東西。
+The blackness of the pod's interior is broken only by a small quantity of light pouring through a tiny meteoroid hole.	艙內一片漆黑，只有一小道光從一個微隕石坑小洞透進來。
+You can make out a pilot's seat and a console. The aft end is dark.	你能看出一張駕駛座和一個控制台，後段則一片漆黑。
+The angle makes it impossible to see any detail.	這個角度讓你看不清任何細節。
+You can't see anything like that from here.	你在這裡看不到那樣的東西。
+You peer into the compartment and see the ship's motivator unit resting snugly in its perch.	你往艙室裡看，看見船的動力機組穩穩安置在座架上。
+You peer into the cavity in the top of the ship. The only noteworthy item is a modular plug in the bottom of the opening.	你往船頂的凹槽裡看，唯一值得注意的是開口底部的一個模組化插頭。
+You can't see it from here.	你從這裡看不到它。
+You can't. It's covered by the warp motivator.	你辦不到，它被曲速動力機組擋住了。
+It's the modular eight pin variety.	這是八針模組化的款式。
+You can't see it from down here.	你在這下面看不到它。
+They look like remnants of an orbital space station, or perhaps some type of toys for an over-sized child.	它們看起來像是軌道太空站的殘骸，或者是某種超大號小孩的玩具。
+It's a low-tech ascent/descent module.	這是個低科技的升降艙。
+It looks like the small round passage that it is.	看起來就是個小圓通道，本來就是。
+There are none of those here.	這裡沒有那種東西。
+There is nothing interesting about them.	它們沒什麼特別的。
+You find yourself at the bottom of another trash pit. An interesting array of alien artifacts is strewn from one end to the other. A large ship is in the middle and a small one is off to one side.	你發現自己在另一個垃圾坑的底部。各式各樣有趣的外星文物散落一地。中間是一艘大船，一旁是一艘小船。
+Get serious. We've got a game to play.	正經點，我們還有遊戲要玩呢。
+You can't. It's part of the ship.	你辦不到，那是船身的一部分。
+Forget it. They're buried too deeply. Besides, you're too old to be playing with toys - at least you should be!	算了吧，它們埋得太深了。再說，你這年紀不該還在玩玩具了——至少該是這樣才對！
+Ouch! (again)	哎唷！（又來了）
+You don't need it up here.	你在這上面用不到它。
+That's not here to be gotten.	這裡沒有可以拿的東西。
+Be more specific.	請說得更具體一點。
+I told you not to do that.	我早就叫你別這麼做了。
+It's too small for you.	這對你來說太小了。
+That won't help.	那沒用。
+That can't be done.	那辦不到。
+Nothing is done with that here.	這裡沒辦法對它做什麼。
+That isn't necessary.	沒這個必要。
+Check again.	再檢查一次。
+You're wasting your time messing with this relic.	你在這古董上瞎搞是在浪費時間。
+It won't work here.	這裡行不通。
+You don't have that.	你沒有那個東西。
+You can't. It's closed permanently.	你辦不到，它永遠關閉了。
+I don't think there is much of you that could fit into the seriously snug aperture.	你身上沒多少部位塞得進那個超級窄的開口。
+Not with it down there.	它在那下面的話不行。
+There is no ladder close enough to climb.	附近沒有梯子可以爬。
+There doesn't seem to be a ladder ready for scaling.	這裡似乎沒有現成的梯子可以攀爬。
+That would be great. If only someone had been smart enough to bring a ladder.	那可就太好了，可惜沒人聰明到會帶梯子來。
+There is no good way to scale the slick ship.	沒有好辦法能爬上這艘滑溜溜的船。
+You're not in a good location for climbing that.	你目前的位置不適合攀爬那個。
+That's not possible.	那不可能。
+The ship is too slick. You seem to remember an ectomorphic programmer friend telling you about ships with non-stick coatings for greater debris collision tolerance.	這艘船太滑了。你依稀記得一個瘦皮猴程式設計師朋友曾跟你提過，有些船會塗上不沾塗層以提高抗碎片碰撞能力。
+We warned you to be careful. Did you listen? Nooooo! Good luck next time.	我們警告過你要小心，你有聽嗎？沒──有！祝你下次好運。
+You got lucky this time.	這次算你走運。
+You move into position and, grabbing the dull finish of the hatch's handle, commence to open and enter the ship.	你移動到定位，抓住艙門手把上黯淡的金屬光澤，開始打開艙門走進船內。
+You notice it to be slick up here. Be careful.	你注意到這裡很滑，小心點。
+Sensing an adequate surface, the claw releases its cargo and begins the ascent to the grabber unit. The object thuds into place within the cavity of the ship.	感應到合適的表面後，機械爪放開貨物，開始朝抓取裝置上升。物體「咚」一聲落進船艙的凹槽裡。
+It's a cute little thing. You've never seen anything like it in these parts, but then where are these parts? Some writing on its exterior reads `For a good time, don't call HAL!'.	這東西小巧可愛。你在這一帶從沒見過這種東西，不過話說回來，這裡到底算哪一帶？外殼上寫著：「想找樂子，千萬別打給 HAL！」
+It's a cute little thing. You've never seen anything like it in these parts, but then where are these parts? Some writing on its exterior reads `Bowman was here'.	這東西小巧可愛。你在這一帶從沒見過這種東西，不過話說回來，這裡到底算哪一帶？外殼上寫著：「鮑曼到此一遊」。
+A system consisting of buckets and a conveyer (when running) hauls small pieces of scrap to the east.	一套由吊斗和輸送帶組成的系統（運轉時）會把小塊廢料運往東邊。
+A system consisting of buckets and a conveyer hauls small pieces of scrap to the east.	一套由吊斗和輸送帶組成的系統，把小塊廢料運往東邊。
+It's way down there and not very pretty.	那東西在下面很遠的地方，而且長得不怎麼樣。
+The only junk visible is the small amounts nestled in the conveyer buckets.	看得到的廢料只有窩在輸送帶吊斗裡的那一點點。
+You are standing on a narrow rail suspended high above the floor of the freighter. A conveyer system below leads to the right grinder. Be careful - it's a long way down.	你站在懸吊於貨輪地板上方高處的窄軌上。下方的輸送帶系統通往右側的碎裂機。小心——摔下去可是很遠的。
+This conveyer is no place for sight-seeing.	這輸送帶可不是觀光的地方。
+You are riding below a narrow rail suspended high above the floor of the freighter. A conveyer belt below leads to a shredder.	你正吊掛在懸於貨輪地板上方高處的窄軌下方移動。下方的輸送帶通往碎紙機。
+Right! Get real.	是喔！醒醒吧。
+You stepped off the rail! You're dead again. Way to go. Haven't we taught you anything?	你踩空摔下軌道了！你又死了。真有你的。我們難道什麼都沒教會你嗎？
+From your seat you see a handle, (presently being gripped by you) which controls Motion, and a button marked CLAW.	從座位上你看見一支控制「移動」的手把（目前正被你握著），還有一個標著「CLAW」的按鈕。
+You must stop the grabber before claw functions can be executed.	你必須先讓抓取裝置停下，才能執行機械爪的功能。
+That's already being done.	這件事已經在做了。
+It looks like something that would cradle your posterior nicely.	看起來這東西能穩穩地托住你的屁股。
+That would be unwise.	那樣做不太明智。
+The conveyer belt (now empty) transports small piles of debris to the shredder at the end.	輸送帶（目前是空的）會把一小堆一小堆的殘骸運到末端的碎紙機。
+Small piles of space junk make their way down the conveyer belt to a shredder.	一小堆一小堆的太空垃圾沿著輸送帶運往碎紙機。
+The debris here is portioned onto the conveyer which enters from the left. The small piles roll along until they interface with the shredder where, true to its name, all is shredded.	這裡的殘骸被分裝到從左側進來的輸送帶上。小堆殘骸一路滾動，最後碰上碎紙機——正如其名，全都被碎個精光。
+The shredder is a mean-looking device. When running, it mercilessly breaks debris down to many smaller pieces of debris.	碎紙機看起來凶狠十足。運轉時，它會毫不留情地把殘骸絞成更多更小的碎片。
+The shredder is a mean-looking device. It mercilessly breaks debris down to many smaller pieces of debris.	碎紙機看起來凶狠十足。它會毫不留情地把殘骸絞成更多更小的碎片。
+A number of pipes run through the area. They are of no significance.	這一帶有一些管線穿過，沒什麼特別的。
+You are standing on a narrow rail suspended high above the floor of the freighter. A conveyer belt below leads to a grinder. Be careful - it's a long way down.	你站在懸吊於貨輪地板上方高處的窄軌上。下方的輸送帶通往一台碎裂機。小心——摔下去可是很遠的。
+You can't climb that.	你爬不上去。
+Don't push it! You made it up here safely. Quit while you're ahead.	別得寸進尺！你能安全爬到這裡已經很不錯了，見好就收吧。
+It's not within your reach.	你的手構不到。
+While it might be tactilly stimulating, your cause won't be furthered.	摸起來或許挺有觸感，但對你的目標一點幫助也沒有。
+That doesn't look like a safe place to jump to.	那看起來不像是可以安全跳過去的地方。
+You can't from this position.	你在這個位置辦不到。
+Shredded like an Iran-Contra document, your many independent parts flutter to the bottom of the hopper. This is of little importance to you, what with your being dead and all.	你像伊朗門醜聞的機密文件一樣被碎得粉碎，四分五裂的殘骸飄落到料斗底部。不過反正你已經死了，這對你來說也無所謂了。
+You stepped off the conveyer. You're dead again. Way to go. Haven't we taught you anything?	你踩出輸送帶外了。你又死了。真有你的。我們難道什麼都沒教會你嗎？
+From your seat you see a handle, (presently being gripped by you) which controls motion, and a button marked CLAW.	從座位上你看見一支控制移動的手把（目前正被你握著），還有一個標著「CLAW」的按鈕。
+Due to a series of pipelines directly below you, the claw is programmed not to work here.	由於你正下方有一連串管線，機械爪被設定成在這裡無法運作。
+You are standing on a narrow rail suspended high above the floor at the far end of the freighter. It's a long way down to the junk piles below.	你站在懸吊於貨輪最遠端地板上方高處的窄軌上。往下摔到那堆廢料可是很遠的。
+You are riding below a narrow rail suspended high above the floor at the far end of the freighter. It's a long way down to the junk piles below.	你正吊掛在懸於貨輪最遠端地板上方高處的窄軌下方移動。往下摔到那堆廢料可是很遠的。
+It's an impressive piece of machinery. Unfortunately you have no idea what it is. Perhaps it is what emitted that tractor beam that brought you here. Or maybe it's some sort of giant trash masher. Or maybe the artist just thought it would look really cool hanging there. Yea, that's it! At any rate, I wouldn't waste any time trying to mess with it.	這是台氣派的機械。可惜你完全看不出它是幹嘛的。也許就是它發出把你吸進來的牽引光束。又或許它是某種巨型垃圾壓縮機。又或許只是美術覺得掛在那裡很酷而已。對，就是這樣！總之，我勸你別浪費時間去亂搞它。
+Sure, you're a devil-may-care kinda guy. This one, however, is beyond even your athletic aptitude.	沒錯，你是個天不怕地不怕的傢伙。不過這一關，已經超出你的運動細胞所能負荷了。
+You step on a part of the track which is extremely narrow and greasy. It obviously wasn't designed for human foot travel. It's a quick drop to the unforgiving surface below.	你踩上軌道上一段極窄又油膩的地方。這顯然不是設計給人類雙腳走的。接下來就是直直摔向下方那片毫不留情的地面。
+There is some light coming from passages through the west wall.	西邊牆上的通道透出一些光線。
+You are standing on a narrow rail suspended high above the floor of the freighter. It's a long way down to the junk piles below. There are two passages to the west.	你站在懸吊於貨輪地板上方高處的窄軌上。往下摔到那堆廢料可是很遠的。西邊有兩條通道。
+You are riding below a narrow rail suspended high above the floor of the freighter. It's a long way down to the junk piles below.	你正吊掛在懸於貨輪地板上方高處的窄軌下方移動。往下摔到那堆廢料可是很遠的。
+The claw can't operate here.	機械爪在這裡無法運作。
+It's not a model you've seen before. The droid appears to be dedicated to this work station. It seems harmless enough.	這不是你見過的型號。這台機器人似乎專職顧著這個工作站，看起來沒什麼威脅性。
+It is similar to the one you are currently viewing. The only difference is that you can't read what it says.	它和你現在看的那台很像，唯一的差別是你看不懂上面寫的字。
+Your view of the grabber from here reveals a Forward/Reverse control stick (currently grasped), and a button marked CLAW.	從這裡看向抓取裝置，你看見一支前進∕後退控制桿（目前正被握住），還有一個標著「CLAW」的按鈕。
+A grabber hangs beneath a rail. There is a seat for a driver. There is a claw underneath that looks capable of grabbing things.	一台抓取裝置懸掛在軌道下方，上面有駕駛座，下方還有一個看起來能夠抓取物品的機械爪。
+Your viewing angle doesn't allow that.	你這個角度看不到那個。
+It's hanging peacefully under the grabber.	它靜靜地掛在抓取裝置下方。
+Your not able to make it out here.	你在這裡看不清楚。
+You are grasping the control stick in your hand.	你手裡正握著控制桿。
+It looks like your standard directional control.	看起來是標準的方向控制裝置。
+The claw looks very much like something which would bear the name 'claw'. A set of opposing appendages is designed to grip an object by applying pressure from about its circumference in the direction of its center.	這機械爪長得非常符合「爪子」這個名字。一組相對的爪臂設計成能從物體周圍朝中心施力，藉此夾住東西。
+You seem to be covering all available seat surface area making viewing impossible.	你似乎把座位表面全部擋住了，根本看不到。
+On the south side of the room is a chute. A platform extends from its edge.	房間南側有一個滑槽，邊緣延伸出一個平台。
+On the south side of the room is a chute which leads to who-knows-where. A platform extends from its edge.	房間南側有一個通往不知名處的滑槽，邊緣延伸出一個平台。
+The rail is supported by beams hanging from the ceiling. The grabber hangs below it.	軌道由懸掛在天花板上的橫樑支撐，抓取裝置就掛在軌道下方。
+The walls are made of metal and very strong composite materials commonly used in spacecraft.	牆壁是用金屬和太空船常用的高強度複合材料製成的。
+In this room the rail makes a U-turn. There is a chute at the bottom. In the middle are panels of monitoring devices being tended to by a droid.	在這個房間裡，軌道呈 U 字形轉彎。底部有一個滑槽，中間則有一排監控面板，正被一台機器人照看著。
+In this room the rail makes a U-turn. There is a machine here which hangs under the rail. There is a chute at the bottom. In the middle are panels of monitoring devices being tended to by a droid.	在這個房間裡，軌道呈 U 字形轉彎，有一台機械懸掛在軌道下方。底部有一個滑槽，中間則有一排監控面板，正被一台機器人照看著。
+The safety light on top of the grabber indicates that it is currently in use.	抓取裝置頂部的安全燈顯示它目前正在使用中。
+There is a safety light on top of the grabber. It is currently dark.	抓取裝置頂部有一盞安全燈，目前是暗的。
+More metal decking.	又是一片金屬地板。
+The ceiling looks closer from up here. It looks no more spectacular, however.	從這裡看，天花板感覺近了些，不過看起來還是沒什麼特別的。
+It apparently isn't designed to process input from you.	它顯然不是設計來接受你操作的。
+You are not equipped to mar this metal moron, nor do you need to.	你沒有能耐傷得了這個金屬蠢貨，而且你也用不著。
+You aren't able to do that.	你辦不到那件事。
+Go there yourself.	你自己去那裡吧。
+Think again.	再想想看。
+Just move as you've been moving.	就照你原本的方式移動就好。
+You must bring the grabber to a complete stop before doing that.	你得先讓機械手臂完全停下來，才能這麼做。
+You're not in a satisfactory location for performing that act.	你現在的位置不適合做這個動作。
+You're not on it.	你不在上面。
+You really bit the beam, Buckwheat. And there's that lack of regard for organics in action again. I guess they never heard of the warning shot concept around here. Anyway, you're dead.	你這下真的死透了，巴克維特。他們對有機生物的漠視又發作了一次。這裡的人大概沒聽過「先鳴槍示警」這種概念。總之，你死了。
+Plopping into the seat, you grasp the forward/backward control of the grabber.	你一屁股坐進座位，抓住機械手臂的前後控制桿。
+The button is programmed not to work in this area.	這顆按鈕被設定成在這區域不會作用。
+We haven't seen footwork like that since Gerald Ford! Unfortunately, your fall causes you to make contact with the non-moving deck below. The resulting impact forces the cancellation of your subscription to life.	自從那位以愛跌倒出名的總統之後，沒人看過這麼笨拙的舞步了！不幸的是，你這一摔，狠狠撞上了動也不動的甲板。這一撞，直接把你的「人生訂閱」給取消了。
+It's going to take quite awhile at this speed.  You've got time to get up and make a sandwich or wax the car or something.	這種速度要開好一陣子。你大概有空站起來做個三明治，或去洗個車什麼的。
+This speed is great for astral combat, but not for jumping across the galaxy.  This could take forever.	這種速度打星際空戰是不錯，但拿來跨越銀河系就不行了。這樣搞下去會沒完沒了。
+With a mighty whump you set the Aluminum Mallard down on the surface of %s.	伴隨一聲巨響，你把鋁製野鴨號降落在 %s 的表面上。
+Well, Roger, ya done good!  You managed to rescue the Two Guys and escape from Pestulon alive.  Looks like this'll be a milk run from here on out.	幹得好啊，羅傑！你成功救出了仙女座雙傑，還活著逃離了佩斯圖倫。看來接下來應該是一路順風了。
+The ramp is immobilized by the junk it's laying in, so you exit through the hatch instead.	坡道被壓在底下的垃圾卡死動不了，你只好改走艙門出去。
+Please do not attempt to disembark until the ride has come to a complete stop!	請等交通工具完全停止後，再嘗試下車！
+First, you'll need to tear your buttocks away from that pilot's seat.	你得先把屁股從駕駛座上扳開才行。
+You don't have a motivator, and there isn't one here.	你身上沒有動力裝置，這裡也沒有。
+It's already closed.	已經是關著的了。
+All ship systems are accessed through the pilot's computer.	所有船艦系統都要透過駕駛電腦來操作。
+You're already sitting.	你已經坐著了。
+Since the two guys are in the passenger seats, you have no choice but to sit in the pilot seat.	因為仙女座雙傑都坐在乘客座上，你只能坐進駕駛座。
+The two passenger seats look quite comfortable. However, the pilot seat is where you'd rather plop your butt.	兩個乘客座看起來挺舒服的。不過你還是比較想一屁股坐進駕駛座。
+You're already standing.	你已經站著了。
+Please remain seated while vehicle is in motion.	車輛行進中請坐好，別亂動。
+You don't have any.	你身上沒有這東西。
+They're so comfortable, you forget that you're already wearing them.	這東西太舒服了，你都忘了自己已經穿上了。
+You'll have to stand up for that.	你得先站起來才能這麼做。
+After figuring out which side is the front, you put on the ThermoWeave underwear.  They power up automatically, keeping you comfy at all temperatures.	搞清楚哪邊是正面之後，你穿上了熱織牌內衣。它會自動啟動，不管什麼溫度都讓你舒舒服服。
+They're so comfortable, you decide to leave them on.	這東西太舒服了，你決定就這樣穿著。
+You're not wearing them.	你沒穿著這東西。
+You'll need to go sit down first.	你得先坐下來才行。
+Searching around the cushions you find, among variously colored wads of lint, seven buckazoids.	你在坐墊縫裡翻找，在一堆五顏六色的棉絮之間，找到了七枚太空幣。
+You find nothing of value.	你沒找到任何值錢的東西。
+The hole is already exposed.	這個洞已經露出來了。
+The tile is doing a nice job of covering the hole, just leave it alone.	這片地磚把洞蓋得好好的，別去動它。
+But, you're not done in there.	但你在裡面的事還沒辦完。
+It's all closed up.	已經整個封起來了。
+It seems like everyone ignores you.  You'd think they'd be more grateful.	大家好像都當你是空氣。你還以為他們會更感激你一點呢。
+Your voice echoes thinly off the interior walls.  It gets a little lonely out here, doesn't it?	你的聲音在艙壁間發出微弱的回音。這裡還真是有點寂寞，對吧？
+You look into the cavity at the reactor.   It's currently non-functional.	你往凹槽裡看向反應爐。它目前無法運作。
+You look into the cavity.  The wire is firmly attached to cable ends.	你往凹槽裡看。電線牢牢接在纜線末端上。
+You look into the cavity and notice only two cable ends.  Someone has made off with the ship's power supply.	你往凹槽裡看，只看到兩條纜線末端。有人把船的電源給拆走了。
+It seems to be the tile which covered the hole in the floor.	這看起來就是原本蓋在地板洞口上的那片地磚。
+There are many of them organized in the shape of a floor.	這裡有一大堆，排成了地板的形狀。
+The floor of the cabin consists mainly of a ramp that is currently shut.  An access panel has been removed to reveal an empty reactor compartment.	艙房地板主要是一片目前關閉的坡道。有一塊維修面板已被拆下，露出空蕩蕩的反應爐艙。
+The floor of the cabin consists mainly of a ramp that is currently shut.	艙房地板主要是一片目前關閉的坡道。
+The control panel contains a computer screen.  All ship systems are accessed through the pilot's computer.	控制面板上有一個電腦螢幕。所有船艦系統都要透過駕駛電腦來操作。
+The access panel has been removed to reveal an empty reactor compartment.	維修面板已被拆下，露出空蕩蕩的反應爐艙。
+The access panel is firmly in place.	維修面板牢牢地裝在原位。
+There is no need to look at the computer right now.	現在沒必要看這台電腦。
+The diagnostic computer gives you detailed information about the ship's systems.  However, you'll need to get up to use it.	診斷電腦能提供船艦系統的詳細資訊。不過你得先站起來才能使用它。
+The pilot's computer is dead.	駕駛電腦已經沒電了。
+It's your basic spaceship interior wall.	這就是普普通通的太空船內牆。
+The Two Guys from Andromeda are a couple of really hip dudes.  You wish you could be like them.	仙女座雙傑真的是超酷的兩個傢伙。你真希望自己也能像他們一樣。
+Nobody here but you, Wilco.	這裡除了你，威爾科，沒別人了。
+Yep, that's a seat cushion alright!	沒錯，那的確是個座墊！
+You are sitting in the pilot's seat of this sporty little ship.  In front of you is the control panel, which contains a computer screen.	你坐在這艘小巧帥氣的太空船的駕駛座上。你面前是控制面板，上面有個電腦螢幕。
+Why not go sit down and take a look.	何不坐下來看看呢。
+You can just see over the trash piled up against the cockpit window.  Above you is the ceiling of the junk freighter.	你勉強能越過堆在座艙窗上的垃圾看出去。你頭頂上是這艘垃圾貨船的天花板。
+Gosh!  Isn't it amazing how big a spot those space gnats make when you're traveling at light speed!	哇塞！你有沒有發現，用光速飛行的時候，那些太空小蟲撞出來的痕跡有多大！
+Wow, a bunch of stars!  Not exactly a new sight for your space-weary eyes.	哇，一大片星星！對你這雙看膩太空的眼睛來說，算不上什麼新鮮事。
+The happy lights of Monolith Burger entice you to enter.	巨石漢堡歡樂的燈光在誘惑你走進去。
+You are currently orbiting Ortega.	你目前正繞著歐特加運行。
+You are currently orbiting Phleebhut.	你目前正繞著弗利布特運行。
+You are currently orbiting Pestulon.	你目前正繞著佩斯圖倫運行。
+Outside, the stark surface of Ortega stretches into the distance.  A lava-lovers paradise, to be sure.	窗外，歐特加光禿禿的地表一路延伸到遠方。絕對是熔岩愛好者的天堂。
+Outside, the desert surface of Phleebhut stretches into the distance.  Countless eons of howling winds have carved this dry planet.	窗外，弗利布特的沙漠地表一路延伸到遠方。無數個世紀的呼嘯狂風，把這顆乾燥的星球雕刻成現在的模樣。
+Outside, the strange surface of Pestulon stretches into the distance.  Forces beyond your comprehension seem to have shaped this bizarre world.	窗外，佩斯圖倫詭異的地表一路延伸到遠方。似乎有某種超乎你理解的力量，塑造出了這個怪異的世界。
+The window is transparent.	這扇窗是透明的。
+The pilot seat is covered in fine Vorlian pseudoleather.  Ergonomically designed to be comfortable yet stylish.	駕駛座覆著上等的沃利安人造皮革。人體工學設計，兼顧舒適與時尚。
+Yep, there's a bunch of 'em!	沒錯，這裡有一大堆！
+You'll have to go into space for that.	這件事你得出到外太空才行。
+Looking up, you see a space docking hatch.	你抬頭一看，看見一個太空對接艙口。
+Through the window you see the ceiling of the junk frieghter.	透過窗戶，你看見垃圾貨輪的天花板。
+Through the window you see the sky above.	透過窗戶，你看見上方的天空。
+The landing ramp is currently closed.	降落坡道目前是關閉的。
+The space docking hatch is currently closed.	太空對接艙口目前是關閉的。
+The button is clearly labeled 'ramp open/close.'	這顆按鈕上清楚標著「坡道開∕關」。
+Whoever ripped out the reactor didn't treat the wires too well.  The short cable's end is torn and frayed.	拆走反應爐的傢伙對電線可不怎麼溫柔，這條短電纜的末端已經扯破磨損了。
+The cables are snug in their compartment.	這些電纜穩穩地收在艙格裡。
+At first you are surprised at how intact the ship's interior is.   Immediately to your right is a panel with a red button.   At midship on the right wall is the ship's main diagnostic computer.  Directly across are two passenger seats.  Ahead of you is the cockpit.	一開始你很驚訝，這艘船的內部居然保存得這麼完整。就在你右手邊是一面裝有紅色按鈕的面板。船艙中段右牆上是這艘船的主診斷電腦。正對面是兩張乘客座椅。你前方則是駕駛艙。
+Immediately to your right is a panel with a red button.  At midship on the right wall is the ship's main diagnostic computer.   Directly across are two passenger seats.   Ahead of you is the cockpit.	就在你右手邊是一面裝有紅色按鈕的面板。船艙中段右牆上是這艘船的主診斷電腦。正對面是兩張乘客座椅。你前方則是駕駛艙。
+You already did that.	你已經做過這件事了。
+You can't install it from here.	你沒辦法從這裡把它裝上去。
+That wouldn't do any good.	這樣做沒有用。
+The reactor is automatic.  Just put it in and forget it!	這反應爐是全自動的，裝上去就不用管它了！
+Now that it's in place, you hate to take it out again.	都已經裝好了，你才不想把它拆下來。
+There's no reactor here.	這裡沒有反應爐。
+No seatbelts here.  The original owner opted for the 'no-frills' package.	這裡沒有安全帶，原車主當初選配的是「陽春款」方案。
+You're not even sitting down!	你根本沒有坐下來好嗎！
+It's already open.	已經是開著的了。
+The panel is doing its job nicely, don't mess with it.	這面板做得好好的，別去亂動它。
+But you're not finished in there.	但你在裡面的事還沒辦完。
+Come on, you wouldn't fit in there!	拜託，你根本塞不進去好嗎！
+You drop the reactor into the hole, carefully reconnect the cables, and put the tile back in place.	你把反應爐放進洞裡，小心翼翼接回電纜，再把面板蓋回原位。
+You drop the reactor into the hole. In attempting to reconnect the cables, you find that one is much too short.	你把反應爐放進洞裡。正打算接回電纜時，你發現有一條線根本不夠長。
+You carefully connect the wire between the ship and the reactor, putting the tile back in place once you've finished.	你小心翼翼把船體與反應爐之間的電線接好，完工後再把面板蓋回原位。
+You install the wire inside the reactor compartment.	你把電線裝進反應爐艙格裡。
+A flashing message on your monitor attracts your attention.	螢幕上一則閃爍的訊息吸引了你的注意。
+Your ship hovers between the garbage below and the ceiling above.  This will never do.	你的船懸在下方垃圾堆與上方天花板之間，這樣下去可不行。
+Once again you try to bring the ship from the rubble. You wonder how many times the ship can take this.	你再次試著把船從瓦礫堆中拉出來，心裡納悶這艘船到底還能撐幾次。
+You feel a strong rumbling as the ship strains to loosen itself from the confines of the junk heap accumulated at its base. Finally, it begins to rise.	你感覺到一陣強烈的轟隆聲，船身正奮力掙脫底部堆積如山的垃圾。終於，船開始緩緩上升。
+The ship rises several meters, then stops abruptly. An alarm from the computer attracts your attention.	船上升了幾公尺後突然停住，電腦傳來的警報聲吸引了你的注意。
+The ship rises successfully, but collides with the top of the freighter.  The resulting explosion sends a potpourri of flesh and metal fragments careening in all directions.	船順利升起，卻一頭撞上貨輪的頂部。隨之而來的爆炸把血肉與金屬碎片炸得到處亂飛。
+The ship settles back down into the nest of debris.	船又落回那堆殘骸窩裡。
+You seem to be in a debris-enclosed hollow. Poking out of the ceiling is the chute which you originally entered through. Some crusty lamps linked by non-UL Approved wire provide additional illumination.	你似乎身處一個被殘骸包圍的凹坑中。天花板上突出的是你當初進來時用的滑槽。幾盞老舊的燈用未經 UL 認證的電線串著，提供額外照明。
+You seem to be in a debris-enclosed hollow. Poking out of the ceiling is the chute which you originally entered through. Some crusty lamps linked by non-SQ Approved wire formerly provided additional illumination.	你似乎身處一個被殘骸包圍的凹坑中。天花板上突出的是你當初進來時用的滑槽。幾盞老舊的燈原本用未經 SQ 認證的電線串著，提供額外照明。
+The aging lamps add extra light to the area. Over-used wires link them to power.	這些老舊的燈為此區增添了額外光線，過度使用的電線把它們接上電源。
+There's something that's in short supply. The only light here is that which manages to filter its way through the dense mesh of metals.	這裡缺的東西還真不少，唯一的光線只能勉強從密密麻麻的金屬縫隙中透進來。
+Some brittle-looking wire runs from lamp to lamp and then disappears into a hole to the left.	一些看起來脆弱不堪的電線從一盞燈接到另一盞燈，然後消失在左邊的一個洞裡。
+They're rats!	是老鼠！
+You can hear something scurrying around above you. (You can't actually see the rats because they're hidden in the shadows.)	你聽見頭頂上方有什麼東西在竄動。（你其實看不見那些老鼠，因為牠們躲在陰影裡。）
+They seem to be attached to a reactor.	它們似乎連接著一個反應爐。
+There is nothing interesting about loose wire ends.	這些鬆脫的電線頭沒什麼好看的。
+They aren't visible here.	這裡看不到它們。
+You peer into the small opening and notice %s.	你朝小開口望去，注意到%s。
+You notice nothing of interest.	你沒注意到什麼特別的東西。
+You stare at the ceiling which, as usual, is overhead. You see nothing particularly unique about the structure.	你盯著天花板看，一如往常，它就在你頭頂上。這結構沒什麼特別之處。
+This wall is the same as the others except that it has a small hole in it.	這面牆跟其他牆沒兩樣，只是上面有個小洞。
+All terrain nearby is chock-full of jagged edges and barbed protrusions. I wouldn't try that here.	附近地形全是鋸齒狀邊緣與尖刺突起，我勸你別在這裡輕舉妄動。
+The chute juts into the room from high above. It is covered by two large doors. While staring at it, you briefly entertain the thought of trying to climb back up it. You realize that it is firmly sealed and forget about it.	滑槽從高處突入這個房間，上面覆著兩扇大門。盯著它看時，你一度動了想爬回去的念頭，但很快發現它封得死死的，只好打消念頭。
+It's a low-tech ascent/descent module	這是個低科技的升降艙
+The floor is composed of a mosaic of overlapping welded steel plates. The menage of used metal appears to have been cut from a variety of sources.	地板是由層層焊接的鋼板拼湊而成，這堆五花八門的舊金屬看起來是從各種來源切割拼裝的。
+The walls consist of compacted refuse. Yuck! There seems to be a small hole in the west one.	牆壁是由壓實的廢棄物構成，噁！西邊那面牆上似乎有個小洞。
+In one of the piles you notice a severed wing and some empty cowlings of different shapes and sizes. The items were probably being readied for whatever destructive processing is done aboard this heap.	在其中一堆廢料裡，你注意到一片斷裂的機翼，以及幾個大小形狀不一的空引擎罩。這些東西大概是準備要送去這艘垃圾船上做某種破壞性處理的。
+The wing has been severed and is now worthless.	這片機翼已經斷裂，現在一文不值。
+The empty cowlings now cover nothing but useless junk.	這些空引擎罩底下現在只蓋著沒用的垃圾。
+There is no ladder near here to climb.	這附近沒有梯子可以爬。
+There is no ladder near here to get.	這附近沒有梯子可以拿。
+They would not be helpful.	它們幫不上忙。
+This stuff has no value to you.	這些東西對你沒有價值。
+You unhook the reactor from the cheap wires and take it with you.	你把反應爐從那些廉價電線上拆下來，隨身帶走。
+You aren't near it.	你離它還太遠。
+There isn't one here to get.	這裡沒有東西可以拿。
+You'll not be successful that way.	這樣做行不通的。
+That won't further your progress.	這樣做對你的進度毫無幫助。
+The chute is covered by two large doors which you are unable to open.	滑槽被兩扇大門擋著，你打不開。
+Fortunately, you come to a relatively soft landing in a pile of debris.	幸好，你落在一堆殘骸上，著陸還算軟。
+You hear strange growls which send chills through your sleek, yet rugged, frame. What could it be?	你聽見一陣詭異的低吼，讓你那流線卻堅韌的身軀不禁一陣發寒。那會是什麼呢？
+Suddenly, two hideous figures rush from the shadows toward you!	突然，兩個猙獰的身影從陰影中朝你衝來！
+Oh my! It appears that your being trapped has made you a prime target for rodent ruffians. What a mess!	天哪！看來你這一困住，正好成了鼠輩流氓的頭號目標。真是一團亂！
+Looks like this bird's in good shape.	看樣子這隻鐵鳥狀態還挺不錯的。
+CURRENT SECTOR:	目前星區：
+PRESS F6 FOR COCKPIT VIEW	按 F6 切換駕駛艙視角
+Those jokers back on Pestulon must have tampered with the lightspeed thingamajig!	佩斯圖倫那票小丑一定動了光速裝置的手腳！
+With the engines off, the ship falls abruptly to the floor.   The resulting impact is too much for it and you.	引擎一關，太空船猛然墜落地面。這一撞，船跟你都撐不住。
+LEAVE RADAR SYSTEM ON WHILE IN FLIGHT	飛行時請保持雷達系統開啟
+TARGET:	目標：
+The remaining enemy ships have given up and are heading back to the planet.  It looks like you were just too much for 'em.	剩下的敵艦放棄了，掉頭飛回星球。看來你讓他們吃不消。
+With your shield depleted, the final hit shreds the side of your ship.  In the sudden vacuum, your body fluids expand beyond the capacity of your tissues.  Your desicated body will drift forever, a grim testament to your blundering stupidity.	護盾耗盡，最後一擊把你的船側轟出個大洞。真空瞬間湧入，你體內的體液膨脹到組織承受不住。你風乾的遺體將永遠漂流太空，見證你有多蠢。
+Having the correct shield up could have prevented this!   The final shot shreds the side of your ship.  In the sudden vacuum, your body fluids expand beyond the capacity of your tissues.  Your desicated body will drift forever, a grim testament to your blundering stupidity.	早知道開對護盾就不會這樣了！最後一擊把你的船側轟出個大洞。真空瞬間湧入，你體內的體液膨脹到組織承受不住。你風乾的遺體將永遠漂流太空，見證你有多蠢。
+When the enemy ship comes from behind, you will automatically begin tracking. Use the direction keys or mouse to move the target cross-hairs onto the target. When you are locked on, use the space bar to fire.	敵艦從後方出現時，系統會自動開始追蹤。用方向鍵或滑鼠移動瞄準十字線對準目標，鎖定後按空白鍵開火。
+A beep is issued by the computer as the screen changes.	電腦發出一聲嗶，畫面隨之切換。
+The shot blasts a new orifice in the side of the junk freighter.	這一砲在破爛貨船側面轟出一個新窟窿。
+The pressure generated by the desire of the ship's atmosphere to escape to the considerably lower pressure of space causes your ship to be spit out like a watermelon seed.	船內空氣急著逃向壓力低得多的太空，這股衝力把你的船像西瓜籽一樣噴射出去。
+Unfortunately, your inadequately protected ship is struck and subsequently destroyed in the bottle neck of metallic objects striving to pass through the same relatively small opening.	可惜你的船防護不足，在一堆金屬物爭相擠過同一個小開口的混亂中被擊中，隨即報銷。
+Gosh Rog, we really appreciate you saving us and all.	天啊羅傑，真的很感謝你救了我們。
+Yeah, we were really scared.  We didn't know what Pug was gonna do to us.	對啊，我們嚇壞了。都不知道帕格打算對我們做什麼。
+Hey, uh, don't you think we better get outta here?  Pug's really sore and he probably sent some ships after us.	嘿，呃，我們是不是該快點離開這裡？帕格氣炸了，八成已經派船來追我們了。
+So, how do you like the game so far?  Was it worth $59.95?	對了，這遊戲玩到目前為止怎麼樣？值不值 $59.95？
+Hey, we're hungry.  We haven't eaten anything but jello for the last few weeks.	嘿，我們餓了。這幾個星期除了果凍什麼都沒吃過。
+I hafta go to the bathroom.	我要上廁所啦。
+Can't you make this crate go any faster?	這破船不能再開快一點嗎？
+Just between you and me, I think ol' Wilco's been in space too long.	偷偷跟你說，我覺得老威爾科在太空待太久了。
+Man oh man!  You really showed those bozos a thing or two!  Now can we get something to eat?	天哪天哪！你真的把那群蠢蛋教訓了一頓！那現在能吃點東西了嗎？
+You inform the Two Guys that light speed is no longer functional.  They're not overly pleased by this piece of news.	你告訴仙女座雙傑光速引擎已經故障。他們對這消息一點也不開心。
+what!!  Now I'll never get any food!  Some rescuer you are!	什麼！！這下我永遠吃不到東西了！你這算哪門子救星啊！
+Hey, what's this thing on the wall?	嘿，牆上這是什麼東西？
+it sez...'light speed maintenance access panel.'  gee, maybe i can fix this bucket of plastobolts!	上面寫著……「光速維修檢修板」。嘿，說不定我能修好這堆破銅爛鐵！
+yeah, this is it!  this fan belt thing came off of the round thing it was on.  Just a second.	對，就是這個！這條風扇皮帶從那個圓形的東西上滑脫了。等我一下。
+ok, she's all fixed.  let's go grab a burger!	好了，修好了。我們去吃漢堡吧！
+Too late you realize that you have no course laid in.  The light engines kick in before you can override.  You inform the Two Guys that light speed is now functional, but it's out of control.  They're not overly pleased with this bit of news, either.	你這才發現根本沒設定航線，但為時已晚。光速引擎在你能覆蓋操作前就啟動了。你告訴仙女座雙傑光速引擎修好了，但完全失控。這消息同樣讓他們笑不出來。
+aaaaaaaahhhh!!!!  we're gonna die!!!!!!	啊啊啊啊啊啊！！！！我們要死了！！！！！！
+oh noooooooo!!!  why did i get up this morning?!!!	喔不——！！！我今天早上到底幹嘛要起床啊！！！
+mommyyyyyyyyy!!!!	媽咪——！！！！
+Careening blindly through space, your ship speeds toward a sizable black hole.  Once within the gravitation of the black hole, there's no escape.  You plunge into destiny.	你的船在太空中盲目狂飆，直衝一個不小的黑洞而去。一旦進入黑洞重力範圍就再也逃不掉。你一頭栽進了命運。
+PRESS F6 TO EXIT	按 F6 離開
+You haven't even ordered.	你根本還沒點餐。
+Cash only, please.	請付現金。
+The more you look at the food, the less like food it looks.   You can't help wondering how long some of this stuff has been sitting out here just waiting for a sucker like you to come along and eat it.	你越看這份食物，越不覺得它像食物。你忍不住猜想，這玩意兒到底放了多久，就等著像你這種傻瓜上門吃下肚。
+The ceiling above, the floor below, the physical laws of the universe are unchanging.  Suspended above you is a menu.	上有天花板，下有地板，宇宙物理法則從未改變。你頭頂上方懸著一份菜單。
+You think the sign should be titled `Employee With the Most Facial Orifices.'	你覺得這張告示牌應該改名叫「臉部開孔最多員工獎」。
+The clerk is wearing the crisply starched uniform that you've come to know and love in Monolith Burgers everywhere.  It looks like it's made from the same substance as the food.	店員穿著那套你在各地巨石漢堡都熟悉又喜愛的挺括制服，看起來材質跟食物是同一種東西做的。
+The clerk is offended that you would think he's a female.  Any idiot should be able to tell the difference.	店員對你把他當成女性感到很不爽。這種事白痴都分得出來。
+The clerk looks like he'd rather be doing anything besides waiting on you.	店員一臉寧可做任何事也不想理你的樣子。
+The huge, alien eyes seem to exude a vast intelligence.   But, you're not fooled.	這雙碩大的外星眼睛似乎散發著深邃智慧。但你才不會被騙。
+A dental hygienist's nightmare.	牙齒保健員的惡夢。
+When this guy gets a cold, tissue company stocks rise dramatically.	這傢伙一感冒，衛生紙公司的股票就會狂飆。
+"I don't have all day, sir," he says in a mock-polite tone of voice.	「我可沒那麼多時間喔，先生。」他用假惺惺的客氣語氣說。
+Not being sure what he might do with his many orifices, you decide against it.	你不確定他那些孔洞會拿來幹嘛，還是打消了念頭。
+The only thing you can smell is the aroma of home-cooked food.  Obviously a piped-in smell to mask the odor of the real food.	你唯一聞到的是家常菜的香氣。顯然是刻意灌進來的味道，用來蓋掉真正食物的臭味。
+You'll have to go sit down for that.	你得先坐下才能這麼做。
+The big yellow 'M' welcomes you to another culinary experience at Monolith Burger	巨大的黃色「M」字歡迎你再度光臨巨石漢堡的美食體驗
+Captain's Log: Funny, I thought this was the last frontier, but it seems like there's a fast food joint around the corner from every star cluster.	艦長日誌：說也奇怪，我一直以為這裡是最後的邊疆，結果每個星團轉角好像都有間速食店。
+Outside, the cold vacuum of space pulls at the fragile steel membrane that surrounds you.   Apprehension grips you as you realize your insignificance in the vastness of the universe.   The whirling cosmic display seems to... you know, the usual science fiction kinda stuff.	外頭，冰冷的太空真空拉扯著包裹你的脆弱鋼殼。當你意識到自己在浩瀚宇宙中多麼渺小，一股不安湧上心頭。眼前旋轉的星海景象彷彿……嗯，就是那種科幻片常見的老套畫面。
+The floor below, the ceiling above. The physical laws of the universe are unchanging.  Hanging from the ceiling is a menu.	下有地板，上有天花板。宇宙物理法則從未改變。天花板上垂掛著一份菜單。
+The cheerfully painted walls keep the floor and the ceiling from slamming into each other.	漆得歡樂繽紛的牆壁，撐住地板跟天花板不讓它們互撞。
+There are no counter clerks in sight.  They must all be in the back taking a break.	櫃檯前一個店員也沒有，八成都跑到後面休息去了。
+Your eyes take in the diversity of alien forms without much interest.  After all, you're quite a spacefaring kinda guy.	你的目光掃過各式各樣的外星生物，卻提不太起興趣。畢竟你也算是見過世面的太空人了。
+Your ship waits patiently outside the restaurant.	你的太空船正耐心地停在餐廳外等你。
+Yep, that's your basic automatic door.	沒錯，就是一扇普通的自動門。
+The tattered remains of your meal lay strewn about the table.	你那餐支離破碎的殘骸散落在桌上。
+Why don't you buy a bag of food first?	你何不先買一袋食物？
+Yes, the cold plastomold tables are like millions of others you've seen.	沒錯，這些冰冷的塑模桌跟你見過的千百萬張一模一樣。
+The counter is your typical clerk-customer interface.	這櫃檯就是典型的店員與顧客介面。
+You can't quite see it from here.  You'll have to stand up.	你在這裡看不太清楚，得先站起來才行。
+The decor, like the food, is the same in Monolith Burgers all over the universe.  Generic counter clerks are eagerly waiting to help you. Diverse life-forms are crowded around the counter and sitting in booths consuming what can only loosely be termed food.	這裡的裝潢跟食物一樣，全宇宙的巨石漢堡都長得一個樣。制式化的櫃檯店員殷切等著為你服務。形形色色的生物擠在櫃檯前，或坐在卡座裡，吃著勉強能稱作食物的東西。
+Come on, don't sit at a dirty table!	拜託，別坐在髒桌子那邊啦！
+You'll have to get closer to an empty booth first.	你得先靠近一個空卡座才行。
+You have to sit down to eat.	你得先坐下來才能吃東西。
+You don't have any food.	你身上沒有任何食物。
+Nah, let Mr. Employee of the Week clean it up.	算了吧，讓「本週最佳員工先生」自己清理去。
+There's no bag around here.	這裡沒有袋子。
+It's not trash yet.	這還不是垃圾。
+There's no trash around here.	這裡沒有垃圾。
+It's automatic, just walk near it.  This is the future, remember?	這是自動的，走近就好。畢竟這裡可是未來世界，別忘了。
+You'll have to wait your turn. Of course, the way this line's moving, you may never get a turn.  Obviously, management carefully schedules the least amount of help for the busiest time of day.	你得排隊等。不過看這隊伍龜速前進的樣子，你可能永遠輪不到。看來店方很用心地在最忙的時段安排最少的人手。
+The customers have better things to do than talk to a small-brained biped from a hick planet.	顧客們可沒空理你這個來自鄉下星球、腦袋沒多大的雙足動物。
+You mumble to yourself.  The other customers eye you suspiciously.	你自言自語了起來，其他顧客都用懷疑的眼神看著你。
+Inter-species relations are frowned upon around here.   You could get yourself killed for trying something like that.	這裡對異種間的親密行為可是很不以為然，你敢這樣搞會被做掉的。
+After thinking it over, you repress your baser urges and remain non-violent.	想了想，你還是壓下了原始衝動，決定不動粗。
+Bringing food on board your ship isn't a very good idea.  Considering how clumsy you are, you're liable to spill crumbs all over the computer or something.	把食物帶上船可不是什麼好主意。以你這麼笨手笨腳的程度，八成會把碎屑灑得電腦到處都是。
+"OWWW!!!  Hey, what's this in my burger?  Oh, it must be my Fun Meal prize!  Hey, it's a swell decoder ring!"	「哎呦喂！嘿，我漢堡裡是什麼東西？喔，一定是我的歡樂餐贈品！嘿，是個超讚的解碼戒指！」
+Mmmmmm, that was mighty tasty.  Well, maybe mildly tasty. Well, maybe not tasty at all.  In fact, it reminded you of the slick skin of a Vorlian mucusworm.	嗯嗯嗯，真是好吃極了。呃，也許只是還算好吃。呃，其實根本不好吃。老實說，那口感讓你想起沃利安黏液蟲滑溜溜的皮。
+With the docking maneuver completed, the engines shut down. Welcome to Monolith Burger!	對接程序完成，引擎隨即關閉。歡迎光臨巨石漢堡！
+You pop the hatch and ramble on in.	你打開艙門，晃悠悠地走了進去。
+You slide back into the ship, closing the hatch behind you. The Docking Control Beam begins guiding you safely clear of Monolith Burger.	你溜回船艙，順手關上艙門。導航控制光束開始引導你安全駛離巨石漢堡。
+Man, that Big Belcher Combo was a little too much for your delicate digestive tract.  You feel better now, except for being hungry again.  Of course, the thought of eating here doesn't appeal to you right at the moment.	天啊，那份「大打嗝套餐」對你嬌弱的腸胃來說有點太超過了。現在感覺好多了，只是又餓了。當然，此刻你完全不想再吃這裡的東西。
+He's ignoring you because you don't have enough cash.	他在無視你，因為你身上的錢不夠。
+A recent graduate of Pinhead University, the clerk obviously doesn't have the words 'fast food' in his vocabulary. A trained Vorlian wartslug could probably do a better job.	這店員顯然是「呆頭大學」的應屆畢業生，字典裡根本沒有「速食」這兩個字。找隻訓練有素的沃利安疣蛞蝓來做，搞不好還比較快。
+The sleek ship parked on this side makes yours look like a real dog.	停在這邊的那艘流線型太空船，把你的船襯得像條破爛老狗。
+You can't really make it out from here, get closer.	從這裡看不清楚，靠近點吧。
+You'll have to get a little closer.	你得再靠近一點才行。
+It's automatic, just walk near it. This is the future, remember?	這是自動的，走近就好。畢竟這裡可是未來世界，別忘了。
+The sophisticated electronics resist your feeble tamperings.	這套精密電子系統，可不會被你這種三腳貓的亂搞得逞。
+If you walk over to the clerk, you won't have to shout across the room.	走到店員那邊去，就不用隔著整個房間用喊的了。
+Why not eat what you already have before ordering more?	何不先把手上的吃完，再點新的？
+You gingerly pick up the greasy bag.  You can hardly wait to have a seat and dig in!	你小心翼翼地拿起那個油膩膩的紙袋，迫不及待想找個位子大快朵頤！
+You are somewhere.	你人在某處。
+You are in a large, flat expanse of desert. You see mountains to the north.	你身處一片廣闊平坦的沙漠。北邊可以看到山脈。
+You don't see many sand dunes here.	這裡沒什麼沙丘可看。
+The desert to the north grows darker as storm clouds loom overhead. You find yourself at the base of a gigantic metal model of a great beast.	北方的沙漠隨著暴風雲籠罩天空而漸漸昏暗。你發現自己站在一座巨大金屬猛獸模型的底座旁。
+Whoever built this thing did a thorough job. Right down to the polyfoam toejam.	建造這玩意的人做得可真徹底，連腳趾縫的聚泡棉污垢都做出來了。
+You see an entrance to the inside of the foot near its north end.	你看到這隻腳的北端附近有個通往內部的入口。
+The doorway leads to the interior of Mog.	這道門通往莫格的內部。
+Boy! It's a relief to know this baby is extinct.	天啊！知道這種東西已經絕種，還真令人鬆一口氣。
+There are two signs here.	這裡有兩塊告示牌。
+Leave it alone.	別碰它。
+Mog: one of many large beasts that once roamed this vast desert. But they all eventually died of boredom and are now extinct.	莫格：曾經在這片廣袤沙漠中遊蕩的眾多巨獸之一。但牠們最後全都無聊到死，如今已經絕種。
+Try facing in the right direction.	試著面向正確的方向。
+See Phleebhut from Mog's Head Entrance Free.  sorry.. temporarily closed for repair.	免費從莫格頭部入口俯瞰弗利布特全景。抱歉……暫停維修中。
+You're not close enough to read it.	你離得不夠近，看不清楚上面寫什麼。
+The massive metal legs support an equally massive metal monster.  Kinda takes your breath away, doesn't it?	這對巨大的金屬腿，撐起了同樣巨大的金屬怪獸。夠讓人嘆為觀止吧？
+Whoever built this thing did a thorough job.  Right down to the polyfoam toejam.	建造這玩意的人做得可真徹底，連腳趾縫的聚泡棉污垢都做出來了。
+It looks real, but not real important.	看起來挺真，但沒什麼重要性。
+It looks like Fester has closed up.  The door is closed and locked.	看來費斯特打烊了，門關著也上了鎖。
+The doorway is wide open.	這道門敞開著。
+There's no answer.	沒有人回應。
+There isn't one here.	這裡沒有。
+It appears to be locked.	看起來是鎖住的。
+You don't see one here.	你在這裡沒看到這個東西。
+You peer through the glass of the display case and find a cute and cuddly little creature. A small sign on the glass informs you that this is an Antarean slime devil. How cuuuuuuuute!	你透過展示櫃的玻璃窺視，看見一隻可愛討喜的小生物。玻璃上的小標示告訴你，這是隻安塔利黏液惡魔。好~可~愛~喔！
+It's hard to see anything from this far away.	隔這麼遠什麼都看不清楚。
+Just open the case.	直接打開櫃子就好。
+You'd better get out of there.	你最好離開那裡。
+Your arms just aren't quite long enough. Try getting a little closer.	你的手臂沒那麼長，靠近一點試試。
+The sign on the door says "Closed".	門上的告示寫著「本日公休」。
+Like a cool oasis in the desert, the friendly sign beckons you to enter the World o' Wonders tourist haven.	就像沙漠中一片沁涼的綠洲，這塊親切的招牌招手邀你走進「奇觀世界」觀光樂園。
+Unfortunately, a closed door is keeping you out.   There seems to be a small sign on the door.	可惜一扇緊閉的門把你擋在外頭，門上似乎貼著一張小告示。
+Ah Ha!  A tourist trap.  This giant metal facsimile of a space beast is nothing more than a cheap marketing ploy designed to suck in any moron dumb enough to fall for such trickery...  You suddenly feel like a dumb moron.	哈！觀光陷阱一個。這隻巨大金屬太空猛獸複製品，不過是設計來吸引白痴上鉤的廉價行銷噱頭……你突然覺得自己就是那個白痴。
+They may be cute, but only an idiot would get near one! Looks like you won't be around to appreciate the other diverse wonders of this garden-spot of the universe.	牠們或許可愛，但只有笨蛋才敢靠近！看來你沒機會再欣賞這片宇宙樂園裡其他琳瑯滿目的奇觀了。
+It's a nifty late-model hoverwagon, perfect for a family on the go!	這是台俏皮的最新款懸浮旅行車，最適合喜歡到處跑的一家人！
+Kids are always welcome at the World o' Wonders tourist haven, but if you break it, you buy it!	「奇觀世界」觀光樂園永遠歡迎小朋友，但東西弄壞了就得買單！
+"I hope everyone went to the bathroom! This is the last stop for 80,000 miles!"	「希望大家都上過廁所了！接下來八萬英里都沒站可停囉！」
+Dad's pleased with his keen bargaining skills. "Boy, I sure got some good deals! This is some REAL high quality stuff!"	老爸對自己精明的殺價功力頗為得意。「哇塞，我可撿了不少便宜！這些東西品質真是沒話說！」
+Obviously the friendly proprietor of this establishment. He certainly has an honest face.	顯然是這家店和藹可親的老闆，一臉老實樣。
+Sooo... this is Roger Wilco, the man I have been sent across the universe to track down and terminate. I am not impressed. You were too easy to find. You tend to leave a mess wherever you go.	哦……原來這就是羅傑·威爾科，那個我千里迢迢跨越宇宙前來追殺的傢伙。沒什麼好印象。你太好找了，走到哪都留下一團爛攤子。
+Seems you forgot to pay for that Labionian Terror Beast mating call whistle. Now let's see ... with interest that comes to 400,000 buckazoids. I don't think you've got that kind of cash on you Hmm? No... I didn't think so.	看來你忘了付那支拉比翁恐怖獸求偶哨的錢。讓我算算……連本帶利一共是四十萬元太空幣。我猜你身上沒帶這麼多現金吧？嗯？沒有……我猜也是。
+The good people at the Gippazoid Novelty Co. are most displeased. Nonpayment is a serious offense.	吉帕佐德新奇玩意公司的好心員工們可不太高興。賴帳可是重罪。
+But lucky for you I'm in a good mood today. I will count to ten real slow then I track you down. If you make it to your ship I forget I see you. But if I catch you again..... I dust you like bundt cake.	但算你走運，我今天心情不錯。我會慢慢數到十，之後才追你。你要是趕得回船上，我就當沒看見你。但要是再讓我逮到你……我就把你磨成邦特蛋糕上的糖粉。
+You realize how ridiculous you look and remove the hat.	你意識到自己戴著這頂帽子有多蠢，於是把它摘了下來。
+Just Ahead! Visit the Mog Memorial and the galaxy famous World O' Wonders	前方不遠！造訪莫格紀念碑，以及銀河知名的「奇觀世界」
+You're not close enough.	你離得不夠近。
+Yes, that's a sign.	沒錯，那是塊告示牌。
+You see sand, mountains in the distance, and a sign.	你看見沙地、遠方的山脈，還有一塊告示牌。
+You see large sand dunes, but that's about it.	你看見大片沙丘，僅此而已。
+You see several large sand dunes, and a few worn rocks.	你看到幾座大沙丘，還有一些風化的岩石。
+There are unusually steep sand dunes here which have formed a deep hole.	這裡的沙丘異常陡峭，形成了一個深洞。
+You are startled by the sight of a giant beast just beyond the sand dune to the north.	你被北方沙丘另一端一隻巨獸的身影嚇了一跳。
+Your fear turns to curiosity as you realize that it is not a real beast but a mechanical creation. Although it still looks dangerous, you can't decide whether to blast off this rock or inspect further the wonders of Phleebhut.	你的恐懼轉為好奇，因為你發現那不是真的野獸，而是機械造物。雖然看起來還是很危險，你猶豫著該一走了之，還是繼續探索弗利布特的奇景。
+There are fewer rocks and more sand in this area.	這一帶岩石較少，沙子較多。
+Just another bizarre rock formation pay it no mind.	只是又一個怪異的岩層，別理它。
+Yes, there's a large hole in the rock formation.	沒錯，岩層上有個大洞。
+Your ship is resting on a sandy spot between several large rocks. It looks like your automated landing system has done a remarkable job.	你的太空船停在幾塊大岩石間的沙地上。看來你的自動降落系統表現得相當不錯。
+You proudly look upon your newly acquired spacecraft, the Aluminum Mallard. Truly a fine piece of jun...uh.. machinery.	你驕傲地端詳著新到手的太空船——鋁製野鴨號。真是一件精緻的破。..呃，機械傑作。
+Your feet will take you wherever you want to go in most cases.	大部分時候，你的雙腳能帶你去任何想去的地方。
+As you step out of your ship onto the surface of Phleebhut, you are hit in the face by the harsh winds. It looks like a storm is brewing.	你踏出太空船，踩上弗利布特的地表，一陣強風迎面撲來。看來風暴要來了。
+Meanwhile...another spacecraft touches down elsewhere on the very same planet.	與此同時……另一艘太空船在同一顆星球的別處降落。
+Strange rock formations rise up from the sand dunes. "What a desolate place this is," you think to yourself.	奇特的岩層從沙丘中拔地而起。「這地方真是荒涼啊，」你心想。
+This has got to be the strangest array of rock formations you've ever seen.	這絕對是你見過最詭異的岩層排列。
+The dunes rise and fall across the horizon with all the curves of a beautiful moon maiden.	沙丘在地平線上起伏綿延，曲線優美得像個月宮仙子。
+You see a hole through one of the rocks.	你看到其中一塊岩石上有個洞。
+In this day and age it would be wise to leave alien holes alone.	這年頭，還是別亂碰外星洞穴比較明智。
+You are surrounded by sand and rocks.	你被沙子和岩石包圍著。
+It's a hole all right.	沒錯，就是個洞。
+There are many rocks here.	這裡有很多岩石。
+The terminator is now a pile of junk lying on the sand under the pustules. %s	終結者現在成了一堆廢鐵，倒在膿包下方的沙地上。%s
+All you see are footsteps.	你只看到一些腳印。
+You see several large rocks here. One rock has a large overhang, and almost appears to be a cave. Under the overhang, you see several large, pulsating pods.	你看到這裡有幾塊大岩石。其中一塊岩石有很大的懸壁，幾乎像個洞穴。懸壁下方，你看到幾個正在搏動的巨大莢囊。
+For a brief moment, you could swear they were just a bunch of dancing raisins. But, a closer look indicates otherwise. The leech-like creatures appear to have connected themselves to this overhang with a gelatinous adhesive secretion. YUCK! 	有那麼一瞬間，你敢發誓那只是一堆在跳舞的葡萄乾。但仔細一看，事情並非如此。這些像水蛭的生物似乎用一種黏糊糊的分泌物把自己黏在懸壁上。噁！ 
+The most interesting rock here has a large overhang.	這裡最有意思的岩石有個很大的懸壁。
+Underneath the top of the overhang, you see several large, pulsating pod-like pustules.	懸壁頂端下方，你看到幾個正在搏動的莢囊狀膿包。
+You talk to the pods, but all you get in return are some soft squishy sounds.	你對這些莢囊說話，得到的只有一些黏糊糊的擠壓聲。
+You have no way of doing that.	你沒有辦法做到這件事。
+You can't reach them from here.	你從這裡碰不到它們。
+You don't like heights much.	你不太喜歡高處。
+You don't have the proper implement.	你沒有適合的工具。
+The robot might have something to say about that.	那個機器人對此恐怕會有意見。
+Try approaching from a slightly different angle.	試著換個角度靠近看看。
+That's a mighty big snake!	那條蛇還真是大條！
+They sure grow them big here, don't they!	這裡的東西還真養得夠大隻的，是吧！
+You sure wish you had one like that.	你真希望自己也能有一條那樣的。
+I think that may be his intent.	我想那可能正是他的用意。
+You left your Mark XII heavy duty, phased laser, pulsed neutron, blaster in your underwear drawer.	你把你的 Mark XII 重型相位雷射脈衝中子爆能槍，忘在內褲抽屜裡了。
+Gee,that's a very good idea.	哦，這主意真不錯。
+The only snake food here is you!	這裡唯一的蛇食就是你！
+You say howdy, but all you get is a hiss in return.	你打了聲招呼，換來的只有一聲嘶嘶叫。
+You've been getting some mighty strange ideas from playing 'KQ II', haven't you? You loose 5 points.	玩了《KQ II》讓你冒出一堆奇怪的念頭，是吧？你扣了 5 分。
+You do have a charming personality, but I don't think that's going to cut it.	你的個性是挺迷人啦，但我想這招應該行不通。
+You see a flat expanse of desert and mountains to the north.	你看到北方是一片平坦的沙漠與山脈。
+A range of craggy peaks appear on the horizon to the north. Occasionally, one is struck by lightning.	北方地平線上出現一列嶙峋的山峰，偶爾有一座會被閃電擊中。
+The sky is alive with electrical activity as large ominous clouds make their way across the darkened sky.	天空電光四射，大片不祥的烏雲在陰暗的天幕中翻湧而過。
+It seems like this entire planet is one vast expanse of desert. About all you see is sand and rocks.	這整顆星球似乎都是一片廣袤的沙漠。目所能及幾乎只有沙子和岩石。
+The ground beneath your feet is composed of an unusually colored sand. Other than it's bizzare coloration, you have no other interest in it. However... as you expectorate a mouthful of the wind blown sand you briefly reminisce about your adventure on Kerona (SQ I ).	你腳下的地面是一種顏色古怪的沙子。除了那詭異的色澤，你對它沒別的興趣。不過……當你吐出滿嘴被風吹來的沙子時，你不禁想起了在克羅納星（宇宙傳奇 I）的那段冒險。
+You notice flashes of lightning to the north. You hope it doesn't move this way.	你注意到北方閃過陣陣閃電，希望它別朝這邊移動過來。
+Gas vents beneath the lava occasionally form thick bubbles that last but a moment.	熔岩下方的氣孔偶爾會冒出厚重的氣泡，但只維持片刻。
+Just walk right in!	直接走進去就對了！
+My, my, this is one hot planet!  But you don't care, you're beating the heat with ThermoWeave underwear.	哎呀，這星球還真夠熱的！不過你不在乎，你靠熱織牌內衣扛住這股熱浪。
+My, my, this is one hot planet!  Hopefully you'll last more than a few minutes.	哎呀，這星球還真夠熱的！希望你撐得過幾分鐘以上。
+The quakes started by the detonator have broken open a huge crack in the planet surface, which you and everything else in the vicinity have fallen into.  The super-heated magma does a quick work of boiling you alive.	引爆器引發的地震在星球表面炸開一道巨大裂縫，你和周遭的一切都掉了進去。滾燙的岩漿三兩下就把你活活煮熟了。
+Why not just walk across?	幹嘛不直接走過去就好？
+I know you're quite a guy, but even you can't jump across such a wide crevice.	我知道你很厲害，但就算是你，也跳不過這麼寬的裂縫。
+You ponder the many uses of the metal pole, but just can't seem to figure out any way it could help you.	你左思右想這根金屬桿的各種用途，卻怎麼也想不出它能幫上什麼忙。
+What for?	幹嘛用？
+The pole is too short to span the crevice.	這根桿子太短，搭不過裂縫。
+My my, things have certainly changed since you were here last!  That unstable rock has fallen into the simmering lava below.	哎呀，自從你上次來過後，這裡可變了不少！那塊不穩定的岩石已經掉進下方翻滾的岩漿裡了。
+Your brow furrows in grim determination as you prepare for a tremendous leap.	你眉頭深鎖，帶著堅定的決心，準備來一記驚天一跳。
+The impact of your landing set off the thermal detonator.   Your fragments are strewn over a wide area.	你落地的衝擊引爆了熱能引爆器。   你的殘骸散落一地。
+The Romanian judge gives you a 9.5!  A truly outstanding jump by one of the finest young athletes we've seen this season.   You'd like to try that again, but your pole seems to have fallen into the tumultuous lava below.	羅馬尼亞裁判給你打了 9.5 分！這是本季所見最出色的年輕選手之一，跳得真是漂亮。   你想再試一次，可惜你的桿子似乎已經掉進下方翻騰的岩漿裡了。
+The impact switch on the thermal detonator was triggered by your wobbling on the unstable rock.  Your fragments are strewn over a wide area.	你在那塊不穩定的岩石上搖搖晃晃，觸發了熱能引爆器上的撞擊開關。  你的殘骸散落一地。
+It appears that parts of this planet's surface are not entirely stable.  Better be careful or you'll end up in that lava fondue below.	看來這星球部分地表不太穩定。  最好小心點，不然你會變成下面那鍋岩漿火鍋的料。
+There aren't any weapons here.	這裡沒有任何武器。
+The pirates are packing jello pistols.	這些海盜配備的是果凍手槍。
+The planet Ortega is truly a lava-lovers paradise.   Volcanic activity constantly reshapes its surface, so if you have any maps older than last week, throw 'em out.  A few pieces of research equipment are laying around.	歐特加星球真是熔岩愛好者的天堂。   火山活動不斷重塑地表，所以你手上要是有超過一星期的舊地圖，趕快扔了吧。  附近散落著幾件研究設備。
+Two ScumSoft lackeys are working at a make-shift research station.  They appear to be monitoring the seismic activity of this area.	兩名廢渣軟體的爪牙正在一座臨時研究站工作。  似乎在監測這一帶的地震活動。
+The speeding ship is only a blur.	那艘飛船速度快得只剩一團模糊的殘影。
+There's a telescope, some seismic equipment, and a crate of some sort.	這裡有一台望遠鏡、一些地震儀器，還有一個看起來像板條箱的東西。
+There's a telescope, an anemometer on a pole, some seismic equipment, and a crate of some sort.	這裡有一副望遠鏡、一支裝在桿子上的風速計、一些地震儀器，還有一個不知道裝什麼的箱子。
+A handy metal pole with a thousand and one uses.	一支用途多到數不清的金屬桿。
+It looks like a couple of tennis balls cut in half, and spins when the wind blows.	看起來像幾顆網球被切成兩半，風一吹就會旋轉。
+It's used for sending and receiving data.	這是用來收發資料的。
+It's full of thermal detonators.	裡面裝滿了熱能引爆器。
+From here it just looks like an old crate.	從這裡看，就只是個舊箱子。
+You need to get real close and look in the little hole first.	你得先靠近一點，往那個小洞裡看。
+It looks like it's probably used for surveying and stuff like that.	看起來大概是用來測量之類的東西。
+Piles of large volcanic rocks have accumulated here at the base of this volcano.	這座火山的山腳下堆滿了大塊的火山岩。
+Most of this stuff is too heavy for one person to carry.	這些東西大多太重了，一個人搬不動。
+Nah, it wouldn't do you any good.	算了吧，這對你沒什麼幫助。
+It's attached to your pole.	它被固定在你的桿子上。
+It's attached firmly to the pole; it won't budge.	它牢牢固定在桿子上，動也動不了。
+Only one per customer please.	每位顧客限拿一個。
+It's all yours!	這就是你的了！
+You pick up one of the detonators.  Be careful, you could blow your fingers off with that thing.	你撿起了一個引爆器。小心點，這玩意可能會把你的手指炸飛。
+The pirates are hard at work, they won't notice you if you stay where you are.	海盜們正忙著幹活，只要你待在原地就不會被發現。
+Quite the swashbuckler, aren't we?  Too bad there's nobody here.	挺有俠客風範的嘛，是吧？可惜這裡沒人。
+With what, your breath?	用什麼，你的一口氣嗎？
+Quite the talker, aren't we?  Too bad there's nobody here.	話倒是不少嘛，是吧？可惜這裡沒人聽。
+Get a little closer.	再靠近一點。
+The crate is already open.	這箱子已經打開了。
+Way to go, ace!  You blundered your way to within range of the pirates' jello gun.  You suffocate in an impenetrable block of jello.	幹得好啊，高手！你笨手笨腳地闖進了海盜果凍槍的射程內，被困在一大塊密不透風的果凍裡窒息而死。
+You hear the roar of the pirates' scout ship taking off.   The ship streaks across the sky to an unknown destination.	你聽見海盜偵察艦起飛的轟鳴聲。那艘船劃過天際，飛向不知名的目的地。
+Obviously loyal company men, the ScumSoft employees are happily performing their duties. But looking at their weapons, you probably don't want to get too close.	這些廢渣軟體的員工顯然是忠心耿耿的公司人，正開開心心地執行任務。但看看他們手上的武器，你大概不會想靠太近。
+I don't know about you, but I don't see any ships here.	我是不知道你怎麼想啦，反正我這裡沒看到什麼船。
+It's a speedy little short-range skull fighter, fully armed with the latest in offensive weaponry.  You probably wouldn't want to tangle with one of these babies.	這是一架敏捷的短程骷髏戰鬥機，配備了最新型的攻擊武器。你大概不會想跟這種傢伙纏鬥。
+The climb becomes less steep as you near the bottom of the volcano.	快到火山山腳時，坡度變得比較平緩。
+The climb becomes steeper as you near the rim of the old volcano.	快到這座古老火山口邊緣時，坡度變得更陡了。
+You reach the rim of the decayed cinder cone and are overwhelmed by the sight.  An impressive machine of staggering size sits in the middle of the volcanic crater.	你爬到了這座風化火山渣錐的邊緣，眼前的景象讓你震撼不已。火山口中央，矗立著一台大得驚人的機器。
+It's pointing to a small moon high in the Ortegian sky.   Pulsating circular energy fields are being emitted into space toward the moon.	它指向歐特加高空中的一顆小衛星。一圈圈脈動的環形能量場正朝那顆衛星射向太空。
+It's pointing into the Ortegian sky.  Pulsating circular energy fields are being emitted into space.	它指向歐特加的天空。一圈圈脈動的環形能量場正朝太空射出。
+It's pointing to a small moon high in the Ortegian sky.   The beam is no longer being emitted.	它指向歐特加高空中的一顆小衛星。光束已經不再發射了。
+It's pointing into the Ortegian sky.  The beam is no longer being emitted.	它指向歐特加的天空。光束已經不再發射了。
+  The pulsating energy field is being emitted into space toward Pestulon.	脈動的能量場正朝佩斯圖倫射向太空。
+  The pulsating energy field is being emitted into space.	脈動的能量場正朝太空射出。
+It's no longer beaming.	已經不再發射光束了。
+The rim of the crater towers over you.  Though somewhat eroded, it is still quite tall.	火山口邊緣高聳於你頭頂上方。雖然已經有些風化，但依然相當高聳。
+You stand at the massive base of a force beam generator.  This unit can generate a force field powerful enough to encircle a small moon.	你站在一座巨大力場光束產生器的底座前。這台機器能產生出足以包覆一顆小衛星的力場。
+There's not too much lava around here.  This is one of the few stable spots on the surface of Ortega.	這附近的熔岩不算多，是歐特加地表少數幾個穩定的地點之一。
+The pulsating energy field is being emitted into space toward Pestulon.	脈動的能量場正朝佩斯圖倫射向太空。
+The pulsating energy field is being emitted into space.	脈動的能量場正朝太空射出。
+There's nothing to climb here.	這裡沒有東西可以爬。
+You are on a platform on the rim of the volcanic crater.  A stairway leads down to the base of the massive force field generator.	你站在火山口邊緣的一座平台上。一道階梯通往這台巨大力場產生器的底座。
+You are at the base of the massive generator.  A ladder leads up to the top.	你在這台巨大產生器的底座。一道梯子通往頂端。
+A ladder runs to the top of the generator.	一道梯子通往產生器頂端。
+The stairs lead to the base of the generator.	這道階梯通往產生器的底座。
+For people that have trouble with stairs, the rail can be helpful.	對爬樓梯有困難的人來說，扶手應該會有幫助。
+It was built to give easy access over the rocky surface.	建造這個是為了方便通過這片崎嶇地面。
+You're not close enough to the ladder.	你離梯子還不夠近。
+While trying to catch your breath you take in the panoramic view.  Below, you can see your ship off in the distance, and volcanoes stretching out over the horizon.  There is a large circular opening here at the top of this building.  This is where the beam originated, but you blew it up.  Nice going Wilco.	你一邊喘氣一邊欣賞這片全景。往下望，可以看見你的太空船遠遠停在遠方，火山群一路延伸到天邊。這棟建築的頂端有個巨大的圓形開口，光束原本就是從這裡發射的，不過已經被你炸掉了。幹得好啊，威爾科。
+While trying to catch your breath you take in the panoramic view.  Below, you can see your ship off in the distance, and volcanoes stretching out over the horizon.  There is a large circular opening here at the top of the generator.  This must be where the beam originates.  Watch your step up here.	你一邊喘氣一邊欣賞這片全景。往下望，可以看見你的太空船遠遠停在遠方，火山群一路延伸到天邊。產生器的頂端有個巨大的圓形開口，這裡想必就是光束發射的地方。在這上面走路要小心點。
+Cautiously, you peer down into the generator.   It's too dark to make out anything, but the drone of the generator has stopped.  It appears to be out of commission.	你小心翼翼地往產生器裡頭望去。裡面太暗，什麼也看不清，但產生器的嗡嗡聲已經停了，看來已經報廢了。
+Cautiously, you peer down into the generator.   It's too dark to make out anything, but the drone of the generator tells you that something is definitely happening.	你小心翼翼地往產生器裡頭望去。裡面太暗，什麼也看不清，但產生器的嗡嗡聲告訴你，裡面肯定正在發生什麼事。
+You can't quite see over the edge from here.	從這裡看不太到邊緣另一頭。
+Looks like your typical moon.	看起來就是顆普通的衛星。
+The ladder leads back down the curvature of the generator.	這道梯子沿著產生器的弧面通往下方。
+Go right ahead!	儘管去吧！
+You can't!	你辦不到！
+You don't have one.	你沒有這個東西。
+It wouldn't do any good to do that here.  Besides, you'll probably just blow your own foot off.	在這裡這麼做也沒什麼用。而且你大概只會把自己的腳炸飛。
+The explosion disables the force field generator.  You may now travel safely to Pestulon.	這場爆炸讓力場產生器失去作用。你現在可以安全前往佩斯圖倫了。
+The explosion has shut off the beam that was shooting out from this thing.  Someone's gonna be really sore at you for this.	這場爆炸關閉了從這東西發射出來的光束。有人肯定會為此對你恨之入骨。
+Seeing no immediate need to remain invisible, you turn off the belt.	眼下沒有繼續隱形的必要，你把腰帶關掉了。
+"What a peaceful planet for a software company" you think to yourself. What a shame it had to be ScumSoft. You are surrounded by what can only be described as tree-like growths towering high above you.  The turf has a mossy texture.	「這星球對一間軟體公司來說還真是寧靜」你心裡想著。可惜偏偏是廢渣軟體。你周圍是一片只能形容為樹狀的巨大生長物，高聳於你頭頂之上。地面則是滿是苔蘚般的質感。
+The trees are strangely twisted.	這些樹木的形狀詭異地扭曲著。
+What looks to be large blue boulders are actually mushroom- like parasitic growths at the base of some of the trees. Never caring much for mushrooms you leave them alone.	看起來像是大塊藍色巨石的東西，其實是長在某些樹根部、類似菇菌的寄生生長物。你向來對菇類沒什麼興趣，於是沒去理它們。
+The vibrant colors of the pestulonian sky remind you of your home planet of Xenon.  Suddenly, you feel quite home sick.	佩斯圖倫天空絢麗的色彩，讓你想起了故鄉行星澤農。你忽然感到一陣濃濃的鄉愁。
+The mossy surface squishes with each step you take.	你每踩一步，長滿苔蘚的地面就會發出濕黏的聲音。
+They're just here for looks so leave them alone, ok?	這些東西只是擺好看的，別去動它們，好嗎？
+There is no need to do that.	沒必要這麼做。
+The invisibility belt is now completely out of power.	隱形腰帶現在已經完全沒電了。
+You are hiding behind some of the strange local vegetation looking out on a clearing and an entrance to a large underground complex. From the logo on the entrance, you deduce that this must be the infamous ScumSoft headquarters.	你躲在一叢奇特的當地植物後面，望向前方的空地，以及一座大型地底建築的入口。從入口上的商標判斷，這裡想必就是惡名昭彰的廢渣軟體總部。
+ They are heavily armed and they do not look friendly.	 他們全副武裝，看起來一點也不友善。
+You see the ScumSoft entrance in the distance.	你看到遠處有個廢渣軟體的入口。
+The ScumSoft door is in the process of opening.	廢渣軟體的大門正在打開。
+The ScumSoft door is wide open, but there are two guards standing outside it.	廢渣軟體的大門敞開著，但門外站著兩名守衛。
+First you need to wear it.	你得先穿上它才行。
+It's already on.	已經穿上了。
+"WOW! This thing really works." You then quickly realize that you only have a few moments before the belts power pack is depleted.	「哇！這東西真的有用！」但你很快意識到，腰帶的電源沒剩多少時間了。
+You're not wearing it.	你沒有穿戴它。
+It's not on.	沒穿上。
+OK	確認
+Where to Buddy?	要去哪，老兄？
+You make your way through the forest of strange trees to this clearing where you discover the entrance to some large underground complex. This must be ScumSoft. Suddenly the door to the complex begins to open.	你穿過一片怪樹林，來到這片空地，發現了一座大型地底建築的入口。這裡一定就是廢渣軟體。突然間，建築的大門開始打開。
+Several guards file out of the entrance and disperse into the woods. They must have been alerted to your presence when you landed. Two guards remain behind to watch the entrance.	好幾名守衛從入口魚貫而出，散入林中。他們一定是在你降落時就發現了你的行蹤。兩名守衛則留下來看守入口。
+Decision Time. Do you wish to: 	決策時刻到了，你想要：
+You now stand invisible before the entrance to ScumSoft. Two mean looking guards stand watch. They've no doubt been instructed to shoot anything that moves so don't waste any more time gawking.	你現在隱形站在廢渣軟體的入口前。兩名兇惡的守衛正在站崗。他們肯定被下令看到任何動靜就開槍，別再傻站著看了。
+The guards are armed and alert.	守衛全副武裝、保持警戒。
+There are several force field generators creating an impenetrable barrier guarding the area behind the ScumSoft entrance. The force fields themselves are invisible until activated by an intruder.	有好幾座力場產生器，形成一道無法穿透的屏障，守護著廢渣軟體入口後方的區域。力場本身是隱形的，直到被入侵者觸發才會顯現。
+Just use your eyes, ok?	用你的眼睛看就好，行嗎？
+That would be very dangerous.	那樣做非常危險。
+I wouldn't mess with these guys if I were you.	換作是我，才不會去惹這些傢伙。
+Oh. No! You've stepped into an electrical force field and as a result you are fried to a crackly crunch. YOU'RE TOAST DUDE!	噢，不！你踩進了電力力場，結果被電得酥酥脆脆。老兄，你烤焦啦！
+What's happening??!!	到底怎麼回事？？！！
+Uh Oh! The terminator's invisibility belt is losing power!	糟了！魔鬼終結者的隱形腰帶快沒電了！
+You're within the outer fortifications of the ScumSoft headquarters. You see an elevator door and a button on the wall.	你已經進入廢渣軟體總部的外圍防線。你看到一扇電梯門，牆上有個按鈕。
+It looks like an elevator entrance.	看起來像是電梯入口。
+There is a button on the wall next to the elevator door	電梯門旁的牆上有個按鈕
+You nervously glance up to the top of the ramp knowing that the guards could come barreling down on you at any moment.	你緊張地瞥向斜坡頂端，知道守衛隨時可能衝下來對付你。
+There is a button on the wall by the elevator.	電梯旁的牆上有個按鈕。
+The elevator door is tightly sealed.	電梯門緊緊封閉著。
+It looks like you've made it just in time, as your invisibility belt is now completely out of power.	看來你及時趕到了，你的隱形腰帶已經完全沒電。
+You find yourself in... Guess... A janitor's closet. You certainly have a sixth sense about this kind of thing.	你發現自己身處……猜猜看……一間清潔工儲藏室。你對這種事還真有第六感。
+The door leads back into the hallway.	這扇門通往走廊。
+That you did.	你確實做到了。
+What a great idea, Roger! No one would be suspicious of a janitor walking around. You grab the coveralls and pull them on (seizing the opportune moment to dump all of the old items you've been pocketing along the way). What a great disguise! Wait... what's this?	好主意，羅傑！沒人會懷疑一個清潔工到處走動。你抓起工作服穿上（順便把一路上塞進口袋的舊雜物全丟掉）。偽裝得真好！等等……這是什麼？
+You reach down into the pocket of the grimy coveralls and find... well, what do you know, Mr. Garbage! A trash vaporizer. You've seen these babies in all the janitorial supply catalogs but your superiors were always too cheap to outfit you with one.	你把手伸進髒兮兮工作服的口袋，發現……哎呀，垃圾先生，你瞧瞧這是什麼！一把垃圾氣化槍。你在清潔用品型錄上看過這寶貝無數次，但你的上司總是小氣得不肯幫你配一把。
+Just walk out.	直接走出去就好。
+You are walking down a circular hallway... going %swhere.	你正走在一條環形走廊上……正往%s方向前進。
+You are in a hallway... somewhere deep in the innards of ScumSoft, Inc.	你身處一條走廊……深藏在廢渣軟體公司內部的某處。
+You are entering an interminably long hallway.	你正走進一條沒完沒了的長走廊。
+You are leaving the hallway.	你正離開走廊。
+Technically speaking, you're in a hallway.	嚴格來說，你人在走廊裡。
+The door has a keycard security system as well as a composite facial scanner. It will be pretty tricky gaining access.	這扇門裝有卡片安全系統，還有複合式臉部掃描器。想闖進去恐怕相當棘手。
+A door leads out of the hallway.	有扇門通往走廊外。
+There's not a door in sight.	這裡看不到任何門。
+Second quessing yourself, you leave the `disguise' on.	你猶豫了一下，還是把「偽裝」留在身上。
+This is neither the time nor the place for that.	現在不是時候，這裡也不是地方。
+'Using what?' you ask of yourself.	「要用什麼？」你自問。
+Do that.	就這麼做。
+A security system adjoins this door. There must be something worthwhile on the other side.	這扇門裝有安全系統。另一邊肯定有值得一探的東西。
+Tampering with the security system can only lead to misfortune.	亂動安全系統只會招來厄運。
+This door is locked.	這扇門鎖住了。
+Walk in front of a door if you want it to open.	想開門就走到門前去。
+Don't worry about the doors; they'll take care of themselves.	別擔心那些門，它們自己會處理好。
+You are not near a locked door.	你附近沒有上鎖的門。
+Easier said than done without the proper keycard.	沒有對的鑰匙卡，說得容易做起來難。
+These things take time...	這種事急不來……
+You're not facing a locked door.	你面前沒有上鎖的門。
+You need to get closer to the scanner.	你得再靠近掃描器一點。
+Do or don't; the fact remains the door is locked.	做不做隨你，反正門就是鎖著的。
+The door is not an obstacle.	這扇門不是障礙物。
+Don't step on a crack!	別踩到裂縫！
+You've already found the vaporizer; the handkerchief is a permanent fixture.	你已經找到氣化槍了；那條手帕是固定配備。
+You haven't got any!	你根本沒有！
+You wouldn't be able to see where you were going.	你會看不清自己要往哪走。
+You don't have such.	你沒有這種東西。
+Rummaging about the cramped closet you find a pair of old, grimy janitorial coveralls.	你在狹窄的儲藏室裡翻找，找到一套又舊又髒的清潔工工作服。
+Your thorough search reveals a lot of used junk, but nothing of value to you.	你仔仔細細搜了一遍，翻出一堆廢舊雜物，但沒有一樣對你有用。
+You hear several clicks. "I'm in" you think to yourself.	你聽到幾聲喀嗒聲。「進去了。」你心想。
+Then you hear a synthesized voice say, "Keycard verified. Standby for composite facial scan."	接著你聽到一個合成語音說：「卡片驗證通過，請準備進行複合式臉部掃描。」
+Composite Facial Scan complete: Access denied.	複合式臉部掃描完成：拒絕存取。
+The calendar indicates today.	月曆顯示的是今天。
+As might be expected, the water cooler is empty.	不出所料，飲水機是空的。
+The plants are just plants.	這些植物就只是植物而已。
+The plants have already been watered, thank you.	這些植物已經澆過水了，謝謝。
+It's a bit late for that now.	現在才做這個，有點太遲了。
+It's your typical office copier. Untypically, it works.	這是台典型的辦公室影印機。不典型的是，它居然能用。
+There is clearly a picture on the wall.	牆上顯然掛著一張照片。
+There is a color copy machine which, oddly enough, is not currently under repair.	這裡有台彩色影印機，奇怪的是，它現在居然沒故障。
+You already did.	你已經做過了。
+That wouldn't fool anybody.	這種把戲騙不了任何人。
+"Hello there", you say to the nerd.	「哈囉」，你對這個宅男說。
+He asks "Have you seen my pocket protector around here?"	他問：「你有在這附近看到我的口袋防護套嗎？」
+One copy per customer.	每位顧客限印一份。
+It would help matters if you had an object suitable for copying.	如果你手上有適合拿來影印的東西，事情會好辦得多。
+Get real.	醒醒吧。
+Foolishly, you retake the picture of Elmo.	你傻傻地把艾爾莫的照片拿了回來。
+Surreptitiously, you snatch the picture of Elmo.	你偷偷摸摸地把艾爾莫的照片抓走。
+Wisely, you replace the original picture of Elmo.	你很明智地把艾爾莫的原始照片放了回去。
+Make up your mind.	拿定主意吧。
+First making sure that no one is watching, you slip Elmo's picture into the copier and press the start button...	你先確認沒人在看，接著把艾爾莫的照片塞進影印機，按下啟動鈕……
+Out pops a beautifully reproduced copy which you roll up and stash in your pocket.	一張複製得美輪美奐的照片彈了出來，你把它捲起來塞進口袋。
+Don't forget the original!	別忘了拿走原本那張！
+You are in the boss' cubicle area and the boss is in. Be reverent.	你在老闆的隔間區，老闆在裡面。放尊重點。
+You are in the boss' cubicle area and the boss is out. Be yourself.	你在老闆的隔間區，老闆不在。放輕鬆做自己。
+Behind the desk sits a boy who looks to be about 14 years old. "Do your job and get out" he blurbs.	辦公桌後坐著一個看起來大概 14 歲的男孩。他脫口而出：「做完你的事就滾。」
+Over the top of the partitions you can see two gentlemen cracking whips. You assume that it must be the programming department.	隔板上方，你看到兩位先生正甩著鞭子。你猜這裡大概就是程式部門。
+Better keep your distance!	最好離遠一點！
+"Just do your job and scram", he bellows in response.	「做完你的事就滾」，他咆哮著回應。
+Your words fall on deaf ears.	你說的話對方完全沒在聽。
+Don't be foolish!	別傻了！
+All of the desk drawers are locked. However, someone has carelessly left a keycard on the desk.	所有的抽屜都上了鎖。不過，有人不小心把一張門卡留在桌上。
+All of the desk drawers are locked.	所有的抽屜都上了鎖。
+You're not in a position to do that.	你現在沒立場這麼做。
+Not a wise choice at this time.	現在這麼做不是明智之舉。
+You take the keycard.	你拿走了門卡。
+You're not near one.	你附近沒有這種東西。
+You already have the keycard.	你已經有那張門卡了。
+That is not available.	這個辦不到。
+You stand on a platform overlooking the Scum Soft vehicle bay.  In the center of the hangar sits your ship surrounded by rows of short-range skull fighters.  Now how will you ever get out of here?	你站在一座平台上，俯瞰廢渣軟體的載具機庫。機庫中央停著你的太空船，四周圍繞著一排排短程骷髏戰機。現在你到底要怎麼離開這裡？
+Your ship doesn't appear to have been tampered with.  You realize that it's only a matter of time before you are found as well.  Better get on to the business at hand: finding those Two Guys.	你的太空船看起來沒被動過手腳。你也明白自己被發現只是遲早的事。還是先辦正事要緊：找到那兩位仙女座雙傑。
+The short-range fighters are well armed and ready for action.  Even if you do manage to escape, they'll no doubt send these babies after you.	這些短程戰機武裝齊全、隨時待命。就算你真的成功逃走，他們肯定會派這些傢伙來追你。
+The opened hangar doors reveal the Pestulonian sky above.	敞開的機庫大門，露出上方佩斯圖倫星的天空。
+Forget it!	算了吧！
+Looking down the deep shaft makes you giddy.	往下看這道深不見底的豎井，讓你頭暈目眩。
+The only visible means of access to the detention platform is by means of retractable bridges.	唯一能通往拘留平台的方式，看起來就是靠這些可伸縮的橋。
+Massive doors feed into the detention chamber from parts unknown.	幾扇巨大的門從不知名的地方通向這間拘留室。
+The lines warn you to watch your step!	地上的標線警告你走路要小心！
+Other than the tightly sealed doors, the walls reveal no exits.	除了那些緊閉的門，牆上看不出任何出口。
+You notice several darkened observation windows high above. You hope no one is observing you now.	你注意到上方有幾扇暗著的觀察窗。你希望現在沒人正在看著你。
+An array of control buttons adjoins each door.	每扇門旁邊都有一排控制按鈕。
+Jesse Owens you ain't.	你才不是什麼飛毛腿傑西·歐文斯。
+There is not a button in your reach.	你手構不到任何按鈕。
+You cautiously enter a darkened chamber. A seemingly bottomless shaft drops off into a black abyss. On a platform in the center of the chamber, the Two Guys from Andromeda wiggle helplessly in lime jello. The platform can only be reached by the four retractable bridges at each entrance.	你小心翼翼地走進一間昏暗的密室。一道深不見底的豎井直墜漆黑深淵。密室中央的平台上，仙女座雙傑正無助地在萊姆果凍裡扭動掙扎。要抵達這座平台，只能靠每個入口那四座可伸縮的橋。
+'HELPH!' they slurp from their jello-encased captivity.	「揪命啊！」他們被果凍困住，含糊地喊著。
+Good idea! But how?	好主意！但要怎麼做？
+This is not your ordinary store-bought jello.	這可不是什麼超市買得到的普通果凍。
+Yuck! You hate lime jello!	噁！你最討厭萊姆果凍了！
+From where you stand, it couldn't be done.	你站的這個位置，根本辦不到。
+Horrors!	太可怕了！
+The resilient jello resists your attempts.	這果凍韌性十足，抵擋住了你的嘗試。
+The jello exists no more.	果凍已經不復存在。
+It's been vaporized into oblivion.	它已經被徹底汽化，消失無蹤。
+It's a bit late for that now!	現在才做這個，有點太遲了！
+Your puny vaporizer is ineffective.	你那把弱雞汽化槍根本沒用。
+How now?	現在該怎麼辦？
+Good news: you have freed the two guys from Andromeda!	好消息：你救出了仙女座雙傑！
+Bad news: you have been discovered meddling about.	壞消息：你被發現在這裡搞東搞西了。
+The two guys look to you for direction.	兩位仙女座雙傑望向你，等你指示。
+The guards are looking at you.	守衛正盯著你看。
+Your every move is being observed.	你的一舉一動都被人監視著。
+Elmo Pug, the president of ScumSoft, is in charge here.	艾爾莫·帕格，廢渣軟體的總裁，是這裡的負責人。
+Elmo Pug is doing all the talking now.	現在都是艾爾莫·帕格在說話。
+You successfully free the two guys from their slimey confines and they begin to speak:	你成功把兩人從黏糊糊的囚禁中救出來，他們開口說話了：
+"Thanks dude! It's great to be out of that green stuff. Hey, what's your name?"	「謝啦老兄！能離開那堆綠色黏液真是太好了。嘿，你叫什麼名字？」
+"Roger Wilco," you admit.	「羅傑·威爾科，」你老實回答。
+"They discovered our distress message we coded into the Astro Chicken game and sent us here as punishment. Let's get out of here before we're discovered!"	「他們發現了我們藏在太空雞遊戲裡的求救訊息，把我們送來這裡當懲罰。趁還沒被發現，趕快離開這裡！」
+So... what's your plan for getting us out of here, Wilco?	那……威爾科，你打算怎麼帶我們離開這裡？
+Nobody's going anywhere... heh, heh, heh! You must have thought you were pretty clever, Mr. Wilco, disguising yourself as a janitor.	誰也別想離開……嘿嘿嘿！威爾科先生，你一定覺得自己扮成清潔工很聰明吧。
+Unfortunately for you, my boys found your sorry excuse for a ship in the woods. Escort this gentleman to the ARENA. You boys haven't seen a good fight in quite a while.	可惜對你來說，我的手下在樹林裡找到你那艘破船了。把這位先生押去競技場。你們這些傢伙也好久沒看過一場好戲了。
+And do away with those two Andromedans. They have been more trouble than they're worth. TAKE THEM AWAY!	至於那兩個仙女座人，處理掉。他們帶來的麻煩早就超過他們的價值了。把他們帶走！
+-- INSTRUCTIONS --	-- 操作說明 --
+  use arrow keys to	  用方向鍵
+ control your robot	 操控你的機器人
+use the J key to punch	按 J 鍵出拳
+use the M key to block	按 M 鍵格擋
+Press Any Key To Start	按任意鍵開始
+Ok Wilco, the name of the game is Nukem Dukem Robots.   The only rule is that there are no rules!	好啦威爾科，這遊戲叫「轟殺機器人」。唯一的規則就是沒有規則！
+You have a limited power supply.  A successful blow will absorb my robot's energy and vice versa.  On the other hand, a wasted movement of any kind will rapidly deplete your robot's power.  Sounds like fun, huh?	你的能量供應是有限的。打中一拳就能吸收我機器人的能量，反之亦然。另一方面，任何浪費的動作都會讓你機器人的能量迅速耗盡。聽起來很好玩吧？
+Anyway, here's the deal.  If you win (snicker), you have the honor of becoming Scum Soft's new full-time janitor.   Ha! Ha!  but... if I win... you'll be DEAD!!	總之，條件是這樣的。如果你贏了（暗笑），你就有榮幸成為廢渣軟體的新任專職清潔工。哈！哈！但……如果我贏了……你就死定了！！
+Oh, by the way, your friends, The Two Guys from Andromeda have joined us, as you can see below.  Be careful not to STEP on them.  Heh, heh, heh.	對了，順帶一提，你的朋友——仙女座雙傑，已經加入我們了，你可以看到他們就在下面。小心別踩到他們喔。嘿嘿嘿。
+               LET THE GAME BEGIN!	               遊戲開始！
+Greetings Earthling. We are the Two Guys From Andromeda, Universally famous software authors.	地球人你好。我們是仙女座雙傑，享譽全宇宙的軟體作者。
+And I am Roger Wilco, Space age swashbuckler and all around nice guy.	而我是羅傑·威爾科，太空時代的俠客，也是個處處討喜的好人。
+Hello, I'm Ken Williams, President and founder of Sierra On-line. Sooo... You two guys are software authors heh? What are your credits?	你好，我是肯·威廉斯，Sierra On-line 的總裁兼創辦人。那個……你們兩位是軟體作者對吧？有什麼代表作？
+Ever heard of ASTRO CHICKEN?	聽過《太空雞》嗎？
+No	不是
+Good!	很好！
+How about you two guys coming to work for me?	你們兩個要不要來幫我做事？
+Sounds great! How many buckazoids does it pay?	聽起來不錯！薪水有多少太空幣？
+Buckazoids?	太空幣？
+Say... Uh...Mr. Williams. Do you need a janitor?	那個……呃……威廉斯先生。你缺清潔工嗎？
+As our space saga comes to a close, Roger, feeling a little left out, struts off to his ship with the satisfaction of knowing his mission has been accomplished.	隨著這段太空傳奇即將落幕，羅傑雖然有點被冷落，仍帶著任務圓滿達成的滿足感，昂首闊步走回自己的太空船。
+ The Two Guys from Andromeda go on to create the Space Quest series of adventure games reaping fame and fortune. They grow fat on their success and soon become burnt out and begin a drunken tailspin into obscurity.	 仙女座雙傑後來創作了《太空傳奇》系列冒險遊戲，名利雙收。他們在成功中養尊處優，很快便江郎才盡，開始醉醺醺地一路沉淪，逐漸被世人遺忘。
+And so we bid our hero a fond farewell as his ship once again bursts into light speed... course unknown.	就這樣，我們的英雄再度駕船衝上光速……航向未知，讓我們向他依依道別。
+Well, it looks like you've depleted your power.  The last thing you see is your blood slowly spreading across the arena floor.	看來你的能量已經耗盡了。你看到的最後一幕，是自己的血緩緩在競技場地板上蔓延開來。
+You and the Two Guys are separated and escorted away.  A door opens and you are led into the dark unknown.	你和仙女座雙傑被分開押走。一扇門打開，你被帶進一片黑暗未知之中。
+The small pod is jarred by a sudden shock which triggers the Sleep Chamber's Revive Mode. As the glass shroud slides back, Roger slowly begins to regain consciousness.	這個小艙體突然被一陣震動搖晃，觸發了休眠艙的甦醒模式。隨著玻璃罩緩緩滑開，羅傑漸漸恢復了意識。
+1. MINI MONOLITH~~~~ ...........................1.00 2. MONOLITH ................................2.00 3.   W/POLYCHEEZE ........................3.00 4. FILET-O-ORAT~~~ ..........................2.00 5. JUMBO MONOLITH W/POLYCHEEZE~ ......5.00 6. BIG BELCHER COMBO~~ .....................9.00     INCLUDES: JUMBO MONO W/POLYCHEEZE, SPACE SPUDS     W/EXTRA GREASE AND SLOPPY SLURPER 7. MONOLITH FUN MEAL ....................7.00 8. SPACE SPUDS~ ............................1.00  TANG 9.    SMALL .......................1.00 A.    MED~ .........................2.00 B.   ~~~~LARGE~~~ ......................3.00 C. SLOPPY SLURPER~~~ ............4.00	1. 迷你巨石堡~~~~ ...........................1.00 2. 巨石堡 ................................2.00 3.   加多層起司 ........................3.00 4. 歐拉獸魚排堡~~~ ..........................2.00 5. 特大巨石堡加多層起司~ ......5.00 6. 大打嗝套餐~~ .....................9.00     內含：特大巨石堡加多層起司、加量油炸太空薯條     及邋遢吸溜飲料 7. 巨石堡歡樂餐 ....................7.00 8. 太空薯條~ ............................1.00  果珍 9.    小 .......................1.00 A.    中~ .........................2.00 B.   ~~~~大~~~ ......................3.00 C. 邋遢吸溜~~~ ............4.00
+Choose number to order	選擇編號來點餐
+Press Q to quit	按 Q 鍵離開
+Thank You	謝謝惠顧
+Would you like something to drink with that?	要不要加點飲料？
+Would you like some Space Spuds with that??	要不要加點太空薯條？
+Would you like a Blattfruit Pie with that??	要不要加點布拉茲果派？
+Special today: A free drink with every purchase!	今日特惠：每筆消費送一杯飲料！
+Special today: A free Filet-O-Orat with every purchase!	今日特惠：每筆消費送一份歐拉獸魚排堡！
+It costs one buckazoid.	這個要一枚太空幣。
+The on-screen instructions explain all aspects of Astro Chicken.	螢幕上的說明會解釋《太空雞》的所有玩法。
+Just be patient, the instructions will cycle through until you insert a buckazoid.	耐心等一下，說明畫面會不斷循環播放，直到你投入一枚太空幣為止。
+Don't stand there gawkin', let's play some Astro Chicken!	別杵在那邊發呆了，來玩《太空雞》吧！
+It appears to be in code.	這東西看起來是用密碼寫的。
+If you only had a way to decode it...	要是你有辦法解碼就好了……
+But you don't have any way to decode it.	但你沒有辦法解碼它。
+There's no message here.	這裡沒有訊息。
+the secret code goes something like this: a{{ b{{ c{{ d{{ e{{ f{{ g{ h{ i{{ j{{ k{{ l{{ m A B C D E F G H I J K L M  n{ o{ p{ q{ r{{ s{{ t{ u{ v{ w{ x{ y{ z N O P Q R S T U V W X Y Z	秘密密碼大概長這樣：a{{ b{{ c{{ d{{ e{{ f{{ g{ h{ i{{ j{{ k{{ l{{ m A B C D E F G H I J K L M  n{ o{ p{ q{ r{{ s{{ t{ u{ v{ w{ x{ y{ z N O P Q R S T U V W X Y Z
+You don't have any way of doing that.	你沒有辦法這麼做。
+Insert Buckazoid!	投入太空幣！
+   ASTRO CHICKEN MUST LAND ON THE      ASTRO CHICKEN LANDING PAD.     HE'S DEPENDING ON YOU TO BRING          HIM TO SAFETY!	   太空雞必須降落在      太空雞降落台上。     牠可全靠你才能          平安降落！
+Controls: Left arrow: move left Down arrow: stop left/right movement Right arrow: move right Up arrow: toggle flapping  Feed: don't use up all your feed!  Hit the landing pad too fast and you'll bounce back up.  Landing outside the landing pad is fatal.  If you fly too high you'll bounce off the atmosphere and plummet back to the surface.	操作方式：左方向鍵：往左移動　下方向鍵：停止左右移動　右方向鍵：往右移動　上方向鍵：切換拍動　飼料：別把飼料用光了！　降落速度太快會被彈回空中。　降落在降落台以外就死定了。　飛太高會撞上大氣層，摔回地面。
+HELP US! WE ARE BEING HELD CAPTIVE BY SCUMSOFT ON THE SMALL MOON OF PESTULON.  AN INPENETRABLE FORCE FIELD SURROUNDS THE MOON.  IT MUST FIRST BE DEACTIVATED.  IT'S ORIGIN IS UNKNOWN TO US.  SCUMSOFT SECURITY IS ARMED WITH JELLO PISTOLS.  WE'RE COUNTING ON YOU WHOEVER YOU ARE.       TWO GUYS IN TROUBLE	救救我們！我們被廢渣軟體囚禁在佩斯圖倫的小衛星上。這顆衛星被一道無法穿透的力場包圍。必須先關閉這道力場才行。我們不知道它的來源。廢渣軟體的保全都配備果凍手槍。不管你是誰，我們都指望你了。       身陷麻煩的雙傑
+Feed:	飼料：
+You don't even have a buck.	你連一枚太空幣都沒有。
+You are inside one of Mog's legs. There is an elevator shaft (complete with elevator) leading up into the interior.	你在莫格的其中一條腿內部。這裡有一座電梯井（附電梯），通往內部上方。
+The elevator is at the bottom of the shaft. You see the elevator buttons on the south side of the elevator	電梯在電梯井的底部。你在電梯南側看到電梯按鈕。
+Gee, one button says "Up" and one says "Down".	哎呀，一個按鈕寫著「上」，另一個寫著「下」。
+You see the elevator shaft extending up into Mog's body.	你看到電梯井向上延伸進入莫格的身體。
+It's a pretty ordinary elevator shaft.	這是個相當普通的電梯井。
+Hey, just get on with it dude!	嘿，老兄，快點動作啦！
+The elevator is already down.	電梯已經在下面了。
+Just take the elevator.	搭電梯就對了。
+Fester is riding up on the elevator.	費斯特正搭電梯上樓。
+Fester is waiting impatiently for you to get on the elevator.	費斯特不耐煩地等你上電梯。
+You don't see him here.	你在這裡沒看到他。
+You are within the cavernous interior of Mog's belly. An elevator shaft leads down, and stairs run between the first and second level platforms. The heavy equipment necessary to automate Mog can be seen on the upper level.	你身處莫格體內的巨大空間。一道電梯井向下延伸，樓梯連接一樓與二樓平台。讓莫格自動運作所需的重型機械，在上層清晰可見。
+They look just like stairs to me.	在我看來，這就是普通的樓梯。
+The platform flooring is made up of a metalic mesh.	平台地板是用金屬網格鋪成的。
+Through the metal grating, you can make out steel girders leading down into the darkness.	透過金屬格柵，你可以看見鋼樑向下延伸進入黑暗之中。
+Looking up, you see girders and various pieces of machinery fading off into the darkness.	抬頭望去，只見鋼樑與各式機械逐漸隱沒在黑暗中。
+You are within the interior of a giant robot-like statue.	你身處一座巨大機器人狀雕像的內部。
+You see a lean, mean, fighting machine coming up elevator.	你看見一台精瘦、凶狠的戰鬥機器正搭電梯上來。
+It looks like 750 pounds of fighting robot is headed your way.	看來有一台重達七百五十磅的戰鬥機器人正朝你逼近。
+The terminator is now a pile of junk on the first level platform. %s	那台終結者現在成了一樓平台上的一堆廢鐵。%s
+The terminator is now a pile of junk on the first level platform.	那台終結者現在成了一樓平台上的一堆廢鐵。
+The large electric motor providing power for Mog's automation hums noisily away on the second level platform.	為莫格自動化系統供電的大型電動馬達，正在二樓平台上嗡嗡作響。
+It appears that the gears provide the power linkage for the machinery moving Mog's arms and jaw. It seems that they haven't heard of OSHA here on Phleebhut. There isn't even a guard rail around them. I sure wouldn't want to fall in there!	這些齒輪似乎是驅動莫格手臂與下顎的動力連結裝置。看來弗利布特這裡沒聽過「勞工安全衛生」這回事，四周連個護欄都沒有。我可不想不小心摔進去！
+There are two rope pulleys near the motor and gears. Apparently they are used for maintenance of the equipment. Looking up, you notice that they are mounted on tracks running the length of the second floor platform.	馬達與齒輪附近有兩組繩索滑輪，看起來是用來維修設備的。你抬頭一看，發現它們裝設在貫穿二樓平台的軌道上。
+The two rope pulleys are mounted on the tracks.	這兩組繩索滑輪裝設在軌道上。
+Nuts to you!	哼，才不甩你！
+The unguarded elevator shaft runs down to the entrance below. I wonder how many tourists they lose falling down there every year. I hope Fester has good liability insurance.	這座沒有護欄的電梯井一路通往下方入口。真好奇每年有多少觀光客不小心摔死在這裡。希望費斯特有幫自己保足責任險。
+Steel girders provide the structural support for the statue and equipment.	鋼樑為這座雕像與機械設備提供結構支撐。
+Yes, that's an elevator.	沒錯，那是一台電梯。
+Gee, button one says "Up" and one says "Down".	嗯，這裡一個按鈕寫著「上樓」，另一個寫著「下樓」。
+Nothing happens.	什麼都沒發生。
+I don't think he's interested in talking.	我看他沒什麼興趣跟你聊天。
+You don't see anyone here to talk to.	這裡沒有人可以讓你交談。
+That wouldn't do much good.	那樣做也沒什麼用。
+There's no need for that now.	現在沒必要這麼做。
+There's no way you could do that.	你根本辦不到。
+You already took it.	你已經拿走了。
+You don't seen one here.	這裡沒看見這種東西。
+Ok.	 好的。 
+There is no way you could carry all that.	你不可能扛得動這麼多東西。
+No way!	門都沒有！
+Just go there.	直接過去就行了。
+That's nice in theory, but you'd need to find some way to put it into practice.	理論上是不錯，但你得想辦法把它付諸實行。
+That wouldn't help any.	那樣做一點幫助也沒有。
+You would have a better chance of surviving if you took the elevator.	搭電梯的話，你活下來的機率會高得多。
+You really are not all that fond of heights.	說實話，你沒那麼喜歡站在高處。
+That wouldn't accomplish much.	那樣做成不了什麼事。
+You missed!	你沒打中！
+Unfortunately, the pulley has come to the end of its track.	很不巧，這組滑輪已經到軌道盡頭了。
+It's too late now.	現在為時已晚。
+ Reaching up, you give the rope pulley a mighty shove.  	 你伸手抓住繩索滑輪，使勁一推。
+Hey! What's going on here! Didn't you read the sign saying we're closed for repairs?	喂！這是在搞什麼！你沒看到告示牌寫我們正在維修暫停營業嗎？
+Oh! I see you've gotten rid of that grease swilling android. Never did like that terminator series. Good riddance to bad circuits!	喔！看來你把那台滿身油污的機器人給解決了。我一直都不喜歡那個終結者系列，壞掉的電路就該一去不回！
+Well, you might as well ride down with me.	好吧，你乾脆跟我一起搭下去好了。
+Come on, come on! I don't have all day.	快點快點！我可沒那麼多時間耗在這。
+The cast-off refuse of a dozen worlds clings to every available surface of the store.  You're astonished at the diversity.  You're even more astonished that someone would buy this stuff.	這間店裡每一寸表面，都堆滿了來自十幾個星球的廢棄雜物。你對這種琳瑯滿目感到驚訝，但更驚訝的是居然有人會買這些東西。
+The glass counter, smeared with the fingerprints (and who knows what else) of countless off-world species, covers an impressive array of over-priced rocks and gems.  Atop the counter is a rack of colorful post cards from all corners of the galaxy.	玻璃櫃上沾滿了無數外星物種留下的指紋（天曉得還有什麼），櫃子裡陳列著一大堆漫天要價的石頭與寶石。櫃檯上還擺著一整排來自銀河各角落的繽紛明信片。
+Imagine, if you will, a sleazy tourist trap in the middle of the howling desert on Phleebhut.   The proprietor looks like the unfortunate offspring of a union between a squid and a Vorlian gas beast.  His keen business mind and utter lack of scruples afford him a comfortable living here on the backside of civilization.	請你想像一下，在弗利布特狂風呼嘯的沙漠正中央，有一間廉價的觀光陷阱商店。老闆長得就像烏賊和沃利安瓦斯獸不幸結合生下的產物。靠著精明的生意頭腦和毫無底線的手段，他在這文明邊陲之地過得相當滋潤。
+A mouth whose favorite word is 'money' grins at you between sales pitches.	這張嘴巴最愛掛在嘴邊的字就是「錢」，一邊推銷一邊對你咧嘴笑。
+The bulging, reptilian eyes scan you greedily.	那雙鼓凸的爬蟲類眼睛，貪婪地打量著你。
+This is not Police Quest.	這裡又不是《Police Quest》。
+The skull of a horned Phleebeast hangs from the rafters.	屋樑上掛著一顆長角弗利獸的頭骨。
+Many colorful gems are proudly displayed.   Why.. Those green gems at the end there look just like the orium in your pocket.	這裡自豪地展示著許多五顏六色的寶石。咦…末端那些綠色寶石，看起來就跟你口袋裡的歐利姆礦石一模一樣。
+Many colorful gems are proudly displayed.   Why.. Those green gems at the end there look just like the orium you found in the swamp on Labion.	這裡自豪地展示著許多五顏六色的寶石。咦…末端那些綠色寶石，看起來就跟你在拉比恩沼澤裡找到的那塊歐利姆礦石一模一樣。
+The floor below, the ceiling above. The physical laws of the universe are unchanging.	地板在下，天花板在上。宇宙的物理法則從未改變。
+The pleasant landscape of Phleebhut stretches to the horizon.	弗利布特這片宜人的風景，一路延伸到地平線盡頭。
+The walls keep the ceiling and the floor from slamming into each other.	這些牆壁讓天花板跟地板不至於撞在一起。
+The glass is, as usual, transparent.	這片玻璃跟往常一樣，是透明的。
+The rack holds many interesting postcards.	架子上擺著許多有趣的明信片。
+Mercifully, it covers his somewhat repulsive body.	幸好，它遮住了他那副有點噁心的身軀。
+The shelves are arrayed with some fine examples of the natural wonders of this planet.  Also some worthless junk that can only be found in a fine tourist establishment such as this.	架上陳列著一些這顆星球上難得一見的自然奇觀，此外也有些一文不值的破爛，這種東西也只有在這種高檔觀光店才找得到。
+He's not listening to you, he likes the sound of his own voice too much.	他根本沒在聽你說話，他太陶醉在自己的聲音裡了。
+Come on, don't tear the place up!	拜託，別把這地方拆了！
+You've come this far without resorting to crime; don't start now.	你都撐到現在都沒犯罪了，別在這種時候破功。
+Not a real appealing thought.	這念頭一點也不吸引人。
+You don the jaunty hat.  You feel more sporty already!	你戴上這頂時髦的帽子，馬上感覺自己帥氣不少！
+You're not wearing the hat.	你並沒有戴著帽子。
+Everything has a price around here.  You'll have to try buying it.	這裡的東西每樣都要錢，你得先付錢才能拿。
+Admittedly, they're very nice, but you already own one.	老實說，這些東西是不錯，但你已經有一個了。
+Come on, noboby buys that stuff!	拜託，才沒人會買這種東西！
+Sorry friend, these gems are just for gawkin'at. They're quite valuable don'tcha know.	抱歉啦朋友，這些寶石只能看看不能碰。它們可值錢得很呢，你知道嗎。
+If you wanted Orium, you shouldn't have sold your only piece!	你要是想要歐利姆礦石，當初就不該把手上唯一的那塊給賣了！
+You almost buy one, then realize that you don't have any friends to send one to.	你差點就要買下一張，但轉念一想，發現自己根本沒有朋友可以寄。
+"A wise choice.  I'm sure you'll be very, very pleased!"	「明智的選擇。我相信你一定會非常、非常滿意！」
+Everything here costs 25 buckazoids, and you don't have that much!	這裡的東西一律要價二十五太空幣，而你身上根本沒那麼多錢！
+Howdy, stranger!  The name's Blatz, Fester Blatz.  Welcome to World o' Wonders.  Go ahead, have a look at some of the trendiest items in the known universe.  Make the most of your vacation buckazoid! 	你好啊，陌生人！我叫布拉茲，費斯特·布拉茲。歡迎光臨奇觀世界。來瞧瞧咱們這已知宇宙裡最時髦的商品吧。把你的度假太空幣花得值回票價！
+Pestulon, Pestulon.  Isn't that a deodorant?  No, no, that's PestBeGone.  Hmmmm, I think Pestulon's just south of the Lungfish Nebula.  Yeah, I'm sure that's where it is.	佩斯圖倫，佩斯圖倫。那不是除臭劑的牌子嗎？不對不對，除臭劑叫「除蟲寧」啦。嗯……我記得佩斯圖倫好像在肺魚星雲南邊，對，肯定沒錯。
+They make Astro Chicken, don't they?  Kind of a hush hush operation from what I hear.  I've heard rumors that they're involved in the Two Guys From Andromeda kidnapping.	他們是做太空雞的吧？聽說做事挺神秘兮兮的。我聽說有謠言說他們跟仙女座雙傑的綁架案有關。
+ Thanks for stop'n by!  Hey, looks like that lightning is gettin' close, better be careful out there!  	 謝謝光臨啊！嘿，那邊閃電好像越來越近了，在外面小心點！  
+How about a nice Orat on a Stick! The kids'll just love this!  We're talkin' hours of fun for the whole family! Just look how cute this little guy is!  	來一份美味歐拉獸串怎麼樣！小朋友肯定超愛！全家大小都能玩上好幾個鐘頭！你看這小傢伙多可愛啊！  
+Now here's a red-hot item, the Official Astro Chicken Flight Hat!  You'll really turn some heads in this sporty little number!  It's modeled after the hot new arcade game that's sweeping the galaxy.	現在要介紹的是超夯商品——官方版太空雞飛行帽！戴上這頂帥氣小物，保證讓你成為全場焦點！它可是照著那款席捲全銀河的當紅街機遊戲打造的呢。
+Goin' to any high-temp planets?  This nice pair of ThermoWeave underwear'll keep your internal environment pleasant on even the sweatiest worlds.  	要去高溫星球嗎？這件熱織牌內衣就算在最悶熱的星球上，也能讓你私密處保持舒爽。  
+ You just take your time, ya hear? Don't feel pressured to buy anything.  	 你慢慢看，別有壓力，不買也沒關係。  
+I seen ya eyein' the display case.  You'll notice a very nice collection of orium crystals.  I think you'll agree that they're some of the highest quality gems on this hemisphere.  And priced to sell, too!	我看到你在盯著展示櫃看囉。你會發現這裡收藏了一批很不錯的歐利姆水晶。我想你也會同意，這些可是本半球數一數二的頂級寶石。而且價錢超划算！
+ My, my, that certainly is one fine hunk o' orium!   	 哎呀呀，這塊歐利姆真是塊寶啊！   
+ Well, 'fraid I can't go any higher. Maybe some other time, eh?  	 嗯，恐怕我沒辦法再加價了。下次有機會再說吧，嗯？  
+ Yessiree, that's one fine hunk o' orium! Course, the orium market's a little slow today...  	 沒錯，這塊歐利姆真是一等一！不過呢，今天歐利姆市場行情有點淡……  
+ Well, OK. Ya drive a hard bargain, stranger. Maybe some other time, eh?  	 好吧好吧，陌生人，你還真會殺價。下次有機會再說吧，嗯？  
+"I'll take it off your hands for %d buckazoids.  Whaddya say?"	「我用 %d 元太空幣跟你收購，你覺得如何？」
+You examine one of the many interesting post cards.	你查看了其中一張有趣的明信片。
+             Arrakis                             Place A great spot for winter travel,              Stamp Arrakis holds many delights for               Here the adventurous vacationer. Nothing can compare with a blinding dust storm, or being crushed by a sandworm.  	             阿拉基斯                          貼 冬季旅遊的絕佳去處，              郵 阿拉基斯為喜愛冒險的               票 遊客準備了許多驚喜。沒有什麼比得上一場遮天蔽日的沙暴，或是被沙蟲活活壓扁的震撼體驗了。  
+     Black Hole Bertha                       Place Like a giant interstellar                     Stamp vacuum, Black Hole Bertha                  Here comes sweeping through the galaxy. All travelers are advised to stay away from Bertha. Just buy the post card, then tell everyone you went there.  	     黑洞柏莎                       貼 就像一台巨大的星際                     郵 吸塵器，黑洞柏莎正                  票 橫掃整個銀河系。建議所有旅客千萬別靠近柏莎。買張明信片就好，然後跟大家說你去過那裡了。  
+             Ortega                             Place The volcanoes of Ortega are                 Stamp constantly reshaping its                       Here surface. Dressed in heat resistant underwear, the hearty traveler can find a lava lovers paradise on this starkly enjoyable planet.  	             歐特加                             貼 歐特加的火山不斷                 郵 重塑著它的                       票 表面。穿上耐熱內衣，勇於冒險的旅人就能在這顆風情獨具的星球上，找到熔岩愛好者的天堂。  
+         RobertaLand                           Place Come join the fun at the                      Stamp funpark of the future!                         Here See characters from your favorite stories come to life again and again. Recently revised, so don't miss a single thrilling scene.  	         蘿貝塔樂園                           貼 來加入未來的                      郵 歡樂樂園吧！                         票 看你最愛故事裡的角色一次又一次躍然眼前。最近才剛翻新，精彩場面一幕都別錯過。  
+   Beta Alpha Starless Region               Place Looking for some real                      Stamp solitude? Come to a place                   Here that's so far from everything that you can't even see stars. Mind-numbing boredom greets you as you drift aimlessly through nothing. A must for the brain-dead!  	   貝塔阿爾法無星帶               貼 想要真正的                      郵 與世隔絕嗎？來個                   票 遠到連星星都看不見的地方吧。在虛無中漫無目的地漂流，迎接你的是麻木無感的無聊。腦死人士必訪景點！  
+             Achoron                            Place The friendly creatures of                    Stamp Achoron are a delight for                     Here young and old alike. Tame enough to come right up and caress you, yet wild enough to slash you to shreds if provoked.  	             阿科隆                            貼 阿科隆上友善的                    郵 生物老少咸宜。                     票 牠們溫馴到會主動靠過來讓你撫摸，但一旦惹毛了，也野性到能把你撕成碎片。  
+There are sand dunes over most of Phleebhut. They hold no particular interest for you, except as an annoying obstacle to your progress.	弗利布特星球上到處都是沙丘。對你來說沒什麼特別的，頂多是擋你路的討厭障礙物。
+The ground beneath your feet is composed of an unusually colored sand. Other than it's bizarre coloration, you have no other interest in it. However... as you expectorate a mouthful of the wind blown sand you briefly reminisce about your adventure on Kerona (SQ I ).	你腳下的地面是由顏色詭異的沙子構成。除了那詭異的色澤之外，你對它沒什麼特別興趣。不過……當你吐出一嘴被風吹進來的沙子時，你不禁短暫回想起在克羅那（宇宙傳奇 I）的那段冒險。
+You see your feet.	你看到自己的腳。
+What a cute little scorpazoid! Perhaps you should pick it up and take it with you.	好可愛的小蠍角獸！或許你該把牠撿起來帶著走。
+A range of craggy peaks appear on the horizon far to the north. Occasionally, one is struck by lightning.	遠方北方的地平線上，出現一列崎嶇的山峰。偶爾會有山頭被閃電擊中。
+Hmm. The footprints seem to be following you. I wonder who they could belong to.	嗯，這些腳印好像一直跟著你。不知道是誰的腳印。
+You don't see any here.	你看不到這裡有任何東西。
+The worn rocks seem to give evidence of millions of years of fierce sandstorms. Sure hope one of them doesn't come up while you're here.	這些被磨得光滑的岩石，似乎見證了數百萬年來猛烈沙暴的洗禮。真希望你在這裡的時候別遇上一場。
+Yes, those are clouds. I wonder if they contain water vapor, or some highly toxic substance such as ...	沒錯，那些是雲。不知道裡面裝的是水蒸氣，還是某種劇毒物質，例如……
+The mountains are closer now.	山現在離你更近了。
+You don't see any reason to do that.	你想不出有什麼理由要這麼做。
+You don't see any reason to do that. Besides, most of them are too big to carry anyway.	你想不出有什麼理由要這麼做。再說，這些大多數都太大了，你根本搬不動。
+You'll have to get close enough first.	你得先靠近一點才行。
+You can run, but you can't hide.	你可以逃，但躲不掉。
+You might chap your delicate hands since you don't have a shovel.	你沒有鏟子，這麼做可能會弄傷你那雙嬌貴的手。
+You need to get close enough.	你得靠近一點才行。
+That would serve no purpose.	這麼做沒有任何意義。
+You are in	你目前位於
+The invisibility belt is now out of power.	隱形腰帶現在沒電了。
+It's already dead.	牠已經死了。
+It's already off.	它已經關了。
+Where'd he go? I could have sworn... Nah, couldn't be.	他跑去哪了？我發誓我剛剛看到……算了，不可能的。
+You here someone coming toward you.	你聽到有人朝你走來。
+There he is!	他在那裡！
+OH NO! A venomous scorpazoid. Watch out.	糟了！一隻有毒的蠍角獸。小心點。
+The Scorpazoid's stinger hits it's mark sending electro-plasmatic venom into your system. Death comes quickly.	蠍角獸的毒針正中目標，將電漿毒液注入你體內。死亡很快就降臨了。
+Uh Oh!  That detonator has apparently set off a chain reaction of earthquakes.  You'd better get off this rock A.S.A.P.	糟糕！那個引爆器顯然觸發了一連串連鎖地震反應。你最好盡快離開這顆星球，越快越好。
+You find yourself at the base of a seemingly extinct volcano.	你發現自己身處一座看似死火山的山腳下。
+You find yourself at the base of a seemingly extinct volcano.  There is a short range scout ship parked here.  But where is the pilot?	你發現自己身處一座看似死火山的山腳下。這裡停著一艘短程偵察艇，但駕駛員上哪去了？
+The planet Ortega is truly a lava-lovers paradise.   Volcanic activity constantly reshapes it's surface, so if you have any maps older than last week, throw 'em out.	歐特加星球真的是熔岩愛好者的天堂。火山活動不斷重塑星球表面，所以如果你手上的地圖是上星期以前印的，直接丟了吧。
+In the distance, volcanoes spew magma from deep within the molten interior.	遠方的火山，正從熔融的地心深處噴發岩漿。
+Like a river of orange sludge, searing lava flows through the crevasses below you.  Pleasure boating is not recommended.	灼熱的岩漿像一條橘色泥流，在你腳下的裂縫間流淌。不建議在此划船遊玩。
+Throughout the years, many rocks have been deposited in the vicinity by the volcanic activity.	多年來，火山活動在這一帶堆積了不少岩石。
+Like a lake of orange sludge, searing lava flows through the crevasses below you.  Pleasure boating is not recommended.	灼熱的岩漿像一片橘色泥湖，在你腳下的裂縫間流淌。不建議在此划船遊玩。
+The atmosphere has a definite red tint to it from the belching volcanoes and glowing lava.	大氣因為不斷噴發的火山與熾熱岩漿，染上了一層明顯的紅色調。
+The sheer cliffs lead straight down to the searing lava below.  Watch your step.	陡峭的懸崖直通下方灼熱的岩漿。走路小心點。
+The ground is cracked by the constant heating and cooling of this unstable planet.	這顆星球忽冷忽熱、極不穩定，地面因此龜裂遍布。
+The molten lava casts a mysterious glow on the sides of the deep fissures. Watch your step.	熔融的岩漿在深邃裂縫的兩側投下神祕的光芒。走路小心點。
+The smooth walls of the machine have no climbing surfaces.	這台機器的牆面光滑，沒有可以攀爬的地方。
+The smooth walls of the crevices have no climbing surfaces.	裂縫的牆面光滑，沒有可以攀爬的地方。
+Your faithful ship waits patiently for you to return and embark on your interplanetary wanderings.	你忠實的太空船正耐心等你歸來，準備再次展開星際流浪之旅。
+In the distance, your faithful ship waits patiently for you to return and embark on your interplanetary wanderings.	遠方，你忠實的太空船正耐心等你歸來，準備再次展開星際流浪之旅。
+There are no doors on this planet.	這顆星球上沒有門。
+Jumping into boiling lava is not recommended.	不建議跳進滾燙的岩漿裡。
+The ladder is firmly attached to the machine.	這座梯子牢牢固定在機器上。
+There's no ladder around here.	這附近沒有梯子。
+Come on, you've got better things to do than lug rocks around.	拜託，你有更重要的事情要做，不是在這裡搬石頭。
+Don't bother; you'll just get dirty.	別費心了，你只會把自己弄髒而已。
+It has an impact switch, just drop it to set it off.	它裝有撞擊開關，只要丟下去就會引爆。
+It would be a little embarassing to disrobe out here on the planets' surface.  Why not go back to your ship?	在這星球表面脫衣服有點尷尬吧。何不回你的太空船再說？
+Nah, just leave 'em on.	算了，還是穿著吧。
+You're not wearing any shorts.	你沒穿短褲。
+The sharp edges of the cooled lava would slice you to ribbons.  You decide against it.	冷卻熔岩的銳利邊緣會把你割成碎片，你決定還是算了。
+Too late you realize that walking around unprotected on this planet is hazardous to your health.  You feel your blood begin to boil.	你太晚才意識到，在這顆星球上沒有防護裝備到處走動有害健康。你感覺血液開始沸騰。
+You sizzle into oblivion.  This planet wouldn't be so bad if you could keep cool somehow.	你被烤到灰飛煙滅。如果能想辦法保持涼爽，這顆星球其實也沒那麼糟。
+Hate to make you feel stupid, but you're already looking!	不想讓你難堪，但你已經在看了！
+That's the moon, alright!  It's known around these parts as 'Pestulon'.	沒錯，那就是那顆月球！這一帶的人都叫它「佩斯圖倫」。
+No more beam.  You broke it, remember?	光束沒了。你把它弄壞了，記得嗎？
+The force beam forms a protective energy shield around the moon.	力場光束在月球周圍形成一道防護能量護盾。
+It looks like something from an old science fiction movie.	這東西看起來像老科幻電影裡的道具。
+There's nothing to get here.	這裡沒什麼好拿的。
+AHA!!!  You've discovered the force beam generator!   And that moon must be Pestulon.	啊哈！！！你發現了力場光束發生器！那顆月球一定就是佩斯圖倫。
+What is that thing, anyway?  Whatever it is, you busted it real good.	這到底是什麼東西？不管是什麼，你把它砸得挺徹底的。
+What is that thing, anyway?  Maybe it's a TV transmitter, beaming game shows and championship wrestling to all corners of the globe.	這到底是什麼東西？搞不好是電視發射器，把益智節目和摔角冠軍賽播送到全球每個角落。
+Yep, the broken generator's still there.  How many times ya gonna look at it?	沒錯，壞掉的發生器還在那。你到底要看幾次啊？
+Yep, that thing's still there.  But it's not beaming anymore since you broke it.	沒錯，那東西還在。不過自從被你弄壞後就不再發射了。
+Yep, the generator's still there.  How many times ya gonna look at it?	沒錯，發生器還在那。你到底要看幾次啊？
+Yep, that thing's still here.  How many times ya gonna look at it?	沒錯，那東西還在這。你到底要看幾次啊？
+It's junk. You don't need junk. Now, think of something better and let's get on with the game!	那是垃圾。你不需要垃圾。想點更有建設性的事，我們繼續玩遊戲吧！
+I wouldn't mess with them. They look dangerous.	我不會去碰它們，看起來很危險。
+What a great way to die a slow and painful death. As appetizing as that sounds, you wisely opt against it.	這真是慢慢痛苦死去的好方法。聽起來雖然「誘人」，但你明智地打消了念頭。
+How crude.	真粗俗。
+No time for that.	現在沒空做這個。
+You hear nothing of note.	你沒聽到什麼特別的。
+Your taste is in serious question.	你的品味大有問題。
+Ah! You're one of those!	啊！原來你是這種人！
+You'd do more harm than good.	你這樣做只會弄巧成拙。
+There are matters more pressing than debris relocation at this juncture in time. Besides, that stuff looks sharp and heavy. You're no poster child for manual labor.	現在有比搬垃圾更急迫的事。況且那些東西看起來又尖又重，你也不是勞力活的料。
+Your utterance echoes about the metallic confines of the area. No answer is forthcoming.	你的喊聲在金屬牆面間迴盪，沒有得到任何回應。
+Hey! Don't be a baby!	嘿！別像個小屁孩一樣！
+You won't be doing that here.	這裡不能做這件事。
+It won't help you at this time.	現在這樣做沒有幫助。
+You stare at the ceiling which, as usual, is overhead. You see nothing particularly unique about the structure except some kind of track running high above you. It seems to run the length of the freighter.	你抬頭盯著天花板——一如往常，它就在你頭頂上。這結構沒什麼特別的，只是頭頂高處有條軌道，看起來貫穿了整艘貨輪。
+They look like pieces of metal which have been welded together.	它們看起來像是焊接在一起的金屬碎片。
+Not much about it can be learned from down here.	從這裡看不出什麼名堂。
+The steep piles of scrap metal are chock-full of jagged edges and barbed protrusions.	高聳的廢金屬堆滿是鋸齒邊緣和帶刺的突起物。
+You'll find nothing ground-like in this synthetic environment.	在這人造環境裡找不到任何像地面的東西。
+The walls and most other objects in the area seem to be randomly splattered with a zesty brew of coolants, lubricants, propellants, and other types of spaceship squeezings.	這一帶的牆壁和大部分物體上，似乎隨機潑濺著一種辛辣的混合物：冷卻劑、潤滑油、推進劑，以及各種太空船的分泌物。
+All available Light is being ported into the room via a series of vents in the ceiling.	所有的光線都是透過天花板上一連串通風口導進這個房間的。
+Strewn about are the totally gutted carcasses of many a formerly worthy craft.	四處散落著許多曾經風光一時的太空船殘骸，早已被掏空得一乾二淨。
+There are various useless plates of metal scattered about the ship. I wouldn't mess with them.	船上到處散落著各種沒用的金屬板。我不會去碰它們。
+A quick self-appraisal suggests that you are not horribly ugly. You guess you'd be a good catch.	快速自我評估一下，你長得也沒醜到哪去。你猜自己應該算個不錯的對象。
+An inspection of yourself reveals nothing outstanding.	檢查了一下自己，沒發現什麼特別的。
+Are you crazy? You've got adventuring to do.	你瘋了嗎？你還有冒險要忙呢。
+That won't help you now.	這對現在的你沒有幫助。
+That's only helpful in Space Quest II.	那招只有在《宇宙傳奇 II》裡才有用。
+That won't help you.	這對你沒有幫助。
+What do you think you are, a metallic gopher?	你以為自己是什麼，金屬地鼠嗎？
+Unless you are capable of defying artificial gravity, forget it.	除非你能違抗人造重力，不然想都別想。
+Dream on.	作夢吧。
+They are too rigid and heavy for you to manipulate.	它們太硬太重了，你搬不動。
+Sorry. They're welded in place.	抱歉，它們是焊死的。
+You have no effect on the motivator.	你對推進器起不了任何作用。
+WARNING:  Short range fighters approaching from rear.  Weapons lock-on detected.	警告：偵測到短程戰鬥機從後方接近，武器已鎖定。
+You are in the cost-efficient corporate accounting department of ScumSoft, Inc. These hard-working accountants are trying to figure out where the company spends its money.	你在廢渣軟體公司精打細算的會計部門。這群認真的會計正努力搞清楚公司的錢都花到哪去了。
+Just another section in this maze of partitions.	又是這片隔間迷宮裡的另一個區塊。
+The cabinet is locked (regardless, you wouldn't find anything useful).	櫃子鎖著（反正你也找不到什麼有用的東西）。
+Everyone here looks related. It's like a secret society of nerds.	這裡的人看起來都像親戚，簡直像個宅男秘密結社。
+Such a sight.	真是「壯觀」。
+Look but don't touch.	只能看，不能摸。
+Hardly an appropriate action for a janitor.	這不太像清潔工該做的事。
+"Attention Attention: We have a very special birthday today! Our founder Mr. Pug has just turned 14; so stop by and give Elmo a big ol' hug."	「各位請注意注意：今天是個特別的生日！我們的創辦人帕格先生剛滿十四歲，快來給艾爾莫一個大大的擁抱吧。」
+"Attention everyone: Mr. Pug has just announced that Sunday will be a half-day!"	「各位請注意：帕格先生剛剛宣布星期天只上半天班！」
+Mr. Garbage is not a toy!	垃圾先生不是玩具！
+Tsk. Tsk. Such a waste of vaporfuel.	嘖嘖，真是浪費氣化燃料。
+Aren't you taking this janitor-bit a little too seriously?	你把清潔工這件事看得太認真了吧？
+Oops! You missed.	哎呀！你沒打中。
+William Tell you are not.	你可不是威廉泰爾。
+Stand closer -- it's shorter than you think.	站近一點——它比你想的還短。
+You just put a nasty burn mark in the carpet.	你在地毯上留下一道難看的焦痕。
+You're starting to arouse suspicion with your marksmanship.	你的槍法開始讓人起疑了。
+That didn't accomplish much.	那沒什麼用。
+Uh-oh! You're in deep trouble now. These guys know that a real janitor would never bypass a full waste basket.	糟了！你這下麻煩大了。這些傢伙很清楚，真正的清潔工絕不會放過裝滿的垃圾桶不清。
+From your seat you see a handle (presently being gripped by you) which controls motion, and a button marked CLAW.	從你的座位上，你看到一根控制移動的操縱桿（目前正被你握著），還有一個標示著「CLAW（鐵爪）」的按鈕。
+Not with your crank!	光靠你那支搖柄可不行！
+You would be unable to climb safely. Don't even try it.	你沒辦法安全爬上去。想都別想。
+You would be unwise.	那樣做太不明智了。
+It would only result in a death so horrible that the mere description would cause you to revisit your last calorie download.	那種死法慘烈到光用講的，都會讓你把剛下載進肚子裡的熱量全部吐出來。
+Looking down makes you dizzy.	往下看讓你頭暈目眩。
+That's not here to see.	這裡沒有那個東西可看。
+The walls are made of the same composite material as in other locations around this junk-strewn hell-hole.	這些牆壁跟這個垃圾遍地的鬼地方其他角落一樣，都是用相同的複合材料做的。
+The rail is supported by beams hanging from the ceiling. It's probably used by some sort of scrap transport equipment.	這條軌道由天花板垂下來的樑架支撐著，看起來是某種廢料搬運設備在用的。
+The rail is supported by beams hanging from the ceiling. The grabber hangs beneath it.	這條軌道由天花板垂下來的樑架支撐著，下方掛著一個抓取器。
+All available light is being ported into the room via a series of vents in the ceiling.	房間裡所有的光線，都是透過天花板上的一排通風口引進來的。
+Light is pouring in from small vents around the ship.	光線從船身四周的小通風口灑了進來。
+That wouldn't be helpful.	那樣做沒有幫助。
+Leave it alone. It has no human interface capability.	別碰它。它沒有人機互動介面。
+That isn't here.	這裡沒有那個東西。
+Please remain seated while riding the grabber.	搭乘抓取器時請坐好。
+A grimy button on the panel reads "CLAW."	面板上有個髒兮兮的按鈕，寫著「CLAW（鐵爪）」。
+Leave that to the grabber.	那件事交給抓取器處理就好。
+You can't do that yourself.	你自己辦不到那件事。
+Your view of the grabber from here reveals a Forward/Reverse control stick (currently grasped), and a button marked 'CLAW'	從這裡看抓取器，你看到一根前進∕後退控制桿（目前正被握著），還有一個標示著「CLAW（鐵爪）」的按鈕
+That's not necessary.	沒那個必要。
+That wouldn't be safe.	那樣做不安全。
+You aren't able to do that presently.	你現在辦不到那件事。
+That isn't currently one of your options.	那目前不是你能選的選項。
+New save-game directory:	新的存檔目錄：
+%s is not a valid directory	%s 不是有效目錄
+You must type a description for the game.	你必須為遊戲輸入描述。
+File: %s	檔案：%s
+Your save game disk is full. You must either use another disk or save over an existing saved game.	你的存檔磁片已滿。你必須使用另一張磁片或覆蓋現有的存檔。
+That game was saved under a different interpreter. It cannot be restored.	該遊戲是用不同的直譯器存檔的。無法還原。
+I don't understand "%s".	我不懂「%s」。
+That doesn't appear to be a proper sentence.	這似乎不是適當的句子。
+That sentence doesn't make sense.	那句話沒有意義。
+You've left me responseless.	你讓我無言以對。
+Please insert your %s disk in drive %s.	請在 %s 磁碟機中插入你的 %s 軟碟。
+"THE PIRATES OF PESTULON" Created and Written by Mark Crowe and Scott Murphy Programmed by Scott Murphy, Doug Oldfield, Ken Koch, Chris Smith Graphics by Mark Crowe Development System by Jeff Stephenson, Bob Heitman, Pablo Ghenis, Stuart Goldstein Music by Bob Siebenberg Sound FX & Music Editing by Mark Seibert Version %s	「PESTULON 的海盜」創作與編劇：馬克·克羅(Mark Crowe)與史考特·墨菲(Scott Murphy) 程式設計：史考特·墨菲、道格·奧德菲爾德(Doug Oldfield)、肯·科克(Ken Koch)、克里斯·史密斯(Chris Smith) 美術：馬克·克羅 開發系統：傑夫·史蒂芬森(Jeff Stephenson)、鮑伯·海特曼(Bob Heitman)、帕布羅·蓋尼斯(Pablo Ghenis)、史都華·戈德斯坦(Stuart Goldstein) 音樂：鮑伯·西本柏格(Bob Siebenberg) 音效與配樂剪輯：馬克·賽伯特(Mark Seibert) 版本 %s
+      DURING THE GAME: Click at the top of the screen or press ESC to use the menus. Additional shortcuts are shown there.       IN TYPING WINDOWS: Arrows, Home and End move the cursor, or click anywhere with the mouse. Ctrl-C clears the line.       IN DIALOG WINDOWS: Enter selects the outlined item, or click on items with the mouse. Tab and Shift-Tab move between choices. ESC always cancels. 	      遊戲進行中：點擊螢幕上方或按 ESC 開啟選單，選單中會顯示更多快捷鍵。       輸入視窗中：方向鍵、Home 和 End 可移動游標，也可用滑鼠點擊任意位置；Ctrl-C 可清除整行文字。       對話視窗中：Enter 選取框選項目，也可用滑鼠點擊項目；Tab 與 Shift-Tab 可在選項間切換；ESC 一律取消。
+Sorry. Not now.	抱歉，現在不行。
+You either just got snuffed or you can't get enough of a truly great game. Am I right?	你要不是剛剛掛掉，就是玩到欲罷不能——我說得沒錯吧？
+Leaving so soon? We'll be anxiously (yawn) awaiting your next visit. Be seeing you.	這麼快就要走了？我們會（打哈欠）殷切期盼你下次再來。回頭見。
+Fine. Pause. Just don't be taking too long, OK? We don't want any babies playing this game.	好啦，暫停。別拖太久喔，我們可不希望有寶寶跑來玩這款遊戲。
+Oh. I get it. You don't want your boss to know you've been playing Space Quest ]I[.	喔，我懂了。你是不想讓老闆知道你在玩《宇宙傳奇 III》。
+That's a good idea but I'm afraid that, being the good company men that we are, we can't help you cheat like that. Sorry.	這主意不錯，但我們畢竟是奉公守法的公司員工，恐怕沒辦法幫你這樣作弊。抱歉。
+%s [Collection of size %d]	%s [集合大小 %d]
+%s [List of size %d]	%s [列表大小 %d]
+%s [Set of size %d]	%s [集合大小 %d]
+Turn Off	關閉
+Turn On	開啟
+Deceleration Trauma	減速創傷
+It wouldn't be so bad, except for the sudden stop at the end.  Next time, don't get so close to the edge.	過程其實還好，只是最後那突然的煞停有點要命。下次別靠邊緣那麼近。
+New, Improved Quick Tanning Method	全新加強版、快速曬黑法
+You never did care for fondue.  Next time, don't get so close to the edge.	你向來就不愛吃起司鍋。下次別靠邊緣那麼近。
+Rats!	該死！
+You may not be Purina Rat Chow, but you'll do!	你雖然不是普瑞納鼠糧，但也將就著吃吧！
+It Slices, It Dices...	又切又剁……
+You're a less-than-choice cut, Wilco!	威爾科，你這下可不是什麼上等肉了！
+Decompression Blues	減壓憂鬱
+Sudden Decompression Sucks!	瞬間減壓真的有夠慘！
+A Slimmer, Trimmer You!	更瘦、更精實的你！
+A quick, but painful, way to shed those extra inches.	快速甩掉多餘體重的方法，只是有點痛。
+Learn to Drive That Thing!	學著開那玩意兒吧！
+Your radar is designed to avoid just such an occurrence.	你的雷達本來就是設計來避免這種事發生的。
+One Way to Lower Your Blood Pressure.	降血壓的其中一招。
+A brave but fatal attempt at arterial art.	一次勇敢卻致命的「動脈藝術」嘗試。
+You have taken the big plunge.	你縱身一跳，一路到底。
+That's one small step for man... One giant leap for janitor-kind.	這是人類的一小步……卻是清潔工界的一大步。
+Sunbathing Not Recommended	不建議日光浴
+It's so hot you could fry a Vorlian phlegmsnake egg.	這裡熱到可以拿來煎沃利安痰蛇蛋了。
+Don't Trust Guys in Black Spacesuits	別相信穿黑色太空衣的傢伙
+A pulselaser blast to the forehead is not your idea of fun.  Fortunately, it didn't hit anything important.	一發脈衝雷射正中額頭，這可不是你想要的娛樂。還好，沒打到什麼重要的部位。
+Down for the Count	一拳倒地
+Better hang out at the gym more often.	你該多去健身房走走了。
+Hole In One!	一桿進洞！
+Hope you enjoy your new flow-through ventilation system.	希望你喜歡你這套全新的「穿孔通風系統」。
+Just Like Mom Used to Make	就像媽媽做的一樣
+As your life sputters to a close, you decide to cut down on desserts.	就在生命即將油盡燈枯之際，你決定以後要少吃點甜點。
+Be More Careful With Explosives	玩爆裂物請小心一點
+Didn't mom always tell you not to play with firecrackers?	媽媽不是一直叫你別玩鞭炮嗎？
+Congratulations On Your Recent Death !	恭喜你，你剛剛死掉了！
+Thanks for playing Space Quest ]I[. As usual, you've been a real hoot.	感謝你遊玩《宇宙傳奇 III》。一如既往，你這下真是笑翻全場。
+Restore	恢復
+Restart	重新開始
+    Quit    	離開
+Debug	除錯
+Teleport to:	傳送到：
+Inv. Object	庫存物件
+Owner	擁有者
+Glowing Gem	發光寶石
+You are still carrying the piece of orium you picked up on Labion during your last adventure. However, it has long since lost its glow.	你身上還帶著上次冒險在拉比昂星撿到的那塊歐瑞姆礦石，不過它早就不再發光了。
+It's a piece of SQ-approved electrical wire.	這是一條經過 SQ 認證的電線。
+Ladder	梯子
+This is a ladder. The evenly spaced rungs allow altitude adjustment.	這是一把梯子，等距排列的踏階可以讓你調整高度。
+Reactor	反應爐
+This is an auxiliary reactor.	這是一座輔助反應爐。
+Orat on a Stick	串烤歐拉獸
+Orat on a Stick! You can open his mouth, and close his mouth! Hours of fun for all!	串烤歐拉獸！你可以打開牠的嘴巴，也可以闔上牠的嘴巴！大人小孩都能玩上好幾個小時！
+ThermoWeave Underwear	熱織內衣褲
+ThermoWeave Shorts.  They keep you cool, and they're oh, so stylish.	熱織短褲，讓你涼爽消暑，而且非常時髦。
+Astro Chicken Flight Hat	太空雞飛行帽
+Wow! Your Official Astro Chicken Flight Hat!  Man, the babes'll really dig you in this!	哇！你的太空雞官方飛行帽！老兄，戴上這頂，妹子肯定為你神魂顛倒！
+Monolith Decoder Ring	巨石解碼戒指
+With this ring, you can decode any secret message!  Well, almost any secret message.	戴上這只戒指，你可以破解任何秘密訊息！呃，是幾乎任何秘密訊息啦。
+Buckazoids	太空幣
+Metal Pole	金屬棍
+A handy metal pole.	一根好用的金屬棍。
+Thermal Detonator	熱能爆破器
+Used for blowing stuff to little bits.   It has an impact switch, so in other words...DON'T DROP IT!	用來把東西炸得粉碎的。它裝有觸發開關，換句話說……千萬別把它摔在地上！
+Keycard	門卡
+Elmo Pug's personal keycard for opening locked doors.	艾爾莫·帕格的私人門卡，用來打開上鎖的門。
+Coveralls	連身工作服
+A pair of janitor's coveralls. Used for looking the part.	一套清潔工的連身工作服，穿上就有模有樣。
+Vaporizer	氣化槍
+Mr. Garbage: a janitor's best friend. Designed to vaporize all nonorganic biodegradable matter (i.e. trash).	垃圾先生：清潔工最好的朋友。專門設計來氣化所有非有機可分解物質（也就是垃圾）。
+Elmo's picture	艾爾莫的照片
+A fine likeness of Elmo Pug's mug. Elmo Pug is the dashing young owner of ScumSoft, Inc.	一張艾爾莫·帕格尊容的精美畫像。艾爾莫·帕格是廢渣軟體公司英俊瀟灑的年輕老闆。
+a copy of Elmo's picture	一張艾爾莫照片的複本
+A fine likeness of a likeness of Elmo Pug's mug.	一張艾爾莫·帕格畫像的畫像的精美複本。
+Invisibility Belt	隱形腰帶
+Terminator's invisibility belt.	魔鬼終結者的隱形腰帶。
+Bag of Fast Food	一袋速食
+A bag chock-full of gastric delights!	一袋裝滿讓你胃口大開的美食！
+Created and Written by	製作與撰寫
+Mark Crowe and Scott Murphy	馬克·克羅威與史考特·墨菲
+hero in suspended animation.	英雄陷入暫停生命的冬眠之中。
+...but not for long.	……但不會太久。
+Scott	史考特
+Space	太空
+Phleebhut	弗利布特
+Ortega	歐特加
+Pestulon	佩斯圖倫
+a tiny reactor which seems to be providing power for the lights and a formerly lustrous gem	一座似乎在為燈光供電的小反應爐，以及一顆曾經閃閃發亮的寶石
+a tiny reactor which seems to be providing power for the lights and an unconnected wire	一座似乎在為燈光供電的小反應爐，以及一條未接上的電線
+a formerly lustrous gem, and an unconnected wire	一顆曾經閃閃發亮的寶石，以及一條未接上的電線
+a tiny reactor which seems to be providing power for the lights	一座似乎在為燈光供電的小反應爐
+an unconnected wire	一條未接上的電線
+a formerly lustrous gem	一顆曾經閃閃發亮的寶石
+nothing but crusty wire ends	只剩下結痂般的電線頭
+Depleted	耗盡
+Whining	哀鳴
+Welcome	歡迎
+Bully	好極了
+Actions	動作
+Looking closely, you notice that the terminator's invisibility belt has survived relatively intact.	仔細一看，你發現魔鬼終結者的隱形腰帶居然相對完好無損地保存了下來。
+Stay Here	留在這裡
+Return to Ship	返回太空船
+Enter ScumSoft	進入廢渣軟體
+the Boss	老大
+and speed are lost.	速度也一併盡失。
+Suddenly...	突然間……
+out of the blackness into a parallel universe.	從一片黑暗之中，墜入了一個平行宇宙。
+and hope for the best.	只能祈禱最好的結果。
+you near a seemingly habitable planet.	你逐漸接近一顆看似適合居住的星球。
+Roger	羅傑
+Ken Williams	肯·威廉斯
+Scott and Mark	史考特與馬克
+Cooperation In The Making Of This Game:	參與本遊戲製作：
+Pestulon Department of Forestry	佩斯圖倫林務局
+Monolith Synthetic Industries, Inc.	巨石人工合成工業股份有限公司
+Fester's World-O-Wonders	費斯特的奇觀世界
+Gippazoid Novelties	吉帕佐怪奇雜貨
+Phleebhut Sand Advisory Council	弗利布特沙務顧問委員會
+Arnoid Droidworks	阿諾德機器人工廠
+Caffeinate 90	咖啡因90
+OrboSnack Food Inhalers	歐博零食吸入器
+Friends of the Talking Bear Society	會說話熊之友社
+For Their Outstanding Sound Work	感謝他們傑出的音效製作
+For A Great Programming Effort	感謝了不起的程式設計投入
+For His Generous, Yet Verbose, Contribution of Advice, Help & Emergency Code Service	感謝他慷慨(卻又話多)的建議、協助與緊急程式救援服務
+Very Special Thanks to	特別感謝
+For Putting Up With Us These Last 12 Months	感謝過去這 12 個月忍受我們
+(For Shelling Out Your Hard Earned Bucks To Buy This Game)	(感謝你砸下辛苦錢買下這款遊戲)
+Dialog	對話
+Controls	操控
+Wander	漫步
+Follow	跟隨
+Chase	追趕
+Timer	計時器
+Avoid	迴避
+Normal	普通
+Cancel	取消
+Gauge	量表
+Extra	擴展
+Sound	音效
+  Save  	  儲存
+Replace	替換
+Select the game that you would like to restore.	選擇你想要讀取的遊戲。
+Type the description of this saved game.	輸入這個存檔遊戲的描述。
+This directory/disk can hold no more saved games. You must replace one of your saved games or use Change Directory to save on a different directory/disk.	這個目錄/磁碟已無法儲存更多遊戲。你必須替換其中一個存檔遊戲，或使用「改變目錄」在不同的目錄/磁碟上儲存。
+Restore a Game	讀取遊戲
+Save a Game	儲存遊戲
+Save	  儲存
+ Cancel 	取消
+with:	使用：
+Cycle	循環
+Motion	動作
+controls	控制設定
+Change Directory	變更目錄
+You are carrying:	你身上帶著：
+You are carrying nothing!	你什麼也沒帶！
+Enter input	輸入資料
+ Action 	 動作
+ Speed 	 速度 
+ Sound 	音效
+Bailing Out?	要開溜了嗎？
+Quit	離開
+This game is paused.	遊戲已暫停。
+Ok. I'm back.	好，我回來了。
+In fact, you don't want your boss to know that you've been playing Space Quest ]I[ for %d hours, %d minutes and %d seconds.	事實上，你不會希望老闆知道，你已經玩了 %d 小時 %d 分 %d 秒的宇宙傳奇 ]I[。
+Speed (1 - 16)?	速度 (1 - 16)？
+Volume (1 - 16)?	音量 (1 - 16)？
+Collect	收集
+Script	指令檔
+Event	事件
+SQ3_CHT_HELP	宇宙傳奇 III 操作說明\n本作用鍵盤打「英文」指令來玩\n（動詞＋名詞）\nlook看 get拿 open開 use用\ntalk交談 give給 push推\n例：get chip（拿晶片）\n移動：方向鍵或滑鼠\nF5存檔 F7讀檔 F1叫出本說明\n更多指令請見隨附中文手冊\n（按任意鍵關閉）
