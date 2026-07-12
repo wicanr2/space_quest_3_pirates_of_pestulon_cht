@@ -1,7 +1,9 @@
-# 宇宙傳奇 III：Pestulon 的海盜 — 繁體中文化
+# 宇宙傳奇 III：佩斯圖倫的海盜 — 繁體中文化
 
 > Space Quest III: The Pirates of Pestulon（1989, Sierra On-Line）SCI0 EGA 版
 > ScummVM 繁體中文化 · patch-only
+
+**▶ 推廣影片：<https://youtu.be/D82XziOPh0k>**
 
 ![中文標題](screenshots/title_cht.png)
 
