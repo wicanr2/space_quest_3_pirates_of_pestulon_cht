@@ -127,3 +127,10 @@
 - MT-32 ROM：/home/anr2/cht/mt32/MT32_CONTROL.1987*.ROM + MT32_PCM.ROM
 - scummvm-win/ 樹已建（556M，含 SQ3 改動）；scummvm-src/ 已編（含 SQ3 改動）
 - pinned upstream：patches/UPSTREAM_COMMIT.txt = 3d408ec
+
+## v1.2（2026-07-30）
+
+- [x] 系列譯名稽核修正（Labion 三種寫法統一「拉比恩」、Space Quest 系列名「太空傳奇」→「宇宙傳奇」、orium 統一「歐利姆」、Terror Beast 對齊二代「恐懼獸」），修在 `translation/converge.tsv` 全域收斂表
+- [x] 重跑 build_translation.sh、同步 dist-cht、重打三平台 patch 包（macOS 走 CI）
+- [x] Release v1.2（AppImage／win64 zip／macOS tar.gz＋dmg），v1.1 保留
+- [x] 打包腳本的 docker image 改成 BUILD_IMG／MINGW_IMG 可覆蓋（原本寫死已不存在的 qfg1-build）
