@@ -134,3 +134,9 @@
 - [x] 重跑 build_translation.sh、同步 dist-cht、重打三平台 patch 包（macOS 走 CI）
 - [x] Release v1.2（AppImage／win64 zip／macOS tar.gz＋dmg），v1.1 保留
 - [x] 打包腳本的 docker image 改成 BUILD_IMG／MINGW_IMG 可覆蓋（原本寫死已不存在的 qfg1-build）
+
+## v1.2.1（2026-07-30）
+
+- [x] 再收斂兩項一代專有名詞：Kerona「克羅納」→「柯羅娜」、Orat「歐拉獸」→「歐拉特」（皆依 SQ4 基準）
+- [x] 四包重打 + macOS CI 重跑，Release v1.2.1
+- 教訓：稽核詞表照三、四代劇情列，漏掉只在回憶／食物梗裡順口提起的**一代**名詞。列詞表時要把系列全作的專有名詞都涵蓋。
