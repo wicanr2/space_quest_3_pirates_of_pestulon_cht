@@ -5,6 +5,11 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"          # /home/anr2/scummvm/space_quest3/workplace
 REPO_ROOT="$(cd "$ROOT/.." && pwd)"                # /home/anr2/scummvm/space_quest3
+# build/打包用的 docker image 可用環境變數覆蓋：原本寫死 qfg1-build:latest，
+# 那是當初從 QFG1 專案沿用的建置 image，機器上不一定還在（清過就沒了）。
+# 這幾步（strip / ldd 收集 .so / appimagetool）不挑 image，任何同世代的 Debian
+# 建置 image 都能用，所以留一個出口而不是寫死。
+BUILD_IMG="${BUILD_IMG:-qfg1-build:latest}"
 source "$ROOT/tools/pkg_common.sh"
 
 STAGE="$ROOT/build/appimg-patch"
@@ -17,14 +22,14 @@ rm -rf "$APPDIR"; mkdir -p "$APPDIR/usr/bin" "$APPDIR/usr/lib" "$APPDIR/usr/shar
 
 echo ">> 複製 scummvm + strip"
 cp "$ROOT/scummvm-src/scummvm" "$APPDIR/usr/bin/scummvm"
-docker run --rm --name sq3-pkg-patch-strip -v "$APPDIR/usr/bin:/b" qfg1-build:latest strip /b/scummvm 2>/dev/null || true
+docker run --rm --name sq3-pkg-patch-strip -v "$APPDIR/usr/bin:/b" "$BUILD_IMG" strip /b/scummvm 2>/dev/null || true
 
 echo ">> 收集共享庫(qfg1-build 內 ldd,排除 glibc 核心)"
 docker run --rm --name sq3-pkg-patch-libs \
   -v "$APPDIR/usr/bin/scummvm:/collect/bin:ro" \
   -v "$APPDIR/usr/lib:/collect/out" \
   -v "$ROOT/tools/pkg_collect_libs.py:/collect/collect.py:ro" \
-  -w /collect qfg1-build:latest python3 collect.py bin out
+  -w /collect "$BUILD_IMG" python3 collect.py bin out
 echo "   $(ls "$APPDIR/usr/lib" | wc -l) 個 .so"
 
 echo ">> 放入中文化資料(patch-only,不含遊戲)"
@@ -64,7 +69,7 @@ ln -sf sq3-cht.png "$APPDIR/.DirIcon"
 rm -f "$OUT"
 echo ">> appimagetool 打包(--appimage-extract-and-run 免 FUSE)"
 docker run --rm --name sq3-pkg-patch-appimagetool -v "$STAGE:/stage" -v "$ROOT/tools/.cache:/cache:ro" -e ARCH=x86_64 -w /stage \
-  qfg1-build:latest bash -c "apt-get update -qq >/dev/null && apt-get install -y -qq file >/dev/null && \
+  "$BUILD_IMG" bash -c "apt-get update -qq >/dev/null && apt-get install -y -qq file >/dev/null && \
     /cache/appimagetool-x86_64.AppImage --appimage-extract-and-run 'AppDir' '/stage/$(basename "$OUT")'"
 mv "$STAGE/$(basename "$OUT")" "$OUT"
 chmod +x "$OUT"
