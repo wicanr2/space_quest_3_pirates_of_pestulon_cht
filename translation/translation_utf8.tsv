@@ -567,7 +567,7 @@ Kids are always welcome at the World o' Wonders tourist haven, but if you break 
 Dad's pleased with his keen bargaining skills. "Boy, I sure got some good deals! This is some REAL high quality stuff!"	老爸對自己精明的殺價功力頗為得意。「哇塞，我可撿了不少便宜！這些東西品質真是沒話說！」
 Obviously the friendly proprietor of this establishment. He certainly has an honest face.	顯然是這家店和藹可親的老闆，一臉老實樣。
 Sooo... this is Roger Wilco, the man I have been sent across the universe to track down and terminate. I am not impressed. You were too easy to find. You tend to leave a mess wherever you go.	哦……原來這就是羅傑·威爾科，那個我千里迢迢跨越宇宙前來追殺的傢伙。沒什麼好印象。你太好找了，走到哪都留下一團爛攤子。
-Seems you forgot to pay for that Labionian Terror Beast mating call whistle. Now let's see ... with interest that comes to 400,000 buckazoids. I don't think you've got that kind of cash on you Hmm? No... I didn't think so.	看來你忘了付那支拉比翁恐怖獸求偶哨的錢。讓我算算……連本帶利一共是四十萬元太空幣。我猜你身上沒帶這麼多現金吧？嗯？沒有……我猜也是。
+Seems you forgot to pay for that Labionian Terror Beast mating call whistle. Now let's see ... with interest that comes to 400,000 buckazoids. I don't think you've got that kind of cash on you Hmm? No... I didn't think so.	看來你忘了付那支拉比恩恐懼獸求偶哨的錢。讓我算算……連本帶利一共是四十萬元太空幣。我猜你身上沒帶這麼多現金吧？嗯？沒有……我猜也是。
 The good people at the Gippazoid Novelty Co. are most displeased. Nonpayment is a serious offense.	吉帕佐德新奇玩意公司的好心員工們可不太高興。賴帳可是重罪。
 But lucky for you I'm in a good mood today. I will count to ten real slow then I track you down. If you make it to your ship I forget I see you. But if I catch you again..... I dust you like bundt cake.	但算你走運，我今天心情不錯。我會慢慢數到十，之後才追你。你要是趕得回船上，我就當沒看見你。但要是再讓我逮到你……我就把你磨成邦特蛋糕上的糖粉。
 You realize how ridiculous you look and remove the hat.	你意識到自己戴著這頂帽子有多蠢，於是把它摘了下來。
@@ -891,8 +891,8 @@ How about you two guys coming to work for me?	你們兩個要不要來幫我做�
 Sounds great! How many buckazoids does it pay?	聽起來不錯！薪水有多少太空幣？
 Buckazoids?	太空幣？
 Say... Uh...Mr. Williams. Do you need a janitor?	那個……呃……威廉斯先生。你缺清潔工嗎？
-As our space saga comes to a close, Roger, feeling a little left out, struts off to his ship with the satisfaction of knowing his mission has been accomplished.	隨著這段太空傳奇即將落幕，羅傑雖然有點被冷落，仍帶著任務圓滿達成的滿足感，昂首闊步走回自己的太空船。
- The Two Guys from Andromeda go on to create the Space Quest series of adventure games reaping fame and fortune. They grow fat on their success and soon become burnt out and begin a drunken tailspin into obscurity.	 仙女座雙傑後來創作了《太空傳奇》系列冒險遊戲，名利雙收。他們在成功中養尊處優，很快便江郎才盡，開始醉醺醺地一路沉淪，逐漸被世人遺忘。
+As our space saga comes to a close, Roger, feeling a little left out, struts off to his ship with the satisfaction of knowing his mission has been accomplished.	隨著這段宇宙傳奇即將落幕，羅傑雖然有點被冷落，仍帶著任務圓滿達成的滿足感，昂首闊步走回自己的太空船。
+ The Two Guys from Andromeda go on to create the Space Quest series of adventure games reaping fame and fortune. They grow fat on their success and soon become burnt out and begin a drunken tailspin into obscurity.	 仙女座雙傑後來創作了《宇宙傳奇》系列冒險遊戲，名利雙收。他們在成功中養尊處優，很快便江郎才盡，開始醉醺醺地一路沉淪，逐漸被世人遺忘。
 And so we bid our hero a fond farewell as his ship once again bursts into light speed... course unknown.	就這樣，我們的英雄再度駕船衝上光速……航向未知，讓我們向他依依道別。
 Well, it looks like you've depleted your power.  The last thing you see is your blood slowly spreading across the arena floor.	看來你的能量已經耗盡了。你看到的最後一幕，是自己的血緩緩在競技場地板上蔓延開來。
 You and the Two Guys are separated and escorted away.  A door opens and you are led into the dark unknown.	你和仙女座雙傑被分開押走。一扇門打開，你被帶進一片黑暗未知之中。
@@ -1242,7 +1242,7 @@ view: %d loop: %d cel: %d posn: %d %d pri: %d OnControl: $%x Origin on: $%x	view
 Inv. Object	庫存物件
 Owner	擁有者
 Glowing Gem	發光寶石
-You are still carrying the piece of orium you picked up on Labion during your last adventure. However, it has long since lost its glow.	你身上還帶著上次冒險在拉比昂星撿到的那塊歐瑞姆礦石，不過它早就不再發光了。
+You are still carrying the piece of orium you picked up on Labion during your last adventure. However, it has long since lost its glow.	你身上還帶著上次冒險在拉比恩星撿到的那塊歐利姆礦石，不過它早就不再發光了。
 It's a piece of SQ-approved electrical wire.	這是一條經過 SQ 認證的電線。
 Ladder	梯子
 This is a ladder. The evenly spaced rungs allow altitude adjustment.	這是一把梯子，等距排列的踏階可以讓你調整高度。
